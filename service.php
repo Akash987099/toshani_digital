@@ -113,7 +113,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-6">
                   <!-- BBPS Services -->
                   <div class="bg-white rounded-lg shadow-md p-4">
-                    <img src="images/AEPS.JPG" alt="BBPS Icon" class="w-full mb-4">
+                    <img src="images/AEPS.jpg" alt="BBPS Icon" class="w-full mb-4">
                     <h3 class="text-red-600 text-lg font-bold mb-4">AePS</h3>
                     <p class="text-gray-700 mb-2">
                         A POS terminal is a machine installed at Merchant Establishments which enables the merchants to accept payments through payment cards (credit cards, debit cards, gift cards etc.). The installation of a POS device at the retail location minimises cash handling and increase sales for the retailer by allowing for more payment options. Customers can make cash free purchases conveniently.
