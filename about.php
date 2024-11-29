@@ -9,7 +9,7 @@
         class="max-w-screen-lg mx-auto px-4 flex flex-col justify-center items-center sm:px-8 lg:grid lg:grid-cols-2 lg:gap-x-8"
       >
         <div class="xl:text-right">
-          <img class="inline" src="images/bank.jpg" alt="alternative" />
+          <img class="inline" src="images/atm-1.jpg" alt="alternative" />
         </div>
 
         <div class="xl:mr-12">
