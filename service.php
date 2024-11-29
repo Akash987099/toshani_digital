@@ -300,7 +300,7 @@
                           </ul>  
                     </div>
                     <div class="xl:text-right">
-                        <img class="inline" src="images/AWS-ATM.jpg" alt="alternative" />
+                        <img class="inline" src="icon/image/kiso.png" alt="alternative" />
                     </div>
                 </div> <!-- end of container -->
             </header>
