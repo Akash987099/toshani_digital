@@ -204,14 +204,14 @@
                 >
                   <li class="mb-2 text-sm">
                     <a href="index.html" class="hover:text-red-500 duration-300"
-                      >aryawebcoding@233gmail.com</a
+                      >info@awsconnect.in</a
                     >
                   </li>
                   <li class="mb-2 text-sm">
                     <a
                       href="service.html"
                       class="hover:text-red-500 duration-300"
-                      >+91 7906948573</a
+                      >+120 433 2909</a
                     >
                   </li>
                 </ul>
@@ -226,7 +226,7 @@
                   class="text-gray-500 text-left dark:text-gray-400 font-medium"
                 >
                   <li class="mb-2 text-sm">
-                    Delhi, Gurgaon, Solan (HP), Thane (Mumbai)
+                    B-3 Sector 02 Noida 2201301
                   </li>
                 </ul>
               </div>
