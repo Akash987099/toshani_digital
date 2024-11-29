@@ -9,12 +9,12 @@
         <div class="xl:mr-12">
           <p class="p-title">Aws Connect</p>
           <h1 class="h1-large mb-5">
-          About Aws Connect And Innovative Solutions
+          Financial Services & Consulting
           </h1>
           <p class="p-large mb-8">
-          Aws Nextstep Pvt.ltd was established in 2020 as a Technology company. Within a decade it has grown to become a flagship distribution organization in Digital financial Inclusion of “Bharat”. Aws Nextstep offers smart and sustainable technology solutions that are easily applicable and adaptable across industries. We welcome fresh ideas into our organization for growth of Aws Nextstep. We adopt an integral approach toward solutions and use the simplest knowledge-sharing methodologies to nature an environment of growth
-
-We aggregates various financial services and provides to 500 Mn people at bottom half of pyramid through a network of retailers acquired in bulk via Corporate tie-ups. Cash deposit, Cash withdrawal, Insurance, loan, etc. Rural population need assisted self-service and assisted full-service options. Mobile based organisations, kiosk based organizations, both in rural and urban India...
+          Focussed on Nex-Gen API Banking Solutions, offering a Unified Open API Platform. end to end solution for IT based developmental projects, Financial Inclusion, e-governance, skill development , banking, citizen services.
+          <br>
+          Digital integration is a key to success, our self service banking solutions are tailored to help you drive branch efficiency and grow your revenue. Let’s work together to transform your business and shift the existing banking paradigm.
           </p>
           <a
             class="btn-solid-lg secondary"
