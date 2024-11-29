@@ -65,7 +65,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
                   <!-- BBPS Services -->
                   <div class="bg-white rounded-lg shadow-md p-6">
-                    <img src="images/POS2.JPG" alt="BBPS Icon" class="w-full mb-4">
+                    <img src="images/POS2.jpg" alt="BBPS Icon" class="w-full mb-4">
                     <h3 class="text-red-600 text-lg font-bold mb-4">BBPS Services</h3>
                     <p class="text-gray-700 mb-2">
                       Toshani enables its retailers to accept payments for all utility bills such as water, electricity, gas, and broadband through the Bharat Bill Payment System (BBPS). 
@@ -77,7 +77,7 @@
             
                   <!-- Aadhar Pay -->
                   <div class="bg-white rounded-lg shadow-md p-6">
-                    <img src="images/QR-Codes.JPG" alt="Aadhar Pay Icon" class="w-full mb-4">
+                    <img src="images/QR-Codes.jpg" alt="Aadhar Pay Icon" class="w-full mb-4">
                     <h3 class="text-red-600 text-lg font-bold mb-4">Quick Response (QR)</h3>
                     <p class="text-gray-700">
                         The growing usage of smartphones and internet has led to the payments industry in India undergoing and experiencing a sharp surge in QR Code-based payment solutions. Only accepting purpose B2B.    
