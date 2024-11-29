@@ -58,11 +58,11 @@
         class="sm:px-4 lg:px-8 py-5 flex flex-wrap bg-white items-center justify-between lg:flex-nowrap shadow-lg"
       >
         <!-- Text Logo - Use this if you don't have a graphic logo -->
-        <!-- <a class="text-gray-800 font-semibold text-3xl leading-4 no-underline page-scroll" href="index.html">Pavo</a> -->
+        <!-- <a class="text-gray-800 font-semibold text-3xl leading-4 no-underline page-scroll" href="index.php">Pavo</a> -->
         <!-- Image Logo -->
         <a
           class="inline-block mr-4 py-0.5 text-xl whitespace-nowrap hover:no-underline focus:no-underline"
-          href="index.html"
+          href="index.php"
         >
           <img src="images/logo.svg" alt="alternative" class="h-8" />
         </a>
@@ -85,15 +85,15 @@
             class="pl-0 mt-3 mb-2 ml-auto flex text-sm flex-col list-none lg:mt-0 lg:mb-0 lg:flex-row"
           >
             <li>
-              <a class="nav-link page-scroll active" href="index.html"
+              <a class="nav-link page-scroll active" href="index.php"
                 >Home <span class="sr-only">(current)</span></a
               >
             </li>
             <li>
-              <a class="nav-link page-scroll" href="/about.html">About Us</a>
+              <a class="nav-link page-scroll" href="/about.php">About Us</a>
             </li>
             <li>
-              <a class="nav-link page-scroll" href="service.html">services</a>
+              <a class="nav-link page-scroll" href="service.php">services</a>
             </li>
 
             <li class="dropdown">
@@ -158,7 +158,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-18cb473 ekit_badge_left"
-                                    href="/Financial-APIs/#1"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#1"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -172,7 +172,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-3b0de6f ekit_badge_left"
-                                    href="http://localhost/toshani_digital/Financial-APIs/#2"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#2"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -186,7 +186,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-2517b40 ekit_badge_left"
-                                    href="http://localhost/toshani_digital/Financial-APIs/#3"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#3"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -200,7 +200,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-195fca0 ekit_badge_left"
-                                    href="http://localhost/toshani_digital/Financial-APIs/#4"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#4"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -214,7 +214,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-7a6493b ekit_badge_left"
-                                    href="http://localhost/toshani_digital/Financial-APIs/#5"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#5"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -229,7 +229,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-794238a ekit_badge_left"
-                                    href="http://localhost/toshani_digital/Financial-APIs/#6"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#6"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -244,7 +244,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-eb227c5 ekit_badge_left"
-                                    href="http://localhost/toshani_digital/Financial-APIs/#7"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#7"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -258,7 +258,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-dd24844 ekit_badge_left"
-                                    href="http://localhost/toshani_digital/Financial-APIs/#8"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#8"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -272,7 +272,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-c61ff1e ekit_badge_left"
-                                    href="http://localhost/toshani_digital/Financial-APIs/#9"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#9"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -286,7 +286,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-a745937 ekit_badge_left"
-                                    href="http://localhost/toshani_digital/Financial-APIs/#10"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#10"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -300,7 +300,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-01661ec ekit_badge_left"
-                                    href="http://localhost/toshani_digital/Financial-APIs/#11"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#11"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -314,7 +314,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-ec5e109 ekit_badge_left"
-                                    href="http://localhost/toshani_digital/Financial-APIs/#12"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#12"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -328,7 +328,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-987f04e ekit_badge_left"
-                                    href="http://localhost/toshani_digital/Financial-APIs/#13"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#13"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -342,7 +342,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-13302ec ekit_badge_left"
-                                    href="http://localhost/toshani_digital/Financial-APIs/#14"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#14"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -356,7 +356,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-115c373 ekit_badge_left"
-                                    href="http://localhost/toshani_digital/Financial-APIs/#15"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#15"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -370,7 +370,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-046db40 ekit_badge_left"
-                                    href="http://localhost/toshani_digital/Financial-APIs/#16"
+                                    href="https://demo.aryawebcoding.xyz/Financial-APIs/#16"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -439,7 +439,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-18cb473 ekit_badge_left"
-                                    href="/verification-apis/#1"
+                                    href="https://demo.aryawebcoding.xyz/verification-apis/#1"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -453,7 +453,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-8190a32 ekit_badge_left"
-                                    href="/verification-apis/#2"
+                                    href="https://demo.aryawebcoding.xyz/verification-apis/#2"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -467,7 +467,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-1d27f93 ekit_badge_left"
-                                    href="/verification-apis/#3"
+                                    href="https://demo.aryawebcoding.xyz/verification-apis/#3"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -481,7 +481,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-8a6d7c2 ekit_badge_left"
-                                    href="/verification-apis/#4"
+                                    href="https://demo.aryawebcoding.xyz/verification-apis/#4"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -495,7 +495,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-3601434 ekit_badge_left"
-                                    href="/verification-apis/#5"
+                                    href="https://demo.aryawebcoding.xyz/verification-apis/#5"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -509,7 +509,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-681ff9a ekit_badge_left"
-                                    href="/verification-apis/#6"
+                                    href="https://demo.aryawebcoding.xyz/verification-apis/#6"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -524,7 +524,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-4e24402 ekit_badge_left"
-                                    href="/verification-apis/#7"
+                                    href="https://demo.aryawebcoding.xyz/verification-apis/#7"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -567,6 +567,7 @@
                 </section>
               </div>
             </li>
+           
             <li class="dropdown">
               <a
                 class="nav-link dropdown-toggle"
@@ -577,25 +578,165 @@
                 aria-expanded="false"
                 >Channel Partner</a
               >
-              <div class="dropdown-menu" aria-labelledby="dropdown01">
-                <a class="dropdown-item page-scroll" href="article.html"
-                  >Article Details</a
-                >
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item page-scroll" href="terms.html"
-                  >Terms Conditions</a
-                >
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item page-scroll" href="privacy.html"
-                  >Privacy Policy</a
-                >
+              <div class="dropdown-menu shadow-lg" aria-labelledby="dropdown01">
+                  <section class="flex flex-col gap-y-2">
+                    <div class="elementor-widget-container">
+                      <ul class="elementor-icon-list-items">
+                        <li class="text-lg font-semibold">
+                          <a href="#">
+                            <span class="elementor-icon-list-text uppercase">Channel Partner</span>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                    <div class="flex gap-8">
+                      <div
+                        class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b19525e"
+                        data-id="b19525e"
+                        data-element_type="column"
+                      >
+                        <div
+                          class="elementor-widget-wrap elementor-element-populated"
+                        >
+                          
+                          <div
+                            class="elementor-element elementor-element-1b9c4a0 elementor-widget elementor-widget-elementskit-page-list"
+                            data-id="1b9c4a0"
+                            data-element_type="widget"
+                            data-widget_type="elementskit-page-list.default"
+                          >
+                            <div class="elementor-widget-container">
+                              <div class="ekit-wid-con">
+                                <div class="elementor-icon-list-items">
+                                  
+                                  <div class="elementor-icon-list-item">
+                                    <a
+                                      class="elementor-repeater-item-987f04e page-scroll ekit_badge_left"
+                                      href="http://localhost/toshani_digital/verification-apis/#13"
+                                    >
+                                      <div class="ekit_page_list_content">
+                                        <span class="elementor-icon-list-text">
+                                          <span class="ekit_page_list_title_title"
+                                            >Why Arya Web Channel Partner</span
+                                          >
+                                        </span>
+                                      </div>
+                                    </a>
+                                  </div>
+                                  
+                                  <div class="elementor-icon-list-item">
+                                    <a
+                                      class="elementor-repeater-item-987f04e page-scroll ekit_badge_left"
+                                      href="p://localhost/toshani_digital/verification-apis/#13"
+                                    >
+                                      <div class="ekit_page_list_content">
+                                        <span class="elementor-icon-list-text">
+                                          <span class="ekit_page_list_title_title"
+                                            >Apply for Arya Web Channel Partner</span
+                                          >
+                                        </span>
+                                      </div>
+                                    </a>
+                                  </div>
+                                  <div class="elementor-icon-list-item">
+                                    <a
+                                      class="elementor-repeater-item-13302ec page-scroll ekit_badge_left"
+                                      href="#14"
+                                    >
+                                      <div class="ekit_page_list_content">
+                                        <span class="elementor-icon-list-text">
+                                          <span class="ekit_page_list_title_title"
+                                            >Channel Partner Application process</span
+                                          >
+                                        </span>
+                                      </div>
+                                    </a>
+                                  </div>
+                                  <div class="elementor-icon-list-item">
+                                    <a
+                                      class="elementor-repeater-item-115c373 page-scroll ekit_badge_left"
+                                      href="http://localhost/toshani_digital/verification-apis/#15"
+                                    >
+                                      <div class="ekit_page_list_content">
+                                        <span class="elementor-icon-list-text">
+                                          <span class="ekit_page_list_title_title"
+                                            >Channel Partner Support</span
+                                          >
+                                        </span>
+                                      </div>
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-626f1c6"
+                        data-id="626f1c6"
+                        data-element_type="column"
+                      >
+                        <div
+                          class="elementor-widget-wrap elementor-element-populated"
+                        >
+                         
+                         
+                          <div
+                            class="elementor-element elementor-element-182fb16 elementor-widget elementor-widget-elementskit-page-list"
+                            data-id="182fb16"
+                            data-element_type="widget"
+                            data-widget_type="elementskit-page-list.default"
+                          >
+                            <div class="elementor-widget-container">
+                              <div class="ekit-wid-con">
+                                <div class="elementor-icon-list-items">
+                                  
+                                  
+                                 
+                                  
+                                 
+                                  
+                                 
+                                  <div
+                                    class="elementor-element elementor-element-385be89 elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image"
+                                    data-id="385be89"
+                                    data-element_type="widget"
+                                    data-widget_type="image.default"
+                                  >
+                                    <div class="elementor-widget-container">
+                                      <img
+                                        width="400"
+                                        height="400"
+                                        src="../images/1.jpg"
+                                        class="attachment-large size-large wp-image-4115"
+                                        alt="DMT"
+                                        srcset="
+                                          https://toshanidigital.com/wp-content/uploads/2023/11/DMT_1.png         600w,
+                                          https://toshanidigital.com/wp-content/uploads/2023/11/DMT_1-300x300.png 300w,
+                                          https://toshanidigital.com/wp-content/uploads/2023/11/DMT_1-150x150.png 150w
+                                        "
+                                        sizes="(max-width: 600px) 100vw, 600px"
+                                      />
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </section>
+               
               </div>
             </li>
+
             <li>
-              <a class="nav-link page-scroll" href="career.html">Careers</a>
+              <a class="nav-link page-scroll" href="career.php">Careers</a>
             </li>
             <li>
-              <a class="nav-link page-scroll" href="contact.html">Contact</a>
+              <a class="nav-link page-scroll" href="contact.php">Contact</a>
             </li>
           </ul>
         </div>
