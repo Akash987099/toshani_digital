@@ -300,7 +300,7 @@
                           </ul>  
                     </div>
                     <div class="xl:text-right">
-                        <img class="inline" src="icon/image/kiso.png" alt="alternative" />
+                        <img class="inline" src="icon/img/kiso.png" alt="alternative" />
                     </div>
                 </div> <!-- end of container -->
             </header>
