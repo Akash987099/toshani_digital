@@ -612,7 +612,7 @@
                                   <div class="elementor-icon-list-item">
                                     <a
                                       class="elementor-repeater-item-987f04e page-scroll ekit_badge_left"
-                                      href="http://localhost/toshani_digital/verification-apis/#13"
+                                      href="https://demo.aryawebcoding.xyz/verification-apis/#13"
                                     >
                                       <div class="ekit_page_list_content">
                                         <span class="elementor-icon-list-text">
@@ -627,7 +627,7 @@
                                   <div class="elementor-icon-list-item">
                                     <a
                                       class="elementor-repeater-item-987f04e page-scroll ekit_badge_left"
-                                      href="p://localhost/toshani_digital/verification-apis/#13"
+                                      href="https://demo.aryawebcoding.xyz/verification-apis/#13"
                                     >
                                       <div class="ekit_page_list_content">
                                         <span class="elementor-icon-list-text">
@@ -655,7 +655,7 @@
                                   <div class="elementor-icon-list-item">
                                     <a
                                       class="elementor-repeater-item-115c373 page-scroll ekit_badge_left"
-                                      href="http://localhost/toshani_digital/verification-apis/#15"
+                                      href="https://demo.aryawebcoding.xyz/verification-apis/#15"
                                     >
                                       <div class="ekit_page_list_content">
                                         <span class="elementor-icon-list-text">
