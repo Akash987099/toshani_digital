@@ -50,15 +50,13 @@
         <h4
           class="text-primary text-xl mb-0 tracking-wider uppercase font-normal"
         >
-          About Us
+          What We Serve
         </h4>
-        <h1 class="text-secondary font-black mb-6">About Aws Connect And Innovative Solutions</h1>
+        <h1 class="text-secondary font-black mb-6">Our Services</h1>
         <p class="tracking-wider">
-        Aws Nextstep Pvt.ltd was established in 2020 as a Technology company. Within a decade it has grown to become a flagship distribution organization in Digital financial Inclusion of “Bharat”. Aws Nextstep offers smart and sustainable technology solutions that are easily applicable and adaptable across industries. We welcome fresh ideas into our organization for growth of Aws Nextstep. We adopt an integral approach toward solutions and use the simplest knowledge-sharing methodologies to nature an environment of growth
-
-We aggregates various financial services and provides to 500 Mn people at bottom half of pyramid through a network of retailers acquired in bulk via Corporate tie-ups. Cash deposit, Cash withdrawal, Insurance, loan, etc. Rural population need assisted self-service and assisted full-service options. Mobile based organisations, kiosk based organizations, both in rural and urban India...
-
-
+          With extensive range of solutions, we help our merchants and customers
+          with a wide range of services to support their financial transaction
+          requirements.
         </p>
       </div>
       <div class="max-w-screen-xl mx-auto my-16">
@@ -363,14 +361,13 @@ We aggregates various financial services and provides to 500 Mn people at bottom
       >
         <div class="lg:col-span-6">
           <div class="mb-16 lg:mb-0 xl:mt-16">
-            <h2 class="mb-6 text-primary font-medium text-3xl">Who We Are</h2>
+            <h2 class="mb-6 text-primary font-medium text-3xl">About Us</h2>
             <p class="mb-4">
-              Since its inception in 2015, Toshani India is determined to
-              reshape the world of digital payments, first nationally and then
-              globally. We are a technology-driven company on its mission to
-              building India’s largest network of last-mile retail outlets to
-              deliver our premium services to the unserved and the underserved
-              rural, semi-urban and urban population of the country.
+            Aws Nextstep Pvt.ltd was established in 2020 as a Technology company. Within a decade it has grown to become a flagship distribution organization in Digital financial Inclusion of “Bharat”. Aws Nextstep offers smart and sustainable technology solutions that are easily applicable and adaptable across industries. We welcome fresh ideas into our organization for growth of Aws Nextstep. We adopt an integral approach toward solutions and use the simplest knowledge-sharing methodologies to nature an environment of growth
+
+We aggregates various financial services and provides to 500 Mn people at bottom half of pyramid through a network of retailers acquired in bulk via Corporate tie-ups. Cash deposit, Cash withdrawal, Insurance, loan, etc. Rural population need assisted self-service and assisted full-service options. Mobile based organisations, kiosk based organizations, both in rural and urban India...
+
+
             </p>
             <button
               class="bg-primary text-white rounded hover:bg-secondary font-semibold text-lg px-6 py-3"
