@@ -154,7 +154,7 @@
                   <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
                     <!-- BBPS Services -->
                     <div class="bg-white rounded-lg shadow-md p-6">
-                      <img src="images/Kiosk-ATM.JPG" alt="BBPS Icon" class="w-full mb-4">
+                      <img src="images/Kiosk-ATM.jpg" alt="BBPS Icon" class="w-full mb-4">
                       <h3 class="text-red-600 text-lg font-bold mb-4">Kiosk ATM</h3>
                       <p class="text-gray-700 mb-2">
                         Enjoy all ATM services, just like any other bank ATM Self-Service Terminal: Banking -
