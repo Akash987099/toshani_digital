@@ -45,7 +45,7 @@
                 <!-- Column 2 -->
                 <div class="w-full px-4 items-center flex gap-2 justify-end">
                   <a
-                    href="/why-toshani-channel-partner/"
+                    href="/why-AWS-channel-partner/"
                     class="px-12 py-3 bg-primary h-fit btn-solid-lg secondary text-white font-semibold rounded hover:bg-white transition"
                   >
                     Learn More

@@ -18,7 +18,7 @@
           </p>
           <a
             class="btn-solid-lg secondary"
-            href="apply-for-toshani-channel-partner/index.html"
+            href="apply-for-AWS-channel-partner/index.html"
             >Become a Channel Partner</a
           >
         </div>
