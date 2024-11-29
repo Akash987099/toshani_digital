@@ -16,15 +16,7 @@
           <p class="p-title">BEST COMPANY</p>
           <h1 class="h1-large mb-5">About Us</h1>
           <p class="p-large mb-8">
-            Since its inception in 2015, Toshani is determined to reshape the
-            world of digital payments, first nationally and then globally. We
-            are a technology-driven company on its to building India’s largest
-            network of last-mile retail outlets to deliver our premium services
-            to the unserved and the underserved rural, semi-urban and urban
-            population of the country. Our well-crafted Assisted Digital
-            Convenience stores are called as ‘Nextgen Toshani Kendras’. Each
-            store is equipped as ‘One Stop Shop’ to avail multiple products and
-            services.
+          Aws Nextstep Pvt.ltd was established in 2020 as a Technology company. Within a decade it has grown to become a flagship distribution organization in Digital financial Inclusion of “Bharat”. Aws Nextstep offers smart and sustainable technology solutions that are easily applicable and adaptable across industries. We welcome fresh ideas into our organization for growth of Aws Nextstep. We adopt an integral approach toward solutions and use the simplest knowledge-sharing methodologies to nature an environment of growth
           </p>
         </div>
       </div>
