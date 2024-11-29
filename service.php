@@ -23,7 +23,7 @@
         
               <!-- Aadhar Pay -->
               <div class="bg-white rounded-lg shadow-md p-6">
-                <img src="images/AEPS.JPG" alt="Aadhar Pay Icon" class="w-full mb-4">
+                <img src="images/AEPS.jpg" alt="Aadhar Pay Icon" class="w-full mb-4">
                 <h3 class="text-red-600 text-lg font-bold mb-4">Aadhar Pay</h3>
                 <p class="text-gray-700">
                   Toshani Aadhaar Pay allows retailers to accept cashless payments from their customers, simply with an Aadhaar number and a fingerprint scanner.
