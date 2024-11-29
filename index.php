@@ -383,7 +383,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
             <img
               class="inline"
               width="500"
-              src="images/bank.jpg"
+              src="images/atm-2.jpg"
               alt="alternative"
             />
           </div>
