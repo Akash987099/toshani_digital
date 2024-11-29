@@ -14,7 +14,7 @@
                 <img src="images/BBPS.jpg" alt="BBPS Icon" class="w-full mb-4">
                 <h3 class="text-red-600 text-lg font-bold mb-4">BBPS Services</h3>
                 <p class="text-gray-700 mb-2">
-                  Toshani enables its retailers to accept payments for all utility bills such as water, electricity, gas, and broadband through the Bharat Bill Payment System (BBPS). 
+                  AWS enables its retailers to accept payments for all utility bills such as water, electricity, gas, and broadband through the Bharat Bill Payment System (BBPS). 
                 </p>
                 <p class="text-gray-700">
                   The BBPS service also facilitates other payments for services like FasTag, Municipal Corporation Tax, LIC Premiums, Hospital, Housing Society, and much more.
@@ -26,7 +26,7 @@
                 <img src="images/AEPS.jpg" alt="Aadhar Pay Icon" class="w-full mb-4">
                 <h3 class="text-red-600 text-lg font-bold mb-4">Aadhar Pay</h3>
                 <p class="text-gray-700">
-                  Toshani Aadhaar Pay allows retailers to accept cashless payments from their customers, simply with an Aadhaar number and a fingerprint scanner.
+                  AWS Aadhaar Pay allows retailers to accept cashless payments from their customers, simply with an Aadhaar number and a fingerprint scanner.
                 </p>
                 <p class="text-gray-700">
                   This fast, secure, and seamless payment management service allows cashless operations for the customer and the retailer.
@@ -46,7 +46,7 @@
                 <img src="images/Cash-1.png" alt="BBPS Icon" class="w-full mb-4">
                 <h3 class="text-red-600 text-lg font-bold mb-4">Cash Collection Points</h3>
                 <p class="text-gray-700 mb-2">
-                    Toshani franchisee are now Cash Collection Points where Agents, customers, and bank representatives can deposit their premiums, EMIs etc,. This service provides our Retailers with a unique opportunity to expand their business and earn more at the same time. It is free for both retailers and customers and is aimed at expanding customer reach trough diversified services.
+                    AWS franchisee are now Cash Collection Points where Agents, customers, and bank representatives can deposit their premiums, EMIs etc,. This service provides our Retailers with a unique opportunity to expand their business and earn more at the same time. It is free for both retailers and customers and is aimed at expanding customer reach trough diversified services.
                 </p>
               </div>
 
@@ -68,7 +68,7 @@
                     <img src="images/POS2.jpg" alt="BBPS Icon" class="w-full mb-4">
                     <h3 class="text-red-600 text-lg font-bold mb-4">BBPS Services</h3>
                     <p class="text-gray-700 mb-2">
-                      Toshani enables its retailers to accept payments for all utility bills such as water, electricity, gas, and broadband through the Bharat Bill Payment System (BBPS). 
+                      AWS enables its retailers to accept payments for all utility bills such as water, electricity, gas, and broadband through the Bharat Bill Payment System (BBPS). 
                     </p>
                     <p class="text-gray-700">
                       The BBPS service also facilitates other payments for services like FasTag, Municipal Corporation Tax, LIC Premiums, Hospital, Housing Society, and much more.
@@ -102,7 +102,7 @@
               <!-- Mission Section -->
               <div class="bg-white rounded-lg shadow-md p-6 mt-6">
                 <p class="text-gray-700 mb-2">
-                  Cash has been a vital unit for survival for every being, especially in a country like India, where the majority of transactions are done through cash because of reasons like unaffordability of smartphones or internet access, lack of knowledge, etc. We aim to provide cash availability in every corner of India, especially in rural and semi-rural areas. A large number of people in India, particularly the migrant population, don’t have access to formal banking channels due to unavailability of proof of identity/address etc. Toshani is a blessing for them to remit money back to their family members.
+                  Cash has been a vital unit for survival for every being, especially in a country like India, where the majority of transactions are done through cash because of reasons like unaffordability of smartphones or internet access, lack of knowledge, etc. We aim to provide cash availability in every corner of India, especially in rural and semi-rural areas. A large number of people in India, particularly the migrant population, don’t have access to formal banking channels due to unavailability of proof of identity/address etc. AWS is a blessing for them to remit money back to their family members.
                 </p>
               </div>
           
@@ -125,7 +125,7 @@
                     <img src="images/Cash-1.png" alt="QR Code Icon" class="w-full mb-4">
                     <h3 class="text-red-600 text-lg font-bold mb-4">Money Remittance</h3>
                     <p class="text-gray-700">
-                        Toshani customers can transfer money between different banks spread across a wide network. With the help of retailers, they can remit funds across all major national and private banks that operate in India. This is a secure money transfer process with multiple authentication levels to ensure optimum safety. 
+                        AWS customers can transfer money between different banks spread across a wide network. With the help of retailers, they can remit funds across all major national and private banks that operate in India. This is a secure money transfer process with multiple authentication levels to ensure optimum safety. 
                     </p>
                   </div>
           
@@ -134,7 +134,7 @@
                     <img src="images/Mini-ATM-1.jpg" alt="Aadhaar Pay Icon" class="w-full mb-4">
                     <h3 class="text-red-600 text-lg font-bold mb-4">Cash Withdrawal through Micro ATM</h3>
                     <p class="text-gray-700">
-                        With the help of the Toshani Micro ATM, anyone can now withdraw cash for their customers with Debit Cards. You can withdraw cash with all major cards like RuPay, Master, Visa, and Maestro.  
+                        With the help of the AWS Micro ATM, anyone can now withdraw cash for their customers with Debit Cards. You can withdraw cash with all major cards like RuPay, Master, Visa, and Maestro.  
                     </p>
                   </div>
                 </div>
@@ -255,7 +255,7 @@
                           <img src="images/Mini-ATM-1.jpg" alt="BBPS Icon" class="w-full mb-4">
                           <h3 class="text-red-600 text-lg font-bold mb-4">Mini ATM Device</h3>
                           <p class="text-gray-700 mb-2">
-                            With the Toshani Mini ATM, a local General store can now become an ATM centre providing basic ATM services such as cash withdrawal. Toshani Mini ATMs accept all major debit cards.     
+                            With the AWS Mini ATM, a local General store can now become an ATM centre providing basic ATM services such as cash withdrawal. AWS Mini ATMs accept all major debit cards.     
                         </p>
                         </div>
                 
@@ -264,7 +264,7 @@
                           <img src="images/Biometric-1.jpg" alt="QR Code Icon" class="w-full mb-4">
                           <h3 class="text-red-600 text-lg font-bold mb-4">Bio-Metric Device</h3>
                           <p class="text-gray-700">
-                            Retailers can buy biometric devices from Toshani to carry out seamless operations and provide hassle-free services to their customers.
+                            Retailers can buy biometric devices from AWS to carry out seamless operations and provide hassle-free services to their customers.
                          </p>
                         </div>
                 
@@ -300,7 +300,7 @@
                           </ul>  
                     </div>
                     <div class="xl:text-right">
-                        <img class="inline" src="images/Toshani-ATM.jpg" alt="alternative" />
+                        <img class="inline" src="images/AWS-ATM.jpg" alt="alternative" />
                     </div>
                 </div> <!-- end of container -->
             </header>
