@@ -7,15 +7,14 @@
         class="max-w-screen-xl mx-auto px-4 flex flex-col justify-center items-center sm:px-8 lg:grid lg:grid-cols-2 lg:gap-x-8"
       >
         <div class="xl:mr-12">
-          <p class="p-title">AryaWeb Digital</p>
+          <p class="p-title">Aws Connect</p>
           <h1 class="h1-large mb-5">
-            Your One-Stop Solution for all Banking & Financial Needs
+          About Aws Connect And Innovative Solutions
           </h1>
           <p class="p-large mb-8">
-            Empower your business by offering comprehensive Banking, Payment,
-            and Verification services to your customers through a partnership
-            with AryaWeb Digital. Join hands for a seamless and secure financial
-            experience.
+          Aws Nextstep Pvt.ltd was established in 2020 as a Technology company. Within a decade it has grown to become a flagship distribution organization in Digital financial Inclusion of “Bharat”. Aws Nextstep offers smart and sustainable technology solutions that are easily applicable and adaptable across industries. We welcome fresh ideas into our organization for growth of Aws Nextstep. We adopt an integral approach toward solutions and use the simplest knowledge-sharing methodologies to nature an environment of growth
+
+We aggregates various financial services and provides to 500 Mn people at bottom half of pyramid through a network of retailers acquired in bulk via Corporate tie-ups. Cash deposit, Cash withdrawal, Insurance, loan, etc. Rural population need assisted self-service and assisted full-service options. Mobile based organisations, kiosk based organizations, both in rural and urban India...
           </p>
           <a
             class="btn-solid-lg secondary"
