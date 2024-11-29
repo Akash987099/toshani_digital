@@ -71,11 +71,11 @@
               class="flex items-center gap-x-3 text-lg font-bold text-primary"
             >
               <image
-                src="../images/logo.svg"
+                src="../icon/img/logo.png"
                 width="60"
                 alt="footer-logo-image"
               />
-              <span>AryaWeb Digital </span>
+              <span>AWS Connect </span>
             </div>
 
             <div class="social-container gap-0 flex justify-start my-4">
