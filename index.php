@@ -470,7 +470,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
           <h4
             class="text-primary text-xl mb-0 tracking-wider uppercase font-normal"
           >
-            Bast Company
+            Best Company
           </h4>
           <h1 class="text-secondary font-black mb-6">Why Choose Us</h1>
         </div>
@@ -546,50 +546,90 @@ We aggregates various financial services and provides to 500 Mn people at bottom
           </div>
           <!-- end of container -->
         </div>
-        <div class="cards-1">
-          <div class="max-w-screen-xl flex justify-between gap-4 mx-auto">
+        <div class="mb-6">
+            <div class="max-w-screen-xl flex justify-between gap-4 mx-auto">
               <!-- Card -->
-              <div class="card w-full">
-                  <div class="card-image">
-                      <img src="images/features-icon-4.svg" alt="alternative" />
-                  </div>
-                  <div class="card-body">
-                      <h5 class="card-title">Multiple Languages</h5>
-                      <p class="mb-4">Choose from one of the 40 languages that come pre-installed and start selling
-                          smarter</p>
-                  </div>
+              <div class="bg-white group w-full px-10 py-8 flex-col items-center flex justify-center">
+                <div class="mb-2 flex flex-col gap-y-2 items-center">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="60"
+                    fill="#e10000"
+                    viewBox="0 0 640 512"
+                  >
+                    <path
+                      d="M256 64l128 0 0 64-128 0 0-64zM240 0c-26.5 0-48 21.5-48 48l0 96c0 26.5 21.5 48 48 48l48 0 0 32L32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l96 0 0 32-48 0c-26.5 0-48 21.5-48 48l0 96c0 26.5 21.5 48 48 48l160 0c26.5 0 48-21.5 48-48l0-96c0-26.5-21.5-48-48-48l-48 0 0-32 256 0 0 32-48 0c-26.5 0-48 21.5-48 48l0 96c0 26.5 21.5 48 48 48l160 0c26.5 0 48-21.5 48-48l0-96c0-26.5-21.5-48-48-48l-48 0 0-32 96 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l-256 0 0-32 48 0c26.5 0 48-21.5 48-48l0-96c0-26.5-21.5-48-48-48L240 0zM96 448l0-64 128 0 0 64L96 448zm320-64l128 0 0 64-128 0 0-64z"
+                    />
+                  </svg>
+                  <h5 class="card-title">Wide Distribution Network</h5>
+                </div>
+                <div class="card-body">
+                  
+                  <p class="mb-4">
+                    We have a wide distribution network covering 16 states
+                  </p>
+                </div>
               </div>
               <!-- end of card -->
-  
+
               <!-- Card -->
-              <div class="card">
-                  <div class="card-image">
-                      <img src="images/features-icon-5.svg" alt="alternative" />
-                  </div>
-                  <div class="card-body">
-                      <h5 class="card-title">Free Updates</h5>
-                      <p class="mb-4">Don't worry about future costs, pay once and receive all future updates at no extra
-                          cost</p>
-                  </div>
+              <div class="bg-white group w-full px-10 py-8 flex-col items-center flex justify-center">
+                <div class="mb-2 flex flex-col gap-y-2 items-center">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="#e10000"
+                    width="60"
+                    viewBox="0 0 640 512"
+                  >
+                    <path
+                      d="M96 128a128 128 0 1 1 256 0A128 128 0 1 1 96 128zM0 482.3C0 383.8 79.8 304 178.3 304l91.4 0C368.2 304 448 383.8 448 482.3c0 16.4-13.3 29.7-29.7 29.7L29.7 512C13.3 512 0 498.7 0 482.3zM504 312l0-64-64 0c-13.3 0-24-10.7-24-24s10.7-24 24-24l64 0 0-64c0-13.3 10.7-24 24-24s24 10.7 24 24l0 64 64 0c13.3 0 24 10.7 24 24s-10.7 24-24 24l-64 0 0 64c0 13.3-10.7 24-24 24s-24-10.7-24-24z"
+                    />
+                  </svg>
+                  <h5 class="card-title">24/7 Customer Support</h5>
+                </div>
+                <div class="card-body">
+                  
+                  <p class="mb-4 tracking-wide">
+                    Our Custmers can avail roound the clock support, in case of
+                    any issue
+                  </p>
+                </div>
               </div>
               <!-- end of card -->
-  
+
               <!-- Card -->
-              <div class="card">
-                  <div class="card-image">
-                      <img src="images/features-icon-6.svg" alt="alternative" />
-                  </div>
-                  <div class="card-body">
-                      <h5 class="card-title">Community Support</h5>
-                      <p class="mb-4">Register the app and get acces to knowledge and ideas from the Parking Point online
-                          community</p>
-                  </div>
+              <div class="bg-white group w-full px-10 py-8 flex-col items-center flex justify-center">
+                <div class="flex flex-col gap-y-2 items-center mb-2 ">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="#e10000"
+                    width="55"
+                    viewBox="0 0 512 512"
+                  >
+                    <path
+                      d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120l0 136c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2 280 120c0-13.3-10.7-24-24-24s-24 10.7-24 24z"
+                    />
+                  </svg>
+                  <h5 class="card-title">Technology Driven Compnay</h5>
+                </div>
+                <div class="card-body">
+                
+                  <p class="mb-4">
+                    We offer software to automate several business tasks
+                  </p>
+                </div>
               </div>
               <!-- end of card -->
-  
-          </div> <!-- end of container -->
-      </div> <!-- end of cards-1 -->
-      </div>
+            </div>
+            <!-- end of container -->
+          </div>
+          <button
+            class="text-lg font-bold text-white btn-solid-rounded rounded-full"
+          >
+            <a href="/channel-partner">Be our Growth</a>
+          </button>
+          <!-- end of cards-1 -->
+        </div>
     </section>
 
     <!-- End Company Section -->
