@@ -122,9 +122,9 @@ h6 {
 .btn-solid-reg {
   display: inline-block;
   padding: 1.375rem 2.25rem 1.375rem 2.25rem;
-  border: 1px solid #594cda;
+  border: 1px solid #e10000;
   border-radius: 32px;
-  background-color: #594cda;
+  background-color: #e10000;
   color: #ffffff;
   font-weight: 600;
   font-size: 0.875rem;
@@ -134,18 +134,18 @@ h6 {
 }
 
 .btn-solid-reg:hover {
-  border: 1px solid #594cda;
+  border: 1px solid #e10000;
   background-color: transparent;
-  color: #594cda; /* needs to stay here because of the color property of a tag */
+  color: #e10000; /* needs to stay here because of the color property of a tag */
   text-decoration: none;
 }
 
 .btn-solid-lg {
   display: inline-block;
   padding: 1.625rem 2.75rem 1.625rem 2.75rem;
-  border: 1px solid #594cda;
+  border: 1px solid #e10000;
   border-radius: 6px;
-  background-color: #594cda;
+  background-color: #e10000;
   color: #ffffff;
   font-weight: 600;
   font-size: 1rem;
@@ -158,9 +158,33 @@ h6 {
 }
 
 .btn-solid-lg:hover {
-  border: 1px solid #594cda;
+  border: 1px solid #e10000;
   background-color: transparent;
-  color: #594cda; /* needs to stay here because of the color property of a tag */
+  color: #e10000; /* needs to stay here because of the color property of a tag */
+  text-decoration: none;
+}
+
+.btn-solid-rounded {
+  display: inline-block;
+  padding: 1.225rem 2.75rem 1.225rem 2.75rem;
+  border: 1px solid #e10000;
+  border-radius: 20px;
+  background-color: #e10000;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 0;
+  text-decoration: none;
+  transition: all 0.5s;
+  margin-right: 0.25rem;
+  margin-bottom: 1.25rem;
+  margin-left: 0.25rem;
+}
+
+.btn-solid-rounded:hover {
+  border: 1px solid #e10000;
+  background-color: transparent;
+  color: #e10000; /* needs to stay here because of the color property of a tag */
   text-decoration: none;
 }
 
@@ -527,6 +551,7 @@ input[type="checkbox"] {
   line-height: 0.875rem;
   transition: all 0.2s ease;
 }
+
 .elementor-icon-list-item:hover,
 .elementor-icon-list-item.action {
   color: #e10000;
@@ -571,6 +596,30 @@ input[type="checkbox"] {
 .dropdown-toggle:empty::after {
   margin-left: 0;
 }
+
+.icon-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 130px; /* Adjust as needed */
+  background-color: #f9f9f9; /* Light background */
+}
+
+.icon {
+  width: 120px; /* Size of diamond */
+  height: 120px;
+  background-color: #2c2255; /* Dark purple */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); /* Diamond shape */
+}
+
+.icon img {
+  width: 50%;
+  height: auto; /* Icon scaling */
+}
+
 
 .dropdown.show > a,
 .nav-link:hover,
@@ -961,10 +1010,9 @@ input[type="checkbox"] {
 /*     Footer     */
 /******************/
 .footer {
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
   background: linear-gradient(#fafaf9, #f5f5f4);
-  text-align: center;
 }
 
 .footer a {
@@ -999,6 +1047,17 @@ input[type="checkbox"] {
   color: #ffffff;
 }
 
+.card-effect {
+  background: white;
+  transition: transform 1s ease, box-shadow 1s ease, background-color 1s ease;
+  border-radius: 8px; /* Add smooth corners */
+  overflow: hidden; /* Ensure shadows are well-contained */
+}
+
+.card-effect:hover {
+  transform: translateY(-5px); /* Slight lift effect */
+  box-shadow: 0 3px 3px 1px rgba(0, 0, 0, 0.05); /* Subtle green glow inside */
+}
 /*********************/
 /*     Copyright     */
 /*********************/
@@ -1020,13 +1079,13 @@ a.back-to-top {
   width: 42px;
   height: 42px;
   border-radius: 30px;
-  background: #343e48 url("../images/up-arrow.png") no-repeat center 47%;
+  background: #e10000 url("../images/up-arrow.png") no-repeat center 47%;
   background-size: 18px 18px;
   text-indent: -9999px;
 }
 
 a:hover.back-to-top {
-  background-color: #000000;
+  background-color: #ef4444;
 }
 
 /***********************/

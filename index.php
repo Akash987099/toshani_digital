@@ -632,10 +632,39 @@ We aggregates various financial services and provides to 500 Mn people at bottom
         </div>
     </section>
 
-    <!-- End Company Section -->
-    <!-- Details 2 -->
-
-    <!-- end of details 2 -->
+    <section class="footer py-0">
+      <div class="max-w-screen-xl my-20 mx-auto">
+        <div class="text-center">
+          <h4
+            class="text-primary text-xl mb-0 tracking-wider uppercase font-normal"
+          >
+            Where we operate
+          </h4>
+          <h1 class="text-secondary font-black mb-6">Our Presence</h1>
+          <p>
+            With our presence in more than 20 states already, we are determined
+            to become a force to reckon with on the national platform.
+          </p>
+        </div>
+        <div class="py-10">
+          <div class="max-w-screen-xl mx-auto justify-between items-center">
+            <div class="lg:col-span-6">
+              <div class="lg:mb-0 xl:mr-14">
+                <img
+                  class="inline"
+                  src="images/Toshanimap-1.png"
+                  width=""
+                  alt="alternative"
+                />
+              </div>
+            </div>
+          </div>
+          <!-- end of container -->
+        </div>
+        <!-- end of cards-1 -->
+      </div>
+    </section>
+    <!-- copmany presence of details -->
 
     <!-- Details Lightbox -->
     <!-- Lightbox -->
@@ -699,224 +728,8 @@ We aggregates various financial services and provides to 500 Mn people at bottom
       </div>
       <!-- end of row -->
     </div>
-    <!-- end of lightbox-basic -->
-    <!-- end of lightbox -->
-    <!-- end of details lightbox -->
 
-    <!-- Details 3 -->
-    <div class="pt-16 pb-12">
-      <div class="container px-4 sm:px-8 lg:grid lg:grid-cols-12 lg:gap-x-12">
-        <div class="lg:col-span-5">
-          <div class="mb-16 lg:mb-0 xl:mt-16">
-            <h2 class="mb-6">
-              Platform integration and life time free updates
-            </h2>
-            <p class="mb-4">
-              Get a glimpse of what this app can do for your marketing
-              automation and understand why current users are so excited when
-              using Pavo together with their teams.
-            </p>
-            <p class="mb-4">
-              We will promptly answer any questions and honor your requests
-              based on the service level agreement
-            </p>
-          </div>
-        </div>
-        <!-- end of col -->
-        <div class="lg:col-span-7">
-          <div class="ml-14">
-            <img class="inline" src="images/details-3.jpg" alt="alternative" />
-          </div>
-        </div>
-        <!-- end of col -->
-      </div>
-      <!-- end of container -->
-    </div>
-    <!-- end of details 3 -->
-
-    <!-- Statistics -->
-    <div class="counter">
-      <div class="container px-4 sm:px-8">
-        <!-- Counter -->
-        <div id="counter">
-          <div class="cell">
-            <div class="counter-value number-count" data-count="231">1</div>
-            <p class="counter-info">Happy Users</p>
-          </div>
-          <div class="cell">
-            <div class="counter-value number-count" data-count="385">1</div>
-            <p class="counter-info">Issues Solved</p>
-          </div>
-          <div class="cell">
-            <div class="counter-value number-count" data-count="159">1</div>
-            <p class="counter-info">Good Reviews</p>
-          </div>
-          <div class="cell">
-            <div class="counter-value number-count" data-count="127">1</div>
-            <p class="counter-info">Case Studies</p>
-          </div>
-          <div class="cell">
-            <div class="counter-value number-count" data-count="211">1</div>
-            <p class="counter-info">Orders Received</p>
-          </div>
-        </div>
-        <!-- end of counter -->
-      </div>
-      <!-- end of container -->
-    </div>
-    <!-- end of counter -->
-    <!-- end of statistics -->
-
-    <!-- Testimonials -->
-  
-
-            <!-- Add Arrows -->
-            <div class="swiper-button-next"></div>
-            <div class="swiper-button-prev"></div>
-            <!-- end of add arrows -->
-          </div>
-          <!-- end of swiper-container -->
-        </div>
-        <!-- end of slider-container -->
-        <!-- end of card slider -->
-      </div>
-      <!-- end of container -->
-    </div>
-    <!-- end of slider-1 -->
-    <!-- end of testimonials -->
-
-    <!-- Pricing -->
-    <div id="pricing" class="cards-2">
-      <div class="absolute bottom-0 h-40 w-full bg-white"></div>
-      <div class="container px-4 pb-px sm:px-8">
-        <h2 class="mb-2.5 text-white lg:max-w-xl lg:mx-auto">
-          Pricing options for all budgets
-        </h2>
-        <p class="mb-16 text-white lg:max-w-3xl lg:mx-auto">
-          Our pricing plans are setup in such a way that any user can start
-          enjoying Pavo without worrying so much about costs. They are flexible
-          and work for any type of industry
-        </p>
-
-        <!-- Card-->
-        <div class="card">
-          <div class="card-body">
-            <div class="card-title">STANDARD</div>
-            <div class="price">
-              <span class="currency">$</span><span class="value">29</span>
-            </div>
-            <div class="frequency">monthly</div>
-            <p>
-              This basic package covers the marketing needs of small startups
-            </p>
-            <ul class="list mb-7 space-y-2 text-left">
-              <li class="flex">
-                <i class="fas fa-chevron-right"></i>
-                <div>List building and relations</div>
-              </li>
-              <li class="flex">
-                <i class="fas fa-chevron-right"></i>
-                <div>Seamless platform integration</div>
-              </li>
-              <li class="flex">
-                <i class="fas fa-chevron-right"></i>
-                <div>Great performance on devices</div>
-              </li>
-              <li class="flex">
-                <i class="fas fa-chevron-right"></i>
-                <div>Community support and videos</div>
-              </li>
-            </ul>
-            <div class="button-wrapper">
-              <a class="btn-solid-reg page-scroll" href="career.html"
-                >Download</a
-              >
-            </div>
-          </div>
-        </div>
-        <!-- end of card -->
-        <!-- end of card -->
-
-        <!-- Card-->
-        <div class="card">
-          <div class="card-body">
-            <div class="card-title">ADVANCED</div>
-            <div class="price">
-              <span class="currency">$</span><span class="value">39</span>
-            </div>
-            <div class="frequency">monthly</div>
-            <p>This is a more advanced package suited for medium companies</p>
-            <ul class="list mb-7 space-y-2 text-left">
-              <li class="flex">
-                <i class="fas fa-chevron-right"></i>
-                <div>List building and relations</div>
-              </li>
-              <li class="flex">
-                <i class="fas fa-chevron-right"></i>
-                <div>Seamless platform integration</div>
-              </li>
-              <li class="flex">
-                <i class="fas fa-chevron-right"></i>
-                <div>Great performance on devices</div>
-              </li>
-              <li class="flex">
-                <i class="fas fa-chevron-right"></i>
-                <div>Community support and videos</div>
-              </li>
-            </ul>
-            <div class="button-wrapper">
-              <a class="btn-solid-reg page-scroll" href="career.html"
-                >Download</a
-              >
-            </div>
-          </div>
-        </div>
-        <!-- end of card -->
-        <!-- end of card -->
-
-        <!-- Card-->
-        <div class="card">
-          <div class="card-body">
-            <div class="card-title">COMPLETE</div>
-            <div class="price">
-              <span class="currency">$</span><span class="value">49</span>
-            </div>
-            <div class="frequency">monthly</div>
-            <p>
-              This is a comprehensive package designed for big organizations
-            </p>
-            <ul class="list mb-7 text-left space-y-2">
-              <li class="flex">
-                <i class="fas fa-chevron-right"></i>
-                <div>List building and relations</div>
-              </li>
-              <li class="flex">
-                <i class="fas fa-chevron-right"></i>
-                <div>Seamless platform integration</div>
-              </li>
-              <li class="flex">
-                <i class="fas fa-chevron-right"></i>
-                <div>Great performance on devices</div>
-              </li>
-              <li class="flex">
-                <i class="fas fa-chevron-right"></i>
-                <div>Community support and videos</div>
-              </li>
-            </ul>
-            <div class="button-wrapper">
-              <a class="btn-solid-reg page-scroll" href="career.html"
-                >Download</a
-              >
-            </div>
-          </div>
-        </div>
-        <!-- end of card -->
-        <!-- end of card -->
-      </div>
-      <!-- end of container -->
-    </div>
-    <!-- end of cards-2 -->
-    <!-- end of pricing -->
+    
 
   <?php
     require "footer.php";

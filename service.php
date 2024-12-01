@@ -2,6 +2,312 @@
      require "header.php";
 ?>
         <br><br><br><br><br>
+
+        <div class="max-w-screen-xl my-28 mx-auto">
+      <div class="text-center">
+        <h4
+          class="text-primary text-xl mb-0 tracking-wider uppercase font-normal"
+        >
+          What We Serve
+        </h4>
+        <h1 class="text-secondary font-black mb-6">Our Services</h1>
+        <p class="tracking-wider">
+          With extensive range of solutions, we help our merchants and customers
+          with a wide range of services to support their financial transaction
+          requirements.
+        </p>
+      </div>
+      <div class="max-w-screen-xl mx-auto my-16">
+        <div class="grid grid-cols-3 gap-8">
+          <!-- Card -->
+          <div class="flip-container border border-solid">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="50"
+                      viewBox="0 0 512 512"
+                      fill="#e10000"
+                    >
+                      <path
+                        d="M64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-224c0-35.3-28.7-64-64-64L80 128c-8.8 0-16-7.2-16-16s7.2-16 16-16l368 0c17.7 0 32-14.3 32-32s-14.3-32-32-32L64 32zM416 272a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"
+                      />
+                    </svg>
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                        Payment Services
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                        Easy & Innovative payment services to enable fast.
+                        Secure and seamless transactions.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="50"
+                      viewBox="0 0 512 512"
+                      fill="#ffffff"
+                    >
+                      <path
+                        d="M64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-224c0-35.3-28.7-64-64-64L80 128c-8.8 0-16-7.2-16-16s7.2-16 16-16l368 0c17.7 0 32-14.3 32-32s-14.3-32-32-32L64 32zM416 272a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"
+                      />
+                    </svg>
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                        Payment Services
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                        Enable different types of financial transactions through
+                        the most appropriate solutions such as BBPS, Aadhar Pay,
+                        Mobile and DTH Recharge, Cash collection Points, etc.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end of card -->
+
+          <!-- Card -->
+          <div class="flip-container border border-solid">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 576 512"
+                      fill="#e10000"
+                      width="50"
+                    >
+                      <path
+                        d="M0 24C0 10.7 10.7 0 24 0L69.5 0c22 0 41.5 12.8 50.6 32l411 0c26.3 0 45.5 25 38.6 50.4l-41 152.3c-8.5 31.4-37 53.3-69.5 53.3l-288.5 0 5.4 28.5c2.2 11.3 12.1 19.5 23.6 19.5L488 336c13.3 0 24 10.7 24 24s-10.7 24-24 24l-288.3 0c-34.6 0-64.3-24.6-70.7-58.5L77.4 54.5c-.7-3.8-4-6.5-7.9-6.5L24 48C10.7 48 0 37.3 0 24zM128 464a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm336-48a48 48 0 1 1 0 96 48 48 0 1 1 0-96z"
+                      />
+                    </svg>
+
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                        Marchant Services
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                        Minimize cash handling and increase more payment options
+                        with our marchant solution
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 576 512"
+                      fill="#ffffff"
+                      width="50"
+                    >
+                      <path
+                        d="M0 24C0 10.7 10.7 0 24 0L69.5 0c22 0 41.5 12.8 50.6 32l411 0c26.3 0 45.5 25 38.6 50.4l-41 152.3c-8.5 31.4-37 53.3-69.5 53.3l-288.5 0 5.4 28.5c2.2 11.3 12.1 19.5 23.6 19.5L488 336c13.3 0 24 10.7 24 24s-10.7 24-24 24l-288.3 0c-34.6 0-64.3-24.6-70.7-58.5L77.4 54.5c-.7-3.8-4-6.5-7.9-6.5L24 48C10.7 48 0 37.3 0 24zM128 464a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm336-48a48 48 0 1 1 0 96 48 48 0 1 1 0-96z"
+                      />
+                    </svg>
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                        Marchant Services
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                        Accept payments through payment cards (credit cards,
+                        debit cards, gift cards etc.) using Point of Sale (POS)
+                        and Quick Response (QR) code based payment solutions.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end of card -->
+
+          <!-- Card -->
+          <div class="flip-container border border-solid">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 576 512"
+                      width="50"
+                      fill="#e10000"
+                    >
+                      <path
+                        d="M575.8 255.5c0 18-15 32.1-32 32.1l-32 0 .7 160.2c0 2.7-.2 5.4-.5 8.1l0 16.2c0 22.1-17.9 40-40 40l-16 0c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1L416 512l-24 0c-22.1 0-40-17.9-40-40l0-24 0-64c0-17.7-14.3-32-32-32l-64 0c-17.7 0-32 14.3-32 32l0 64 0 24c0 22.1-17.9 40-40 40l-24 0-31.9 0c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2l-16 0c-22.1 0-40-17.9-40-40l0-112c0-.9 0-1.9 .1-2.8l0-69.7-32 0c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"
+                      />
+                    </svg>
+
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                        Banking Services
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                        Easy & Innovative payment services to enable fast.
+                        Secure and seamless transactions.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 576 512"
+                      width="50"
+                      fill="#ffffff"
+                    >
+                      <path
+                        d="M575.8 255.5c0 18-15 32.1-32 32.1l-32 0 .7 160.2c0 2.7-.2 5.4-.5 8.1l0 16.2c0 22.1-17.9 40-40 40l-16 0c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1L416 512l-24 0c-22.1 0-40-17.9-40-40l0-24 0-64c0-17.7-14.3-32-32-32l-64 0c-17.7 0-32 14.3-32 32l0 64 0 24c0 22.1-17.9 40-40 40l-24 0-31.9 0c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2l-16 0c-22.1 0-40-17.9-40-40l0-112c0-.9 0-1.9 .1-2.8l0-69.7-32 0c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"
+                      />
+                    </svg>
+
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                        Banking Services
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                        Enable different types of financial transactions through
+                        the most appropriate solutions such as BBPS, Aadhar Pay,
+                        Mobile and DTH Recharge, Cash collection Points, etc.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end of card -->
+
+          <!-- Card -->
+          <div class="flip-container border border-solid">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 512 512"
+                      width="50"
+                      fill="#e10000"
+                    >
+                      <path
+                        d="M256 96c38.4 0 73.7 13.5 101.3 36.1l-32.6 32.6c-4.6 4.6-5.9 11.5-3.5 17.4s8.3 9.9 14.8 9.9l112 0c8.8 0 16-7.2 16-16l0-112c0-6.5-3.9-12.3-9.9-14.8s-12.9-1.1-17.4 3.5l-34 34C363.4 52.6 312.1 32 256 32c-10.9 0-21.5 .8-32 2.3l0 64.9c10.3-2.1 21-3.2 32-3.2zM132.1 154.7l32.6 32.6c4.6 4.6 11.5 5.9 17.4 3.5s9.9-8.3 9.9-14.8l0-112c0-8.8-7.2-16-16-16L64 48c-6.5 0-12.3 3.9-14.8 9.9s-1.1 12.9 3.5 17.4l34 34C52.6 148.6 32 199.9 32 256c0 10.9 .8 21.5 2.3 32l64.9 0c-2.1-10.3-3.2-21-3.2-32c0-38.4 13.5-73.7 36.1-101.3zM477.7 224l-64.9 0c2.1 10.3 3.2 21 3.2 32c0 38.4-13.5 73.7-36.1 101.3l-32.6-32.6c-4.6-4.6-11.5-5.9-17.4-3.5s-9.9 8.3-9.9 14.8l0 112c0 8.8 7.2 16 16 16l112 0c6.5 0 12.3-3.9 14.8-9.9s1.1-12.9-3.5-17.4l-34-34C459.4 363.4 480 312.1 480 256c0-10.9-.8-21.5-2.3-32zM256 416c-38.4 0-73.7-13.5-101.3-36.1l32.6-32.6c4.6-4.6 5.9-11.5 3.5-17.4s-8.3-9.9-14.8-9.9L64 320c-8.8 0-16 7.2-16 16l0 112c0 6.5 3.9 12.3 9.9 14.8s12.9 1.1 17.4-3.5l34-34C148.6 459.4 199.9 480 256 480c10.9 0 21.5-.8 32-2.3l0-64.9c-10.3 2.1-21 3.2-32 3.2z"
+                      />
+                    </svg>
+
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                        Kiosk ATM Services
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                        Easy & Innovative payment services to enable fast.
+                        Secure and seamless transactions.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 512 512"
+                      width="50"
+                      fill="#ffffff"
+                    >
+                      <path
+                        d="M256 96c38.4 0 73.7 13.5 101.3 36.1l-32.6 32.6c-4.6 4.6-5.9 11.5-3.5 17.4s8.3 9.9 14.8 9.9l112 0c8.8 0 16-7.2 16-16l0-112c0-6.5-3.9-12.3-9.9-14.8s-12.9-1.1-17.4 3.5l-34 34C363.4 52.6 312.1 32 256 32c-10.9 0-21.5 .8-32 2.3l0 64.9c10.3-2.1 21-3.2 32-3.2zM132.1 154.7l32.6 32.6c4.6 4.6 11.5 5.9 17.4 3.5s9.9-8.3 9.9-14.8l0-112c0-8.8-7.2-16-16-16L64 48c-6.5 0-12.3 3.9-14.8 9.9s-1.1 12.9 3.5 17.4l34 34C52.6 148.6 32 199.9 32 256c0 10.9 .8 21.5 2.3 32l64.9 0c-2.1-10.3-3.2-21-3.2-32c0-38.4 13.5-73.7 36.1-101.3zM477.7 224l-64.9 0c2.1 10.3 3.2 21 3.2 32c0 38.4-13.5 73.7-36.1 101.3l-32.6-32.6c-4.6-4.6-11.5-5.9-17.4-3.5s-9.9 8.3-9.9 14.8l0 112c0 8.8 7.2 16 16 16l112 0c6.5 0 12.3-3.9 14.8-9.9s1.1-12.9-3.5-17.4l-34-34C459.4 363.4 480 312.1 480 256c0-10.9-.8-21.5-2.3-32zM256 416c-38.4 0-73.7-13.5-101.3-36.1l32.6-32.6c4.6-4.6 5.9-11.5 3.5-17.4s-8.3-9.9-14.8-9.9L64 320c-8.8 0-16 7.2-16 16l0 112c0 6.5 3.9 12.3 9.9 14.8s12.9 1.1 17.4-3.5l34-34C148.6 459.4 199.9 480 256 480c10.9 0 21.5-.8 32-2.3l0-64.9c-10.3 2.1-21 3.2-32 3.2z"
+                      />
+                    </svg>
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                        Kiosk ATM Services
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                        Enable different types of financial transactions through
+                        the most appropriate solutions such as BBPS, Aadhar Pay,
+                        Mobile and DTH Recharge, Cash collection Points, etc.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end of card -->
+
+          <!-- Card -->
+          <div class="flip-container border border-solid">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 384 512"
+                      width="40"
+                      fill="#e10000"
+                    >
+                      <path
+                        d="M80 0C44.7 0 16 28.7 16 64l0 384c0 35.3 28.7 64 64 64l224 0c35.3 0 64-28.7 64-64l0-384c0-35.3-28.7-64-64-64L80 0zm80 432l64 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-64 0c-8.8 0-16-7.2-16-16s7.2-16 16-16z"
+                      />
+                    </svg>
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                        Devices & Others
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                        Easy & Innovative payment services to enable fast.
+                        Secure and seamless transactions.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 384 512"
+                      width="40"
+                      fill="#ffffff"
+                    >
+                      <path
+                        d="M80 0C44.7 0 16 28.7 16 64l0 384c0 35.3 28.7 64 64 64l224 0c35.3 0 64-28.7 64-64l0-384c0-35.3-28.7-64-64-64L80 0zm80 432l64 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-64 0c-8.8 0-16-7.2-16-16s7.2-16 16-16z"
+                      />
+                    </svg>
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                        Devices & Others
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                        Enable different types of financial transactions through
+                        the most appropriate solutions such as BBPS, Aadhar Pay,
+                        Mobile and DTH Recharge, Cash collection Points, etc.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end of card -->
+        </div>
+        <!-- end of container -->
+      </div>
+    </div>
+    <!-- end of Service section -->
+     
         <section class="w-full bg-white relative" style="background:#F7F7F7;">
         <div class="w-full max-w-screen-xl mx-auto flex flex-col">
         <div class="max-w-6xl mx-auto">
