@@ -152,13 +152,19 @@
                           data-element_type="widget"
                           data-widget_type="elementskit-page-list.default"
                         >
+
+                        <?php
+// Current website URL ka base path le lo
+$baseUrl = "http://" . $_SERVER['HTTP_HOST'];
+?>
+
                           <div class="elementor-widget-container">
                             <div class="ekit-wid-con">
                               <div class="elementor-icon-list-items">
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-18cb473 ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#1"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#1"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -172,7 +178,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-3b0de6f ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#2"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#2"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -186,7 +192,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-2517b40 ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#3"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#3"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -200,7 +206,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-195fca0 ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#4"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#4"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -214,7 +220,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-7a6493b ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#5"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#5"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -229,7 +235,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-794238a ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#6"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#6"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -244,7 +250,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-eb227c5 ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#7"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#7"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -258,7 +264,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-dd24844 ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#8"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#8"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -272,7 +278,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-c61ff1e ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#9"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#9"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -286,7 +292,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-a745937 ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#10"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#10"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -300,7 +306,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-01661ec ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#11"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#11"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -314,7 +320,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-ec5e109 ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#12"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#12"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -328,7 +334,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-987f04e ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#13"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#13"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -342,7 +348,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-13302ec ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#14"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#14"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -356,7 +362,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-115c373 ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#15"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#15"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -370,7 +376,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-046db40 ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/Financial-APIs/#16"
+                                    href="<?php echo $baseUrl; ?>/Financial-APIs/#16"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -439,7 +445,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-18cb473 ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/verification-apis/#1"
+                                    href="<?php echo $baseUrl; ?>/verification-apis/#1"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -453,7 +459,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-8190a32 ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/verification-apis/#2"
+                                    href="<?php echo $baseUrl; ?>/verification-apis/#2"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -467,7 +473,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-1d27f93 ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/verification-apis/#3"
+                                    href="<?php echo $baseUrl; ?>/verification-apis/#3"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -481,7 +487,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-8a6d7c2 ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/verification-apis/#4"
+                                    href="<?php echo $baseUrl; ?>/verification-apis/#4"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -495,7 +501,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-3601434 ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/verification-apis/#5"
+                                    href="<?php echo $baseUrl; ?>/verification-apis/#5"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -509,7 +515,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-681ff9a ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/verification-apis/#6"
+                                    href="<?php echo $baseUrl; ?>/verification-apis/#6"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -524,7 +530,7 @@
                                 <div class="elementor-icon-list-item">
                                   <a
                                     class="elementor-repeater-item-4e24402 ekit_badge_left"
-                                    href="https://demo.digiprologue.xyz/verification-apis/#7"
+                                    href="<?php echo $baseUrl; ?>/verification-apis/#7"
                                   >
                                     <div class="ekit_page_list_content">
                                       <span class="elementor-icon-list-text">
@@ -612,7 +618,7 @@
                                   <div class="elementor-icon-list-item">
                                     <a
                                       class="elementor-repeater-item-987f04e page-scroll ekit_badge_left"
-                                      href="https://demo.digiprologue.xyz/verification-apis/#13"
+                                      href="<?php echo $baseUrl; ?>/verification-apis/#13"
                                     >
                                       <div class="ekit_page_list_content">
                                         <span class="elementor-icon-list-text">
@@ -627,7 +633,7 @@
                                   <div class="elementor-icon-list-item">
                                     <a
                                       class="elementor-repeater-item-987f04e page-scroll ekit_badge_left"
-                                      href="https://demo.digiprologue.xyz/verification-apis/#13"
+                                      href="<?php echo $baseUrl; ?>/verification-apis/#13"
                                     >
                                       <div class="ekit_page_list_content">
                                         <span class="elementor-icon-list-text">
@@ -655,7 +661,7 @@
                                   <div class="elementor-icon-list-item">
                                     <a
                                       class="elementor-repeater-item-115c373 page-scroll ekit_badge_left"
-                                      href="https://demo.digiprologue.xyz/verification-apis/#15"
+                                      href="<?php echo $baseUrl; ?>/verification-apis/#15"
                                     >
                                       <div class="ekit_page_list_content">
                                         <span class="elementor-icon-list-text">
