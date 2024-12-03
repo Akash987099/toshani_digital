@@ -155,8 +155,7 @@
 
                         <?php
 // Current website URL ka base path le lo
-$baseUrl = "http://" . $_SERVER['HTTP_HOST'];
-?>
+$baseUrl = "http://" . $_SERVER['HTTP_HOST'];?>
 
                           <div class="elementor-widget-container">
                             <div class="ekit-wid-con">

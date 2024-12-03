@@ -122,12 +122,12 @@
                 class="text-gray-500 text-left dark:text-gray-400 font-medium"
               >
                 <li class="mb-2 text-sm">
-                  <a href="index.html" class="hover:text-red-500 duration-300"
+                  <a href="index.php" class="hover:text-red-500 duration-300"
                     >Home</a
                   >
                 </li>
                 <li class="mb-2 text-sm">
-                  <a href="service.html" class="hover:text-red-500 duration-300"
+                  <a href="service.php" class="hover:text-red-500 duration-300"
                     >Services</a
                   >
                 </li>
@@ -140,12 +140,12 @@
                   >
                 </li>
                 <li class="mb-2 text-sm">
-                  <a href="index.html" class="hover:text-red-500 duration-300"
+                  <a href="index.php" class="hover:text-red-500 duration-300"
                     >Privacy Policy</a
                   >
                 </li>
                 <li class="mb-2 text-sm">
-                  <a href="service.html" class="hover:text-red-500 duration-300"
+                  <a href="service.php" class="hover:text-red-500 duration-300"
                     >Contact Us</a
                   >
                 </li>
@@ -161,12 +161,12 @@
                 class="text-gray-500 text-left dark:text-gray-400 font-medium"
               >
                 <li class="mb-2 text-sm">
-                  <a href="index.html" class="hover:text-red-500 duration-300"
+                  <a href="index.php" class="hover:text-red-500 duration-300"
                     >Payment Services</a
                   >
                 </li>
                 <li class="mb-2 text-sm">
-                  <a href="service.html" class="hover:text-red-500 duration-300"
+                  <a href="service.php" class="hover:text-red-500 duration-300"
                     >Merchant Services</a
                   >
                 </li>
@@ -181,12 +181,12 @@
                   >
                 </li>
                 <li class="mb-2 text-sm">
-                  <a href="index.html" class="hover:text-red-500 duration-300"
+                  <a href="index.php" class="hover:text-red-500 duration-300"
                     >Devices & Others</a
                   >
                 </li>
                 <li class="mb-2 text-sm">
-                  <a href="service.html" class="hover:text-red-500 duration-300"
+                  <a href="service.php" class="hover:text-red-500 duration-300"
                     >B2B API Services</a
                   >
                 </li>
@@ -203,13 +203,13 @@
                   class="text-gray-500 text-left dark:text-gray-400 font-medium"
                 >
                   <li class="mb-2 text-sm">
-                    <a href="index.html" class="hover:text-red-500 duration-300"
+                    <a href="index.php" class="hover:text-red-500 duration-300"
                       >info@awsconnect.in</a
                     >
                   </li>
                   <li class="mb-2 text-sm">
                     <a
-                      href="service.html"
+                      href="service.php"
                       class="hover:text-red-500 duration-300"
                       >+120 433 2909</a
                     >
