@@ -1233,9 +1233,9 @@ We aggregates various financial services and provides to 500 Mn people at bottom
     <div class="slider-1 py-12">
       <div class="max-w-screen-xl mx-auto px-4 sm:px-8">
         <h2 class="mb-12 text-center lg:max-w-4xl lg:mx-auto">
-          We have earned The trust
-          <span class="text-primary">1000+</span> Companies in The <br />
-          India
+          Our Partner
+          <br>
+          <span class="text-primary">Our Partner Saying!</span>
         </h2>
         <!-- Card Slider -->
         <div class="slider-container">
