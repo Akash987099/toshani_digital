@@ -1285,7 +1285,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                 <div class="card">
                   <img
                     class="card-image"
-                    src="inag/testimonial-4.png"
+                    src="inag/testimonial-4.jpg"
                     alt="alternative"
                   />
                 </div>
