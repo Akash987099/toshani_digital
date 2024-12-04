@@ -18,7 +18,7 @@
           </p>
           <a
             class="btn-solid-lg secondary"
-            href="apply-for-AWS-channel-partner/index.html"
+            href="apply-for-AWS-channel-partner/index.php"
             >Become a Channel Partner</a
           >
         </div>
@@ -717,7 +717,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
               <div>Onboarding steps interface</div>
             </li>
           </ul>
-          <a class="btn-solid-reg mfp-close page-scroll" href="career.html"
+          <a class="btn-solid-reg mfp-close page-scroll" href="career.php"
             >Download</a
           >
           <button class="btn-outline-reg mfp-close as-button" type="button">

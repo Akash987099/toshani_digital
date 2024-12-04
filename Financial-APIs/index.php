@@ -57,11 +57,11 @@
         class="sm:px-4 lg:px-8 py-5 flex flex-wrap bg-white items-center justify-between lg:flex-nowrap shadow-lg"
       >
         <!-- Text Logo - Use this if you don't have a graphic logo -->
-        <!-- <a class="text-gray-800 font-semibold text-3xl leading-4 no-underline page-scroll" href="index.html">Pavo</a> -->
+        <!-- <a class="text-gray-800 font-semibold text-3xl leading-4 no-underline page-scroll" href="index.php">Pavo</a> -->
         <!-- Image Logo -->
         <a
           class="inline-block mr-4 py-0.5 text-xl whitespace-nowrap hover:no-underline focus:no-underline"
-          href="index.html"
+          href="index.php"
         >
           <img src="../images/logo.svg" alt="alternative" class="h-8" />
         </a>
@@ -84,15 +84,15 @@
             class="pl-0 mt-3 mb-2 ml-auto flex text-sm flex-col list-none lg:mt-0 lg:mb-0 lg:flex-row"
           >
             <li>
-              <a class="nav-link page-scroll active" href="index.html"
+              <a class="nav-link page-scroll active" href="index.php"
                 >Home <span class="sr-only">(current)</span></a
               >
             </li>
             <li>
-              <a class="nav-link page-scroll" href="/about.html">About Us</a>
+              <a class="nav-link page-scroll" href="/about.php">About Us</a>
             </li>
             <li>
-              <a class="nav-link page-scroll" href="service.html">services</a>
+              <a class="nav-link page-scroll" href="service.php">services</a>
             </li>
             <li class="dropdown">
               <a
@@ -730,10 +730,10 @@
               </div>
             </li>
             <li>
-              <a class="nav-link page-scroll" href="career.html">Careers</a>
+              <a class="nav-link page-scroll" href="career.php">Careers</a>
             </li>
             <li>
-              <a class="nav-link page-scroll" href="contact.html">Contact</a>
+              <a class="nav-link page-scroll" href="contact.php">Contact</a>
             </li>
           </ul>
         </div>
@@ -1637,12 +1637,12 @@
                 class="text-gray-500 text-left dark:text-gray-400 font-medium"
               >
                 <li class="mb-2 text-sm">
-                  <a href="index.html" class="hover:text-red-500 duration-300"
+                  <a href="index.php" class="hover:text-red-500 duration-300"
                     >Home</a
                   >
                 </li>
                 <li class="mb-2 text-sm">
-                  <a href="service.html" class="hover:text-red-500 duration-300"
+                  <a href="service.php" class="hover:text-red-500 duration-300"
                     >Services</a
                   >
                 </li>
@@ -1655,12 +1655,12 @@
                   >
                 </li>
                 <li class="mb-2 text-sm">
-                  <a href="index.html" class="hover:text-red-500 duration-300"
+                  <a href="index.php" class="hover:text-red-500 duration-300"
                     >Privacy Policy</a
                   >
                 </li>
                 <li class="mb-2 text-sm">
-                  <a href="service.html" class="hover:text-red-500 duration-300"
+                  <a href="service.php" class="hover:text-red-500 duration-300"
                     >Contact Us</a
                   >
                 </li>
@@ -1676,12 +1676,12 @@
                 class="text-gray-500 text-left dark:text-gray-400 font-medium"
               >
                 <li class="mb-2 text-sm">
-                  <a href="index.html" class="hover:text-red-500 duration-300"
+                  <a href="index.php" class="hover:text-red-500 duration-300"
                     >Payment Services</a
                   >
                 </li>
                 <li class="mb-2 text-sm">
-                  <a href="service.html" class="hover:text-red-500 duration-300"
+                  <a href="service.php" class="hover:text-red-500 duration-300"
                     >Merchant Services</a
                   >
                 </li>
@@ -1696,12 +1696,12 @@
                   >
                 </li>
                 <li class="mb-2 text-sm">
-                  <a href="index.html" class="hover:text-red-500 duration-300"
+                  <a href="index.php" class="hover:text-red-500 duration-300"
                     >Devices & Others</a
                   >
                 </li>
                 <li class="mb-2 text-sm">
-                  <a href="service.html" class="hover:text-red-500 duration-300"
+                  <a href="service.php" class="hover:text-red-500 duration-300"
                     >B2B API Services</a
                   >
                 </li>
@@ -1718,13 +1718,13 @@
                   class="text-gray-500 text-left dark:text-gray-400 font-medium"
                 >
                   <li class="mb-2 text-sm">
-                    <a href="index.html" class="hover:text-red-500 duration-300"
+                    <a href="index.php" class="hover:text-red-500 duration-300"
                       >aryawebcoding@233gmail.com</a
                     >
                   </li>
                   <li class="mb-2 text-sm">
                     <a
-                      href="service.html"
+                      href="service.php"
                       class="hover:text-red-500 duration-300"
                       >+91 7906948573</a
                     >
