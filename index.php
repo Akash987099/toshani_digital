@@ -18,7 +18,7 @@
           </p>
           <a
             class="btn-solid-lg secondary"
-            href="apply-for-AWS-channel-partner/index.php"
+            href="channel-partner-application-process/index.html"
             >Become a Channel Partner</a
           >
         </div>
