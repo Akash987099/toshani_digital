@@ -358,7 +358,7 @@
       >
         <div class="lg:col-span-6">
           <div class="mb-16 lg:mb-0 xl:mt-16">
-            <h2 class="mb-6 text-primary font-medium text-3xl">About Us</h2>
+            <h2 class="mb-6 text-primary font-medium text-3xl"><strong>About Us</strong></h2>
             <p class="mb-4">
             Aws Nextstep Pvt.ltd was established in 2020 as a Technology company. Within a decade it has grown to become a flagship distribution organization in Digital financial Inclusion of “Bharat”. Aws Nextstep offers smart and sustainable technology solutions that are easily applicable and adaptable across industries. We welcome fresh ideas into our organization for growth of Aws Nextstep. We adopt an integral approach toward solutions and use the simplest knowledge-sharing methodologies to nature an environment of growth
 
@@ -369,7 +369,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
             <button
               class="bg-primary text-white rounded hover:bg-secondary font-semibold text-lg px-6 py-3"
             >
-              <a href="">Read More</a>
+              <a href="https://demo.digiprologue.com/about.php">Read More</a>
             </button>
           </div>
         </div>

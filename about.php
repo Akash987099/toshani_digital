@@ -9,12 +9,12 @@
         class="max-w-screen-lg mx-auto px-4 flex flex-col justify-center items-center sm:px-8 lg:grid lg:grid-cols-2 lg:gap-x-8"
       >
         <div class="xl:text-right">
-          <img class="inline" src="images/atm-1.jpg" alt="alternative" />
+          <img class="inline" src="inag/new-ab.jpg" alt="alternative" />
         </div>
 
         <div class="xl:mr-12">
           <p class="p-title">BEST COMPANY</p>
-          <h1 class="h1-large mb-5">About Us</h1>
+          <h1 class="h1-large mb-5"><strong>About Us</strong></h1>
           <p class="p-large mb-8">
           Aws Nextstep Pvt.ltd was established in 2020 as a Technology company. Within a decade it has grown to become a flagship distribution organization in Digital financial Inclusion of “Bharat”. Aws Nextstep offers smart and sustainable technology solutions that are easily applicable and adaptable across industries. We welcome fresh ideas into our organization for growth of Aws Nextstep. We adopt an integral approach toward solutions and use the simplest knowledge-sharing methodologies to nature an environment of growth
           </p>

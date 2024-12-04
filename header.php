@@ -65,11 +65,12 @@ $baseUrl = "http://" . $_SERVER['HTTP_HOST'];?>
         <!-- Text Logo - Use this if you don't have a graphic logo -->
         <!-- <a class="text-gray-800 font-semibold text-3xl leading-4 no-underline page-scroll" href="index.php">Pavo</a> -->
         <!-- Image Logo -->
+         <!-- fkhbgjr -->
         <a
           class="inline-block mr-4 py-0.5 text-xl whitespace-nowrap hover:no-underline focus:no-underline"
           href="index.php"
         >
-          <img src="<?php echo $baseUrl ?>/inag/logo.png" alt="alternative" class="h-12" />
+          <img src="<?php echo $baseUrl ?>/inag/LOGO.png" alt="alternative" class="h-12" />
         </a>
 
         <button
