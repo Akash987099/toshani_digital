@@ -18,13 +18,13 @@
                 <input
                   type="text"
                   id="email"
-                  value="inquiry@AWS.co.in"
+                  value="info@awsconnect.in"
                   class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
                   placeholder="Your Name"
-                  required
+                  readonly
                 />
               </div>
-              <div>
+              <!-- <div>
                 <input
                   type="text"
                   value="+91-7428940232"
@@ -33,18 +33,18 @@
                   placeholder="Mobile Number"
                   required
                 />
-              </div>
+              </div> -->
               <h2 class="text-3xl font-extrabold text-gray-900 mt-10 mb-6">
                 Our Offices
               </h2>
               <div>
                 <input
                   type="text"
-                  value="Delhi, Gurgaon, Solan (HP), Thane (Mumbai)"
+                  value="D-4 Shankar Square Teade Center Agra U.P 282003"
                   id="email"
                   class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
                   placeholder="Email ID"
-                  required
+                  readonly
                 />
               </div>
             </form>
