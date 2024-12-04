@@ -62,50 +62,22 @@
       <div class="max-w-screen-xl mx-auto my-16">
         <div class="grid grid-cols-3 gap-8">
           <!-- Card -->
-
-          <div class="flip-container border border-solid w-full md:w-1/3 mx-auto my-8">
-  <div class="flip-card relative">
-    <!-- Flip Card Inner -->
-    <div class="flip-card-inner relative w-full h-full transform transition-transform duration-500 hover:rotate-y-180">
-      <!-- Front Side -->
-      <div class="flip-card-front bg-white px-8 py-6 rounded-lg shadow-md absolute w-full h-full backface-hidden">
-        <div class="flex flex-col justify-end h-full">
-          <img src="icon/debit-card.png" alt="Debit Card Icon" class="w-12 h-12 mb-4">
-          <div class="flex flex-col items-start">
-            <h5 class="text-primary font-semibold text-lg mb-2">Payment Services</h5>
-            <p class="tracking-wider text-gray-600 text-sm">
-              Easy & Innovative payment services to enable fast, secure, and seamless transactions.
-            </p>
-          </div>
-        </div>
-      </div>
-      <!-- Back Side -->
-      <div class="flip-card-back bg-primary px-8 py-6 rounded-lg shadow-md absolute w-full h-full transform rotate-y-180 backface-hidden">
-        <div class="flex flex-col justify-end h-full">
-          <svg xmlns="http://www.w3.org/2000/svg" width="50" viewBox="0 0 512 512" class="mb-4">
-            <path fill="#ffffff" d="M64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-224c0-35.3-28.7-64-64-64L80 128c-8.8 0-16-7.2-16-16s7.2-16 16-16l368 0c17.7 0 32-14.3 32-32s-14.3-32-32-32L64 32zM416 272a32 32 0 1 1 0 64 32 32 0 1 1 0-64z" />
-          </svg>
-          <div class="flex flex-col items-start">
-            <h5 class="text-white font-semibold text-lg mb-2">Payment Services</h5>
-            <p class="tracking-wider text-white text-sm">
-              Easy & Innovative payment services to enable fast, secure, and seamless transactions.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
           <div class="flip-container border border-solid">
-
             <div class="flip-card">
               <div class="flip-card-inner">
-
                 <div class="flip-card-front px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                    
-                    <img src="icon/debit-card.png" alt="">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="50"
+                      viewBox="0 0 512 512"
+                      fill="#e10000"
+                    >
+                      <path
+                        d="M64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-224c0-35.3-28.7-64-64-64L80 128c-8.8 0-16-7.2-16-16s7.2-16 16-16l368 0c17.7 0 32-14.3 32-32s-14.3-32-32-32L64 32zM416 272a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"
+                      />
+                    </svg>
+                    <!-- <img src="icon/debit-card.png" alt=""> -->
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
                         Payment Services
@@ -117,7 +89,6 @@
                     </div>
                   </div>
                 </div>
-
                 <div class="flip-card-back px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
                     <svg
@@ -135,8 +106,9 @@
                         Payment Services
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                         Easy & Innovative payment services to enable fast.
-                        Secure and seamless transactions.
+                        Enable different types of financial transactions through
+                        the most appropriate solutions such as BBPS, Aadhar Pay,
+                        Mobile and DTH Recharge, Cash collection Points, etc.
                       </p>
                     </div>
                   </div>
