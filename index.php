@@ -274,12 +274,10 @@
                     </svg>
                     <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                        Kiosk ATM Services
+                      Self Kiosk Services
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                        Enable different types of financial transactions through
-                        the most appropriate solutions such as BBPS, Aadhar Pay,
-                        Mobile and DTH Recharge, Cash collection Points, etc.
+                      AwsConnect, We are providing services of the deployment of Self-Service KIOSK machines which would be a source of income for our clients, and along with that, it would provide easy transaction facilities like Cash withdrawal, Cash deposit, Balance Enquiry Money Transfer Bill Payment etc. to the customers visiting the kiosk
                       </p>
                     </div>
                   </div>
