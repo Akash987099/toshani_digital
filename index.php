@@ -23,7 +23,7 @@
           >
         </div>
         <div class="xl:text-right">
-          <img class="inline" src="img/new-about.jpg" alt="alternative" />
+          <img class="inline" src="inag/new-about.jpg" alt="alternative" />
         </div>
       </div>
       <!-- end of container -->
