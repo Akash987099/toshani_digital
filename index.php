@@ -1246,7 +1246,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                 <div class="card border border-solid">
                   <img
                     class="card-image"
-                    src="images/Aadhar-card-Verification_1.png"
+                    src="img/testimonial-1.png"
                     alt="alternative"
                   />
                 </div>
