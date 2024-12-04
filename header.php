@@ -52,6 +52,11 @@
     <!-- <link rel="icon" href="images/favicon.png" /> -->
   </head>
   <body data-spy="scroll" data-target=".fixed-top">
+
+  <?php
+// Current website URL ka base path le lo
+$baseUrl = "http://" . $_SERVER['HTTP_HOST'];?>
+
     <!-- Navigation -->
     <nav class="fixed-top">
       <div
@@ -64,7 +69,7 @@
           class="inline-block mr-4 py-0.5 text-xl whitespace-nowrap hover:no-underline focus:no-underline"
           href="index.php"
         >
-          <img src="../inag/logo.png" alt="alternative" class="h-12" />
+          <img src="<?php echo $baseUrl ?>/inag/logo.png" alt="alternative" class="h-12" />
         </a>
 
         <button
@@ -153,9 +158,7 @@
                           data-widget_type="elementskit-page-list.default"
                         >
 
-                        <?php
-// Current website URL ka base path le lo
-$baseUrl = "http://" . $_SERVER['HTTP_HOST'];?>
+                       
 
                           <div class="elementor-widget-container">
                             <div class="ekit-wid-con">
