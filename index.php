@@ -1246,7 +1246,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                 <div class="card border border-solid">
                   <img
                     class="card-image"
-                    src="../img/testimonial-1.png"
+                    src="inag/testimonial-1.png"
                     alt="alternative"
                   />
                 </div>
@@ -1259,7 +1259,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                 <div class="card">
                   <img
                     class="card-image"
-                    src="images/article-details-large.jpg"
+                     src="inag/testimonial-2.png"
                     alt="alternative"
                   />
                 </div>
@@ -1272,7 +1272,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                 <div class="card">
                   <img
                     class="card-image"
-                    src="images/Biometric-1.jpg"
+                   src="inag/testimonial-3.png"
                     alt="alternative"
                   />
                 </div>
@@ -1285,7 +1285,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                 <div class="card">
                   <img
                     class="card-image"
-                    src="images/article-details-small.jpg"
+                    src="inag/testimonial-4.png"
                     alt="alternative"
                   />
                 </div>
@@ -1298,7 +1298,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                 <div class="card">
                   <img
                     class="card-image"
-                    src="images/pricing-background.jpg"
+                    src="inag/testimonial-5.png"
                     alt="alternative"
                   />
                 </div>
@@ -1311,7 +1311,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                 <div class="card">
                   <img
                     class="card-image"
-                    src="images/details-lightbox.jpg"
+                    src="inag/testimonial-6.png"
                     alt="alternative"
                   />
                 </div>
