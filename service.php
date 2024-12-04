@@ -488,7 +488,7 @@
                     </div>
       
                     <div class="bg-white rounded-lg shadow-md p-6">
-                        <img src="images/Multifunctional-Kiosk.jpg" alt="Aadhar Pay Icon" class="w-full mb-4">
+                        <img src="inag/mini.jpg" alt="Aadhar Pay Icon" class="w-full mb-4">
                         <h3 class="text-red-600 text-lg font-bold mb-4">Multi-Functional Kiosk</h3>
                         <p class="text-gray-700 mb-2">
                             (Only Bank/Co-Operative Bank/NIDHI)
