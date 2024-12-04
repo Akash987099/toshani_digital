@@ -23,7 +23,7 @@
           >
         </div>
         <div class="xl:text-right">
-          <img class="inline" src="images/hero.jpg" alt="alternative" />
+          <img class="inline" src="icon/icon logo/img/about_us.png" alt="alternative" />
         </div>
       </div>
       <!-- end of container -->
