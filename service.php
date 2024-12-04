@@ -455,7 +455,7 @@
               <div class="w-full max-w-screen-xl mx-auto flex flex-col">
               <div class="max-w-6xl mx-auto">
                   <h1 class="text-center text-xl font-bold text-red-600 uppercase tracking-wide">Services</h1>
-                  <h2 class="text-center text-3xl font-bold text-blue-900 mt-2">Kiosk ATM Services</h2>
+                  <h2 class="text-center text-3xl font-bold text-blue-900 mt-2">Self Kiosk Services</h2>
                   
                   <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
                     <!-- BBPS Services -->
