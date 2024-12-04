@@ -64,7 +64,7 @@
           class="inline-block mr-4 py-0.5 text-xl whitespace-nowrap hover:no-underline focus:no-underline"
           href="index.php"
         >
-          <img src="../icon/img/logo.png" alt="alternative" class="h-12" />
+          <img src="inag/logo.png" alt="alternative" class="h-12" />
         </a>
 
         <button
