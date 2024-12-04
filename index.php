@@ -1317,6 +1317,37 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                 </div>
               </div>
               <!-- end of swiper-slide -->
+
+              <div class="swiper-slide">
+                <div class="card">
+                  <img
+                    class="card-image"
+                    src="inag/testimonial-8.png"
+                    alt="alternative"
+                  />
+                </div>
+              </div>
+
+              <div class="swiper-slide">
+                <div class="card">
+                  <img
+                    class="card-image"
+                    src="inag/testimonial-9.jpg"
+                    alt="alternative"
+                  />
+                </div>
+              </div>
+
+              <div class="swiper-slide">
+                <div class="card">
+                  <img
+                    class="card-image"
+                    src="inag/testimonial-10.jpg"
+                    alt="alternative"
+                  />
+                </div>
+              </div>
+
               <!-- end of slide -->
             </div>
             <!-- end of swiper-wrapper -->
