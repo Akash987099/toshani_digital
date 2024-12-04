@@ -7,7 +7,7 @@
         class="max-w-screen-xl mx-auto px-4 flex flex-col justify-center items-center sm:px-8 lg:grid lg:grid-cols-2 lg:gap-x-8"
       >
         <div class="xl:mr-12">
-          <p class="p-title">Aws Connect</p>
+          <p class="p-title font-bold">Aws Connect INDIA</p>
           <h1 class="h1-large mb-5">
           Financial Services & Consulting
           </h1>
@@ -18,7 +18,7 @@
           </p>
           <a
             class="btn-solid-lg secondary"
-            href="channel-partner-application-process/index.html"
+            href=""
             >Become a Channel Partner</a
           >
         </div>

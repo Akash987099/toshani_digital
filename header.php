@@ -29,7 +29,7 @@
     <!-- to have large image post format in Twitter -->
 
     <!-- Webpage Title -->
-    <title>Pavo Webpage Title</title>
+    <title>AWS Connect</title>
 
     <!-- Styles -->
     <link rel="preconnect" href="https://fonts.gstatic.com" />
@@ -49,7 +49,7 @@
     <link href="css/flip-card.css" rel="stylesheet" />
 
     <!-- Favicon  -->
-    <link rel="icon" href="images/favicon.png" />
+    <!-- <link rel="icon" href="images/favicon.png" /> -->
   </head>
   <body data-spy="scroll" data-target=".fixed-top">
     <!-- Navigation -->
