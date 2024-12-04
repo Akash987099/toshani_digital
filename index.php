@@ -752,7 +752,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                     alt="alternative"
                   />
                   <p class="testimonial-author">Jude Thorn - Designer</p>
-                  <p>Toshani Service Partner Jabalpur, Madhya Pradesh</p>
+                  <p>AWS ConnectService Partner Jabalpur, Madhya Pradesh</p>
                   <div class=" flex justify-center my-4 gap-1">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -830,7 +830,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                     alt="alternative"
                   />
                   <p class="testimonial-author">Jude Thorn - Designer</p>
-                  <p>Toshani Service Partner Jabalpur, Madhya Pradesh</p>
+                  <p>AWS ConnectService Partner Jabalpur, Madhya Pradesh</p>
                   <div class=" flex justify-center my-4 gap-1">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -909,7 +909,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                     alt="alternative"
                   />
                   <p class="testimonial-author">Jude Thorn - Designer</p>
-                  <p>Toshani Service Partner Jabalpur, Madhya Pradesh</p>
+                  <p>AWS ConnectService Partner Jabalpur, Madhya Pradesh</p>
                   <div class=" flex justify-center my-4 gap-1">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -990,7 +990,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                     alt="alternative"
                   />
                   <p class="testimonial-author">Jude Thorn - Designer</p>
-                  <p>Toshani Service Partner Jabalpur, Madhya Pradesh</p>
+                  <p>AWS ConnectService Partner Jabalpur, Madhya Pradesh</p>
                   <div class=" flex justify-center my-4 gap-1">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -1069,7 +1069,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                   />
                 
                   <p class="testimonial-author">Lindsay Spice - Marketer</p>
-                  <p>Toshani Service Partner Jabalpur, Madhya Pradesh</p>
+                  <p>AWS ConnectService Partner Jabalpur, Madhya Pradesh</p>
                   <div class=" flex justify-center my-4 gap-1">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -1148,7 +1148,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                     alt="alternative"
                   />
                   <p class="testimonial-author">Jude Thorn - Designer</p>
-                  <p>Toshani Service Partner Jabalpur, Madhya Pradesh</p>
+                  <p>AWS ConnectService Partner Jabalpur, Madhya Pradesh</p>
                   <div class=" flex justify-center my-4 gap-1">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
