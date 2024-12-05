@@ -650,7 +650,7 @@ $baseUrl = "http://" . $_SERVER['HTTP_HOST'];?>
                                   <div class="elementor-icon-list-item">
                                     <a
                                       class="elementor-repeater-item-13302ec page-scroll ekit_badge_left"
-                                      href="<?php echo $baseUrl; ?>/chabbel-partner-application-process"
+                                      href="<?php echo $baseUrl; ?>/channel-partner-application-process"
                                     >
                                       <div class="ekit_page_list_content">
                                         <span class="elementor-icon-list-text">
@@ -664,7 +664,7 @@ $baseUrl = "http://" . $_SERVER['HTTP_HOST'];?>
                                   <div class="elementor-icon-list-item">
                                     <a
                                       class="elementor-repeater-item-115c373 page-scroll ekit_badge_left"
-                                      href="<?php echo $baseUrl; ?>/verification-apis/#15"
+                                      href="<?php echo $baseUrl; ?>/channel-partner-support"
                                     >
                                       <div class="ekit_page_list_content">
                                         <span class="elementor-icon-list-text">
