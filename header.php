@@ -626,7 +626,7 @@ $baseUrl = "http://" . $_SERVER['HTTP_HOST'];?>
                                       <div class="ekit_page_list_content">
                                         <span class="elementor-icon-list-text">
                                           <span class="ekit_page_list_title_title"
-                                            >Why Arya Web Channel Partner</span
+                                            >Why AWS Connect Partner</span
                                           >
                                         </span>
                                       </div>
@@ -641,7 +641,7 @@ $baseUrl = "http://" . $_SERVER['HTTP_HOST'];?>
                                       <div class="ekit_page_list_content">
                                         <span class="elementor-icon-list-text">
                                           <span class="ekit_page_list_title_title"
-                                            >Apply for Arya Web Channel Partner</span
+                                            >Apply for AWS Connect Partner</span
                                           >
                                         </span>
                                       </div>
