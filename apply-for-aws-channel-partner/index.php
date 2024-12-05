@@ -5,9 +5,9 @@
         <header id="header" class=" py-28 text-center  lg:text-left  xl:pb-32">
             <div class="max-w-screen-xl mx-auto px-4 flex flex-col justify-center items-center sm:px-8 lg:grid lg:grid-cols-2 lg:gap-x-8">
                 <div class="  xl:mr-12">
-                    <p class="p-title">Toshani Digital</p>
+                    <p class="p-title">AWS Connect</p>
                     <h1 class="h1-large mb-5">Your One-Stop Solution for all Banking & Financial Needs</h1>
-                    <p class="p-large mb-8">Empower your business by offering comprehensive Banking, Payment, and Verification services to your customers through a partnership with Toshani Digital. Join hands for a seamless and secure financial experience.</p>
+                    <p class="p-large mb-8">Empower your business by offering comprehensive Banking, Payment, and Verification services to your customers through a partnership with AWS Connect. Join hands for a seamless and secure financial experience.</p>
                     <a class="btn-solid-lg secondary" href="apply-for-toshani-channel-partner/index.php">Become a Channel Partner</a>
                 </div>
                 <div class="xl:text-right">
