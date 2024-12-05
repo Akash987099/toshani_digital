@@ -1,5 +1,5 @@
 <?php
-        "../header.php";
+        require "../header.php";
 ?>
 
     <!-- Section 1 -->
