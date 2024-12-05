@@ -650,7 +650,7 @@ $baseUrl = "http://" . $_SERVER['HTTP_HOST'];?>
                                   <div class="elementor-icon-list-item">
                                     <a
                                       class="elementor-repeater-item-13302ec page-scroll ekit_badge_left"
-                                      href="#14"
+                                      href="<?php echo $baseUrl; ?>/chabbel-partner-application-process"
                                     >
                                       <div class="ekit_page_list_content">
                                         <span class="elementor-icon-list-text">
