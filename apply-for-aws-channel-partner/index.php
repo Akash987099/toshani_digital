@@ -1,4 +1,6 @@
-
+<?php
+       require "header.php";
+?>
         <!-- Header -->
         <header id="header" class=" py-28 text-center  lg:text-left  xl:pb-32">
             <div class="max-w-screen-xl mx-auto px-4 flex flex-col justify-center items-center sm:px-8 lg:grid lg:grid-cols-2 lg:gap-x-8">
