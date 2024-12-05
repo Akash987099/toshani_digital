@@ -486,4 +486,6 @@
         <!-- end of conclusion -->
 
 
-   
+   <?php
+          require "../footer.php";
+   ?>
