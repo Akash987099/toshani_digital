@@ -1,3 +1,8 @@
+<?php
+// Current website URL ka base path le lo
+$baseUrl = "http://" . $_SERVER['HTTP_HOST'];
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -43,19 +48,17 @@
       rel="stylesheet"
     />
 
-    <link href="css/swiper.css" rel="stylesheet" />
-    <link href="css/magnific-popup.css" rel="stylesheet" />
-    <link href="css/styles.css" rel="stylesheet" />
-    <link href="css/flip-card.css" rel="stylesheet" />
+    <link href="<?php echo $baseUrl ?>/css/swiper.css" rel="stylesheet" />
+    <link href="<?php echo $baseUrl ?>/css/magnific-popup.css" rel="stylesheet" />
+    <link href="<?php echo $baseUrl ?>/css/styles.css" rel="stylesheet" />
+    <link href="<?php echo $baseUrl ?>/css/flip-card.css" rel="stylesheet" />
 
     <!-- Favicon  -->
     <!-- <link rel="icon" href="images/favicon.png" /> -->
   </head>
   <body data-spy="scroll" data-target=".fixed-top">
 
-  <?php
-// Current website URL ka base path le lo
-$baseUrl = "http://" . $_SERVER['HTTP_HOST'];?>
+ 
 
     <!-- Navigation -->
     <nav class="fixed-top">
