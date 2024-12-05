@@ -621,7 +621,7 @@ $baseUrl = "http://" . $_SERVER['HTTP_HOST'];?>
                                   <div class="elementor-icon-list-item">
                                     <a
                                       class="elementor-repeater-item-987f04e page-scroll ekit_badge_left"
-                                      href="<?php echo $baseUrl; ?>/verification-apis/#13"
+                                      href="<?php echo $baseUrl; ?>/apply-for-aws-channel-partner/"
                                     >
                                       <div class="ekit_page_list_content">
                                         <span class="elementor-icon-list-text">
