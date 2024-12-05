@@ -1,5 +1,5 @@
 <?php
-       require "header.php";
+       require "../header.php";
 ?>
         <!-- Header -->
         <header id="header" class=" py-28 text-center  lg:text-left  xl:pb-32">
