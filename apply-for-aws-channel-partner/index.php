@@ -11,7 +11,7 @@
                     <a class="btn-solid-lg secondary" href="apply-for-toshani-channel-partner/index.php">Become a Channel Partner</a>
                 </div>
                 <div class="xl:text-right">
-                    <img class="inline" src="images/hero.jpg" alt="alternative" />
+                    <img class="inline" src="<?php echo $baseUrl ?>/images/hero.jpg" alt="alternative" />
                 </div>
             </div> <!-- end of container -->
         </header> <!-- end of header -->
@@ -34,7 +34,7 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image">
-                        <img src="images/features-icon-1.svg" alt="alternative" />
+                        <img src="<?php echo $baseUrl ?>/images/features-icon-1.svg" alt="alternative" />
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">Platform Integration</h5>
@@ -46,7 +46,7 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image">
-                        <img src="images/features-icon-2.svg" alt="alternative" />
+                        <img src="<?php echo $baseUrl ?>/images/features-icon-2.svg" alt="alternative" />
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">Easy On Resources</h5>
@@ -58,7 +58,7 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image">
-                        <img src="images/features-icon-3.svg" alt="alternative" />
+                        <img src="<?php echo $baseUrl ?>/images/features-icon-3.svg" alt="alternative" />
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">Great Performance</h5>
@@ -70,7 +70,7 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image">
-                        <img src="images/features-icon-4.svg" alt="alternative" />
+                        <img src="<?php echo $baseUrl ?>/images/features-icon-4.svg" alt="alternative" />
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">Multiple Languages</h5>
@@ -82,7 +82,7 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image">
-                        <img src="images/features-icon-5.svg" alt="alternative" />
+                        <img src="<?php echo $baseUrl ?>/images/features-icon-5.svg" alt="alternative" />
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">Free Updates</h5>
@@ -94,7 +94,7 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image">
-                        <img src="images/features-icon-6.svg" alt="alternative" />
+                        <img src="<?php echo $baseUrl ?>/images/features-icon-6.svg" alt="alternative" />
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">Community Support</h5>
@@ -120,7 +120,7 @@
                 </div> <!-- end of col -->
                 <div class="lg:col-span-7">
                     <div class="xl:ml-14">
-                        <img class="inline" src="images/details-1.jpg" alt="alternative" />
+                        <img class="inline" src="<?php echo $baseUrl ?>/images/details-1.jpg" alt="alternative" />
                     </div>
                 </div> <!-- end of col -->
             </div> <!-- end of container -->
@@ -133,7 +133,7 @@
             <div class="container px-4 sm:px-8 lg:grid lg:grid-cols-12 lg:gap-x-12">
                 <div class="lg:col-span-7">
                     <div class="mb-12 lg:mb-0 xl:mr-14">
-                        <img class="inline" src="images/details-2.jpg" alt="alternative" />
+                        <img class="inline" src="<?php echo $baseUrl ?>/images/details-2.jpg" alt="alternative" />
                     </div>
                 </div> <!-- end of col -->
                 <div class="lg:col-span-5">
@@ -169,7 +169,7 @@
                 <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
                 <div class="lg:col-span-8">
                     <div class="mb-12 text-center lg:mb-0 lg:text-left xl:mr-6">
-                        <img class="inline rounded-lg" src="images/details-lightbox.jpg" alt="alternative" />
+                        <img class="inline rounded-lg" src="<?php echo $baseUrl ?>/images/details-lightbox.jpg" alt="alternative" />
                     </div>
                 </div> <!-- end of col -->
                 <div class="lg:col-span-4">
@@ -222,7 +222,7 @@
                 </div> <!-- end of col -->
                 <div class="lg:col-span-7">
                     <div class="ml-14">
-                        <img class="inline" src="images/details-3.jpg" alt="alternative" />
+                        <img class="inline" src="<?php echo $baseUrl ?>/images/details-3.jpg" alt="alternative" />
                     </div>
                 </div> <!-- end of col -->
             </div> <!-- end of container -->
@@ -289,7 +289,7 @@
                             <!-- Slide -->
                             <div class="swiper-slide">
                                 <div class="card">
-                                    <img class="card-image" src="images/testimonial-2.jpg" alt="alternative" />
+                                    <img class="card-image" src="<?php echo $baseUrl ?>/images/testimonial-2.jpg" alt="alternative" />
                                     <div class="card-body">
                                         <p class="italic mb-3">We were so focused on launching as many campaigns as possible that we've forgotten to target our loyal customers</p>
                                         <p class="testimonial-author">Roy Smith - Developer</p>
@@ -301,7 +301,7 @@
                             <!-- Slide -->
                             <div class="swiper-slide">
                                 <div class="card">
-                                    <img class="card-image" src="images/testimonial-3.jpg" alt="alternative" />
+                                    <img class="card-image" src="<?php echo $baseUrl ?>/images/testimonial-3.jpg" alt="alternative" />
                                     <div class="card-body">
                                         <p class="italic mb-3">I've been searching for a tool like Pavo for so long. I love the reports it generates and the amazing high accuracy</p>
                                         <p class="testimonial-author">Marsha Singer - Marketer</p>
@@ -313,7 +313,7 @@
                             <!-- Slide -->
                             <div class="swiper-slide">
                                 <div class="card">
-                                    <img class="card-image" src="images/testimonial-4.jpg" alt="alternative" />
+                                    <img class="card-image" src="<?php echo $baseUrl ?>/images/testimonial-4.jpg" alt="alternative" />
                                     <div class="card-body">
                                         <p class="italic mb-3">We've been waiting for a powerful piece of software that can help businesses manage their marketing projects</p>
                                         <p class="testimonial-author">Tim Shaw - Designer</p>
@@ -325,7 +325,7 @@
                             <!-- Slide -->
                             <div class="swiper-slide">
                                 <div class="card">
-                                    <img class="card-image" src="images/testimonial-5.jpg" alt="alternative" />
+                                    <img class="card-image" src="<?php echo $baseUrl ?>/images/testimonial-5.jpg" alt="alternative" />
                                     <div class="card-body">
                                         <p class="italic mb-3">Searching for a great prototyping and layout design app was difficult but thankfully I found app suite quickly</p>
                                         <p class="testimonial-author">Lindsay Spice - Marketer</p>
@@ -337,7 +337,7 @@
                             <!-- Slide -->
                             <div class="swiper-slide">
                                 <div class="card">
-                                    <img class="card-image" src="images/testimonial-6.jpg" alt="alternative" />
+                                    <img class="card-image" src="<?php echo $baseUrl ?>/images/testimonial-6.jpg" alt="alternative" />
                                     <div class="card-body">
                                         <p class="italic mb-3">The app support team is amazing. They've helped me with some issues and I am so grateful to the entire team</p>
                                         <p class="testimonial-author">Ann Blake - Developer</p>
@@ -363,118 +363,14 @@
 
 
         <!-- Pricing -->
-        <div id="pricing" class="cards-2">
-            <div class="absolute bottom-0 h-40 w-full bg-white"></div>
-            <div class="container px-4 pb-px sm:px-8">
-                <h2 class="mb-2.5 text-white lg:max-w-xl lg:mx-auto">Pricing options for all budgets</h2>
-                <p class="mb-16 text-white lg:max-w-3xl lg:mx-auto"> Our pricing plans are setup in such a way that any user can start enjoying Pavo without worrying so much about costs. They are flexible and work for any type of industry </p>
-
-                <!-- Card-->
-                <div class="card">
-                    <div class="card-body">
-                        <div class="card-title">STANDARD</div>
-                        <div class="price"><span class="currency">$</span><span class="value">29</span></div>
-                        <div class="frequency">monthly</div>
-                        <p>This basic package covers the marketing needs of small startups</p>
-                        <ul class="list mb-7 space-y-2 text-left">
-                            <li class="flex">
-                                <i class="fas fa-chevron-right"></i>
-                                <div>List building and relations</div>
-                            </li>
-                            <li class="flex">
-                                <i class="fas fa-chevron-right"></i>
-                                <div>Seamless platform integration</div>
-                            </li>
-                            <li class="flex">
-                                <i class="fas fa-chevron-right"></i>
-                                <div>Great performance on devices</div>
-                            </li>
-                            <li class="flex">
-                                <i class="fas fa-chevron-right"></i>
-                                <div>Community support and videos</div>
-                            </li>
-                        </ul>
-                        <div class="button-wrapper">
-                            <a class="btn-solid-reg page-scroll" href="career.php">Download</a>
-                        </div>
-                    </div>
-                </div> <!-- end of card -->
-                <!-- end of card -->
-
-                <!-- Card-->
-                <div class="card">
-                    <div class="card-body">
-                        <div class="card-title">ADVANCED</div>
-                        <div class="price"><span class="currency">$</span><span class="value">39</span></div>
-                        <div class="frequency">monthly</div>
-                        <p>This is a more advanced package suited for medium companies</p>
-                        <ul class="list mb-7 space-y-2 text-left">
-                            <li class="flex">
-                                <i class="fas fa-chevron-right"></i>
-                                <div>List building and relations</div>
-                            </li>
-                            <li class="flex">
-                                <i class="fas fa-chevron-right"></i>
-                                <div>Seamless platform integration</div>
-                            </li>
-                            <li class="flex">
-                                <i class="fas fa-chevron-right"></i>
-                                <div>Great performance on devices</div>
-                            </li>
-                            <li class="flex">
-                                <i class="fas fa-chevron-right"></i>
-                                <div>Community support and videos</div>
-                            </li>
-                        </ul>
-                        <div class="button-wrapper">
-                            <a class="btn-solid-reg page-scroll" href="career.php">Download</a>
-                        </div>
-                    </div>
-                </div> <!-- end of card -->
-                <!-- end of card -->
-
-                <!-- Card-->
-                <div class="card">
-                    <div class="card-body">
-                        <div class="card-title">COMPLETE</div>
-                        <div class="price"><span class="currency">$</span><span class="value">49</span></div>
-                        <div class="frequency">monthly</div>
-                        <p>This is a comprehensive package designed for big organizations</p>
-                        <ul class="list mb-7 text-left space-y-2">
-                            <li class="flex">
-                                <i class="fas fa-chevron-right"></i>
-                                <div>List building and relations</div>
-                            </li>
-                            <li class="flex">
-                                <i class="fas fa-chevron-right"></i>
-                                <div>Seamless platform integration</div>
-                            </li>
-                            <li class="flex">
-                                <i class="fas fa-chevron-right"></i>
-                                <div>Great performance on devices</div>
-                            </li>
-                            <li class="flex">
-                                <i class="fas fa-chevron-right"></i>
-                                <div>Community support and videos</div>
-                            </li>
-                        </ul>
-                        <div class="button-wrapper">
-                            <a class="btn-solid-reg page-scroll" href="career.php">Download</a>
-                        </div>
-                    </div>
-                </div> <!-- end of card -->
-                <!-- end of card -->
-
-            </div> <!-- end of container -->
-        </div> <!-- end of cards-2 -->
-        <!-- end of pricing -->
+     
 
 
         <!-- Conclusion -->
         <div id="download" class="basic-5">
             <div class="container px-4 sm:px-8 lg:grid lg:grid-cols-2">
                 <div class="mb-16 lg:mb-0">
-                    <img src="images/conclusion-smartphone.png" alt="alternative" />
+                    <img src="<?php echo $baseUrl ?>/images/conclusion-smartphone.png" alt="alternative" />
                 </div>
                 <div class="lg:mt-24 xl:mt-44 xl:ml-12">
                     <p class="mb-9 text-gray-800 text-3xl leading-10">Team management mobile applications don’t get much better than Pavo. Download it today</p>
