@@ -1,6 +1,3 @@
-<?php
-      require "header.php";
-?>
 
         <!-- Header -->
         <header id="header" class=" py-28 text-center  lg:text-left  xl:pb-32">
@@ -487,6 +484,4 @@
         <!-- end of conclusion -->
 
 
-     <?php
-             require "footer.php";
-     ?>
+   
