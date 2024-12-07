@@ -244,14 +244,9 @@
     class="block w-full p-3 text-sm text-gray-900 bg-gray-50 border border-gray-300 rounded-lg shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
     required
   >
-    <option value="job">Job</option>
-    <option value="internship">Internship</option>
-    <option value="freelance">Freelance</option>
-    <option value="contract">Contract</option>
+  <option value="">—Please choose an option—</option><option value="Franchisee">Franchisee</option><option value="Distributor">Distributor</option><option value="Retailer">Retailer</option><option value="Become a Banker">Become a Banker</option><option value="Start Kiosk ATM Franchisee Partnership">Start Kiosk ATM Franchisee Partnership</option><option value="Start Kiosk ATM Distributorship">Start Kiosk ATM Distributorship</option><option value="Be a Digital conveniences Distributor">Be a Digital conveniences Distributor</option><option value="Start your White Label Dashboard">Start your White Label Dashboard</option><option value="Customised API services partnership">Customised API services partnership</option><option value="Tally Prime Services and customization">Tally Prime Services and customization</option>
   </select>
 </div>
-
-
           <div>
             <input
               type="email"
