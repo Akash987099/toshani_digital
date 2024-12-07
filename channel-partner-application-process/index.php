@@ -604,20 +604,37 @@
             />
           </div>
 
-          <div class="sm:col-span-2">
-            <textarea
-              id="message"
-              rows="6"
-              class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg shadow-sm border border-gray-300 focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
-              placeholder="Cover Letter"
-            ></textarea>
+          
+
+          <div>
+          <label class="block text-gray-700 font-medium mb-2">
+          Address Proof Type:
+  </label>
+
+  <select name="" id=""  class="block p-3 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"> 
+  <option value="">—Please choose an option—</option><option value="Bank Pass Book">Bank Pass Book</option><option value="Digital Bonafide">Digital Bonafide</option><option value="Domicile">Domicile</option><option value="Driving License">Driving License</option><option value="Electricity Bill">Electricity Bill</option><option value="Gas Bill">Gas Bill</option><option value="Passport">Passport</option><option value="Ration Card">Ration Card</option><option value="Telephone Bill (Postpaid/Landline)">Telephone Bill (Postpaid/Landline)</option><option value="Voter Card">Voter Card</option>
+  </select>
+           
+          </div>
+
+          <div>
+          <label class="block text-gray-700 font-medium mb-2">
+          Address Proof Number:
+  </label>
+            <input
+              type="text"
+              id="subject"
+              class="block p-3 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
+              placeholder="Address 2"
+              required
+            />
           </div>
 
           <div>
             <label
               for="email"
               class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300"
-              >Attach Resume</label
+              >Scanned copy</label
             >
             <input
               type="file"
@@ -627,6 +644,66 @@
               required
             />
           </div>
+
+          <div class="mb-4">
+  <label class="block text-gray-700 font-medium mb-2">Capital (able to provide bank guarantee or pay cash in advance)</label>
+  <div class="flex items-center space-x-4">
+    <!-- Yes Option -->
+    <label class="flex items-center space-x-2">
+      <input 
+        type="radio" 
+        name="pan_card" 
+        value="Yes" 
+        class="w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500"
+        required
+      />
+      <span class="text-gray-700">Above 50 LACS</span>
+    </label>
+
+    <!-- No Option -->
+    <label class="flex items-center space-x-2">
+      <input 
+        type="radio" 
+        name="pan_card" 
+        value="No" 
+        class="w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500"
+      />
+      <span class="text-gray-700">20-25 LACS</span>
+    </label>
+
+    <label class="flex items-center space-x-2">
+      <input 
+        type="radio" 
+        name="pan_card" 
+        value="No" 
+        class="w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500"
+      />
+      <span class="text-gray-700">5-20 LACS</span>
+    </label>
+
+    <label class="flex items-center space-x-2">
+      <input 
+        type="radio" 
+        name="pan_card" 
+        value="No" 
+        class="w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500"
+      />
+      <span class="text-gray-700">Buy in Cash</span>
+    </label>
+
+  </div>
+</div>
+
+          <div class="sm:col-span-2">
+            <textarea
+              id="message"
+              rows="6"
+              class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg shadow-sm border border-gray-300 focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
+              placeholder="Cover Letter"
+            ></textarea>
+          </div>
+
+         
 
           <button
             style="background-color: red"
