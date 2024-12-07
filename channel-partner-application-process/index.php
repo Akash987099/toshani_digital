@@ -338,6 +338,74 @@
   </div>
 </div>
 
+<div>
+          <label class="block text-gray-700 font-medium mb-2">
+          Date of Birth
+  </label>
+            <input
+              type="date"
+              id="subject"
+              class="block p-3 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
+              placeholder="Last name"
+              required
+            />
+          </div>
+
+          <div class="mb-4">
+  <label class="block text-gray-700 font-medium mb-2">Are you an Ex-Employee?</label>
+  <div class="flex items-center space-x-4">
+    <!-- Yes Option -->
+    <label class="flex items-center space-x-2">
+      <input 
+        type="radio" 
+        name="pan_card" 
+        value="Yes" 
+        class="w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500"
+        required
+      />
+      <span class="text-gray-700">Yes</span>
+    </label>
+
+    <!-- No Option -->
+    <label class="flex items-center space-x-2">
+      <input 
+        type="radio" 
+        name="pan_card" 
+        value="No" 
+        class="w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500"
+      />
+      <span class="text-gray-700">No</span>
+    </label>
+
+  </div>
+</div>
+
+
+
+<div>
+          <label class="block text-gray-700 font-medium mb-2">
+          Current Occupation
+  </label>
+
+  <select name="" id=""  class="block p-3 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"> 
+  <option value="">—Please choose an option—</option><option value="Insurance Agent">Insurance Agent</option><option value="MLM Agents">MLM Agents</option><option value="Travel Agents">Travel Agents</option><option value="Service/Working Professional">Service/Working Professional</option><option value="DSA for Loan Companies">DSA for Loan Companies</option><option value="Mobile Phone/Recharge Outlet">Mobile Phone/Recharge Outlet</option><option value="Entrepreneur/Proprietor">Entrepreneur/Proprietor</option><option value="Retail Store">Retail Store</option><option value="Grocery General Store">Grocery General Store</option><option value="Medical Store/Pharmacy">Medical Store/Pharmacy</option><option value="Business &amp; Finance">Business &amp; Finance</option><option value="Photographers">Photographers</option><option value="Money Transfer Agent">Money Transfer Agent</option><option value="CSC">CSC</option><option value="E-Mitra Agent">E-Mitra Agent</option><option value="Bill Payment Agent">Bill Payment Agent</option><option value="Banking Point">Banking Point</option><option value="Student">Student</option><option value="House Wife">House Wife</option>
+  </select>
+           
+          </div>
+
+       
+
+          <div>
+          <label class="block text-gray-700 font-medium mb-2">
+          How did you come to know about Toshani?
+  </label>
+
+  <select name="" id=""  class="block p-3 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"> 
+  <option value="">—Please choose an option—</option><option value="Email">Email</option><option value="Facebook">Facebook</option><option value="Friends / Relative">Friends / Relative</option><option value="Internet Search / Website">Internet Search / Website</option><option value="Newspaper">Newspaper</option><option value="Social Media">Social Media</option><option value="Twitter">Twitter</option><option value="Vakrangee Franchisee">Vakrangee Franchisee</option><option value="WhatsApp Message">WhatsApp Message</option><option value="YouTube">YouTube</option><option value="Others">Others</option>
+  </select>
+           
+          </div>
+
           <div class="sm:col-span-2">
             <textarea
               id="message"
