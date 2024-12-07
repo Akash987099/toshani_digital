@@ -406,6 +406,18 @@
            
           </div>
 
+       
+          <div>
+          <label class="block text-gray-700 font-medium mb-2">
+          Referred by
+  </label>
+
+  <select name="" id=""  class="block p-3 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"> 
+  <option value="None">None</option><option value="Employee">Employee</option><option value="Franchisee">Franchisee</option><option value="Agent">Agent</option><option value="Master Franchisee">Master Franchisee</option>
+  </select>
+           
+          </div>
+
           <div class="sm:col-span-2">
             <textarea
               id="message"
