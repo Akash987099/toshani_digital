@@ -193,7 +193,38 @@
           Apply for a Job
         </h2>
         <form action="#" class="space-y-8">
+
+        <div class="mb-4">
+  <label class="block text-gray-700 font-medium mb-2">Do you have a PAN Card?</label>
+  <div class="flex items-center space-x-4">
+    <!-- Yes Option -->
+    <label class="flex items-center space-x-2">
+      <input 
+        type="radio" 
+        name="pan_card" 
+        value="Yes" 
+        class="w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500"
+        required
+      />
+      <span class="text-gray-700">Yes</span>
+    </label>
+
+    <!-- No Option -->
+    <label class="flex items-center space-x-2">
+      <input 
+        type="radio" 
+        name="pan_card" 
+        value="No" 
+        class="w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500"
+      />
+      <span class="text-gray-700">No</span>
+    </label>
+  </div>
+</div>
+
+
           <div>
+            <label for="">Do you have a PAN Card?</label>
             <input
               type="text"
               id="email"
