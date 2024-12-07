@@ -248,14 +248,17 @@
   </select>
 </div>
           <div>
-            <input
-              type="email"
-              id="subject"
-              class="block p-3 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
-              placeholder="Your Mobile Number"
-              required
-            />
+          <label class="block text-gray-700 font-medium mb-2">
+          Entity Type
+  </label>
+
+  <select name="" id=""  class="block p-3 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"> 
+  <option value="">—Please choose an option—</option><option value="Co-operative Society">Co-operative Society</option><option value="Company">Company</option><option value="Individual">Individual</option><option value="Limited Liability Partnership Firm (LLP)">Limited Liability Partnership Firm (LLP)</option><option value="NGO">NGO</option><option value="Partnership">Partnership</option><option value="Proprietorship (Owned by Individual)">Proprietorship (Owned by Individual)</option><option value="Proprietorship (Owned by HUF)">Proprietorship (Owned by HUF)</option><option value="Self Help Group">Self Help Group</option><option value="Trust">Trust</option>
+  </select>
+           
           </div>
+
+         
 
           <div>
             <input
