@@ -28,7 +28,7 @@
               <div class="lg:mb-0 xl:mr-14">
                 <img
                   class="inline"
-                  src="../images/Toshani-Support-1-1024x595.png"
+                  src="<?php echo $baseUrl ?>/inag/minni-mul.jpg"
                   width="800"
                   height="800"
                   alt="alternative"
