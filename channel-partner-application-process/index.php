@@ -262,24 +262,81 @@
           <h2>Personal Details</h2>
 
           <div>
+          <label class="block text-gray-700 font-medium mb-2">
+          First Name
+  </label>
             <input
-              type="email"
+              type="text"
               id="subject"
               class="block p-3 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
-              placeholder="Your Mobile Number"
+              placeholder="First name"
               required
             />
           </div>
 
           <div>
+          <label class="block text-gray-700 font-medium mb-2">
+          Middle Name
+  </label>
             <input
-              type="email"
+              type="text"
               id="subject"
               class="block p-3 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
-              placeholder="Experience Year"
+              placeholder="Middle Name"
               required
             />
           </div>
+
+          <div>
+          <label class="block text-gray-700 font-medium mb-2">
+          Last name
+  </label>
+            <input
+              type="text"
+              id="subject"
+              class="block p-3 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
+              placeholder="Last name"
+              required
+            />
+          </div>
+
+          <div class="mb-4">
+  <label class="block text-gray-700 font-medium mb-2">Gender</label>
+  <div class="flex items-center space-x-4">
+    <!-- Yes Option -->
+    <label class="flex items-center space-x-2">
+      <input 
+        type="radio" 
+        name="pan_card" 
+        value="Yes" 
+        class="w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500"
+        required
+      />
+      <span class="text-gray-700">Male</span>
+    </label>
+
+    <!-- No Option -->
+    <label class="flex items-center space-x-2">
+      <input 
+        type="radio" 
+        name="pan_card" 
+        value="No" 
+        class="w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500"
+      />
+      <span class="text-gray-700">Female</span>
+    </label>
+
+    <label class="flex items-center space-x-2">
+      <input 
+        type="radio" 
+        name="pan_card" 
+        value="No" 
+        class="w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500"
+      />
+      <span class="text-gray-700">Other</span>
+    </label>
+  </div>
+</div>
 
           <div class="sm:col-span-2">
             <textarea
