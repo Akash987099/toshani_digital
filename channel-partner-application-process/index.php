@@ -224,24 +224,33 @@
 
 
           <div>
-            <label for="">Do you have a PAN Card?</label>
             <input
               type="text"
               id="email"
               class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
-              placeholder="Your Name"
+              placeholder="Enter PANCARD "
               required
             />
           </div>
-          <div>
-            <input
-              type="email"
-              id="subject"
-              class="block p-3 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"
-              placeholder="Your Email Address"
-              required
-            />
-          </div>
+          
+          <div class="mb-4">
+  <label class="block text-gray-700 font-medium mb-2">
+    Applying for: <span class="text-sm text-gray-500">(Hold 'Ctrl' or 'Cmd' key to select multiple options)</span>
+  </label>
+  <select
+    id="applying_for"
+    name="applying_for[]"
+    multiple
+    class="block w-full p-3 text-sm text-gray-900 bg-gray-50 border border-gray-300 rounded-lg shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
+    required
+  >
+    <option value="job">Job</option>
+    <option value="internship">Internship</option>
+    <option value="freelance">Freelance</option>
+    <option value="contract">Contract</option>
+  </select>
+</div>
+
 
           <div>
             <input
