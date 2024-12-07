@@ -28,7 +28,7 @@
               <div class="lg:mb-0 xl:mr-14">
                 <img
                   class="inline"
-                  src="<?php echo $baseUrl ?>/inag/minni-mul.jpg"
+                  src="<?php echo $baseUrl ?>/inag/mini-mul.jpg"
                   width="800"
                   height="800"
                   alt="alternative"
