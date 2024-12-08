@@ -109,6 +109,7 @@
                 <!-- end of card -->
 
 
+                <br>
                 <button
                 style="background-color: red"
                 type="submit"
@@ -116,7 +117,9 @@
               >
                 Send message
               </button>
-              
+
+              <br>
+              <br>
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image">
