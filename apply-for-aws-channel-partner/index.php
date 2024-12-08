@@ -115,7 +115,7 @@
                 type="submit"
                 class="py-3 px-5 text-sm font-medium text-center text-white rounded-lg bg-danger-700 sm:w-fit hover:bg-danger-800 focus:ring-4 focus:outline-none focus:ring-danger-300 dark:bg-danger-600 dark:hover:bg-danger-700 dark:focus:ring-danger-800"
               >
-                Send message
+                Apply
               </button>
 
               <br>
@@ -123,18 +123,19 @@
 
               <div class="  xl:mr-12">
                     <p class="p-title">Become our Channel Partner</p>
-                    <h1 class="h1-large mb-5">Why AWS Connect Channel Partner?</h1>
-                    <p class="p-large mb-8">Spread smiles to every customer who enters your shop with premium Digital solutions for Banking, Financial and Insurance services. Serve the society for a good cause & earn better profitability from your business.</p>
+                    <h1 class="h1-large mb-5">Benefits of becoming Toshani Channel Partner</h1>
+                    <!-- <p class="p-large mb-8">Spread smiles to every customer who enters your shop with premium Digital solutions for Banking, Financial and Insurance services. Serve the society for a good cause & earn better profitability from your business.</p> -->
                     <!-- <a class="btn-solid-lg secondary" href="apply-for-toshani-channel-partner/index.php">Become a Channel Partner</a> -->
                 </div>
-                
+
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image">
-                        <img src="<?php echo $baseUrl ?>/images/features-icon-6.svg" alt="alternative" />
+                        <!-- <img src="<?php echo $baseUrl ?>/images/features-icon-6.svg" alt="alternative" /> -->
+                        <i aria-hidden="true" class="icon icon-apartment1"></i>
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">Community Support</h5>
+                        <h5 class="card-title"></h5>
                         <p class="mb-4">Register the app and get acces to knowledge and ideas from the Pavo online community</p>
                     </div>
                 </div>
