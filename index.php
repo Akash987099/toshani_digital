@@ -822,7 +822,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                 <div class="card">
                   <img
                     class="slider-image"
-                    src="images/testimonial-2.jpg"
+                    src="<?php echo $baseUrl ?>/inag/LOGO.png"
                     alt="alternative"
                   />
                   <p class="testimonial-author">Gurvinder singh - Master Distributor</p>
