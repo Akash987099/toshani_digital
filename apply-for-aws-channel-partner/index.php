@@ -37,7 +37,8 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image">
-                        <img src="<?php echo $baseUrl ?>/images/features-icon-1.svg" alt="alternative" />
+                        <!-- <img src="<?php echo $baseUrl ?>/images/features-icon-1.svg" alt="alternative" /> -->
+                         <h5>Accept Payment without cash</h5>
                     </div>
                     <div class="card-body">
                         <h5 class="card-title">Platform Integration</h5>
