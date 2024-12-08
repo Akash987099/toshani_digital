@@ -35,7 +35,7 @@
             <div class="container px-4 sm:px-8 xl:px-4">
 
                 <!-- Card -->
-                <div class="card">
+                <div class="card p-6">
                     <div class="card-image">
                          <h5>Accept Payment without cash</h5>
                     </div>
@@ -47,7 +47,7 @@
                 <!-- end of card -->
 
                 <!-- Card -->
-                <div class="card">
+                <div class="card p-6">
                     <div class="card-image">
                          <h5>Accept Payment without cash</h5>
                     </div>
@@ -59,7 +59,7 @@
                 <!-- end of card -->
 
                 <!-- Card -->
-                <div class="card">
+                <div class="card p-6">
                     <div class="card-image">
                          <h5>Accept Payment without cash</h5>
                     </div>
