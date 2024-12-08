@@ -129,7 +129,7 @@
                 </div>
 
                 <!-- Card -->
-                <div class="card">
+                <div class="card d-flex">
                     <div class="card-image">
                     <h5>Own the World's Biggest E-Mall</h5>
                     </div>
@@ -142,7 +142,7 @@
 
 
                   <!-- Card -->
-                  <div class="card">
+                  <div class="card d-flex">
                     <div class="card-image">
                     <h5>Agency or a distributorship of various Services</h5>
                     </div>
@@ -154,7 +154,7 @@
                 <!-- end of card -->
 
                 <!-- Card -->
-                <div class="card">
+                <div class="card d-flex">
                     <div class="card-image">
                     <h5>Trust and Respect</h5>
                     </div>
@@ -167,7 +167,7 @@
 
                 
                 <!-- Card -->
-                <div class="card">
+                <div class="card d-flex">
                     <div class="card-image">
                     <h5>Attractive ROI and Quick Payback of CAPEX</h5>
                     </div>
@@ -179,7 +179,7 @@
                 <!-- end of card -->
 
                 <!-- Card -->
-                <div class="card">
+                <div class="card d-flex">
                     <div class="card-image">
                     <h5>Last Mile Infrastructure and Technology Support</h5>
                     </div>
@@ -191,7 +191,7 @@
                 <!-- end of card -->
 
                  <!-- Card -->
-                 <div class="card">
+                 <div class="card d-flex">
                     <div class="card-image">
                     <h5>OPEX and CAPEX Model</h5>
                     </div>
