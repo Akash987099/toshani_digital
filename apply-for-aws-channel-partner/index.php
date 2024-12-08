@@ -108,6 +108,15 @@
                 </div>
                 <!-- end of card -->
 
+
+                <button
+                style="background-color: red"
+                type="submit"
+                class="py-3 px-5 text-sm font-medium text-center text-white rounded-lg bg-danger-700 sm:w-fit hover:bg-danger-800 focus:ring-4 focus:outline-none focus:ring-danger-300 dark:bg-danger-600 dark:hover:bg-danger-700 dark:focus:ring-danger-800"
+              >
+                Send message
+              </button>
+              
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image">
