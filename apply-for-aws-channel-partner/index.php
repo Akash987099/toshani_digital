@@ -21,10 +21,10 @@
         <!-- Introduction -->
         <div class="pt-4 pb-14 text-center">
         <div class="  xl:mr-12">
-                    <p class="p-title">AWS Connect</p>
-                    <h1 class="h1-large mb-5">Your One-Stop Solution for all Banking & Financial Needs</h1>
-                    <p class="p-large mb-8">Empower your business by offering comprehensive Banking, Payment, and Verification services to your customers through a partnership with AWS Connect. Join hands for a seamless and secure financial experience.</p>
-                    <a class="btn-solid-lg secondary" href="apply-for-toshani-channel-partner/index.php">Become a Channel Partner</a>
+                    <p class="p-title">Become our Channel Partner</p>
+                    <h1 class="h1-large mb-5">Why AWS Connect Channel Partner?</h1>
+                    <p class="p-large mb-8">Spread smiles to every customer who enters your shop with premium Digital solutions for Banking, Financial and Insurance services. Serve the society for a good cause & earn better profitability from your business.</p>
+                    <!-- <a class="btn-solid-lg secondary" href="apply-for-toshani-channel-partner/index.php">Become a Channel Partner</a> -->
                 </div>
         </div>
         <!-- end of introduction -->
