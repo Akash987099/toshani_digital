@@ -131,12 +131,73 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image">
-                        <!-- <img src="<?php echo $baseUrl ?>/images/features-icon-6.svg" alt="alternative" /> -->
-                        <i aria-hidden="true" class="icon icon-apartment1"></i>
+                    <h5>Own the World's Biggest E-Mall</h5>
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title"></h5>
-                        <p class="mb-4">Register the app and get acces to knowledge and ideas from the Pavo online community</p>
+                        <!-- <h5 class="card-title">Own the World's Biggest E-Mall</h5> -->
+                        <p class="mb-4">We are a technology-driven company, which emerged as a one-stop-shop digital convenience store. Being our franchisee partner enables you to own the World’s Biggest E-Mall with a wide range of products and services.</p>
+                    </div>
+                </div>
+                <!-- end of card -->
+
+
+                  <!-- Card -->
+                  <div class="card">
+                    <div class="card-image">
+                    <h5>Agency or a distributorship of various Services</h5>
+                    </div>
+                    <div class="card-body">
+                        <!-- <h5 class="card-title">Own the World's Biggest E-Mall</h5> -->
+                        <p class="mb-4">Through Toshani, the channel Partner get agency or a distributorship of various services such as Banking, KIOSK ATM, White level Services, API services and Digital platforms for single stop shop   amongst others under one roof.</p>
+                    </div>
+                </div>
+                <!-- end of card -->
+
+                <!-- Card -->
+                <div class="card">
+                    <div class="card-image">
+                    <h5>Trust and Respect</h5>
+                    </div>
+                    <div class="card-body">
+                        <!-- <h5 class="card-title">Own the World's Biggest E-Mall</h5> -->
+                        <p class="mb-4">The Toshani channel partnership is in line with the Government’s vision of financial, digital, and social inclusion as well as skill development and employment generation. Partnering with us helps you to receive Trust and Respect within your community.</p>
+                    </div>
+                </div>
+                <!-- end of card -->
+
+                
+                <!-- Card -->
+                <div class="card">
+                    <div class="card-image">
+                    <h5>Attractive ROI and Quick Payback of CAPEX</h5>
+                    </div>
+                    <div class="card-body">
+                        <!-- <h5 class="card-title">Own the World's Biggest E-Mall</h5> -->
+                        <p class="mb-4">Toshani Channel partnership business model has evolved to give Attractive ROI and Quick Payback of Capex in the retail and service industry</p>
+                    </div>
+                </div>
+                <!-- end of card -->
+
+                <!-- Card -->
+                <div class="card">
+                    <div class="card-image">
+                    <h5>Last Mile Infrastructure and Technology Support</h5>
+                    </div>
+                    <div class="card-body">
+                        <!-- <h5 class="card-title">Own the World's Biggest E-Mall</h5> -->
+                        <p class="mb-4">Our organization structure enables us to render Last Mile Infrastructure and Technology Support, ensuring a smooth and seamless delivery of services</p>
+                    </div>
+                </div>
+                <!-- end of card -->
+
+                 <!-- Card -->
+                 <div class="card">
+                    <div class="card-image">
+                    <h5>OPEX and CAPEX Model</h5>
+                    </div>
+                    <div class="card-body">
+                        <!-- <h5 class="card-title">Own the World's Biggest E-Mall</h5> -->
+                        <p class="mb-4">As a key to standardising the outlets, Opex and Capex will be provided to the Channel Partners on Custodian Basis by Toshani on real Time Commission and settlement. The Kiosk ATM business will drive a lucrative return on investment.</p>
                     </div>
                 </div>
                 <!-- end of card -->
