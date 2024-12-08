@@ -748,7 +748,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                     src="images/testimonial-1.jpg"
                     alt="alternative"
                   />
-                  <p class="testimonial-author">Jude Thorn - Designer</p>
+                  <p class="testimonial-author">Manish Dixit - Distributor</p>
                   <p>AWS ConnectService Partner Jabalpur, Madhya Pradesh</p>
                   <div class=" flex justify-center my-4 gap-1">
                     <svg
@@ -809,8 +809,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                   </div>
                   <div class="card-body">
                     <p class="italic mb-3">
-                      It's been so fun to work with Pavo, I've managed to
-                      integrate it properly into my business flow and it's great
+                    Aws Connect has not only increased my income but also helped me in growing my business and has provided all the support required. The harder you work, the more commission you will get. The services at Aws Connect are fast, simple and effective.
                     </p>
                   </div>
                 </div>
@@ -826,8 +825,8 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                     src="images/testimonial-2.jpg"
                     alt="alternative"
                   />
-                  <p class="testimonial-author">Jude Thorn - Designer</p>
-                  <p>AWS ConnectService Partner Jabalpur, Madhya Pradesh</p>
+                  <p class="testimonial-author">Gurvinder singh - Master Distributor</p>
+                  <!-- <p>AWS ConnectService Partner Jabalpur, Madhya Pradesh</p> -->
                   <div class=" flex justify-center my-4 gap-1">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -887,9 +886,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                   </div>
                   <div class="card-body">
                     <p class="italic mb-3">
-                      We were so focused on launching as many campaigns as
-                      possible that we've forgotten to target our loyal
-                      customers
+                    "Aws Connect has helped us a lot by providing simple and effective services which add to our income. It has also helped us to be a part of a big network and grow relationships. Also, the commitment made by Aws Connect is always fulfilled and a team of relationship managers to support your business at all times."
                     </p>
                   </div>
                 </div>
