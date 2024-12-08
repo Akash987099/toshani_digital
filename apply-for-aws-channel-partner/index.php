@@ -41,8 +41,8 @@
                          <h5>Accept Payment without cash</h5>
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">Platform Integration</h5>
-                        <p class="mb-4">You sales force can use the app on any smartphone platform without compatibility issues</p>
+                        <!-- <h5 class="card-title">Platform Integration</h5> -->
+                        <p class="mb-4">Accept payments through payment cards (credit cards, debit cards, gift cards etc.) using the POS machines at your premises and increase your sales.</p>
                     </div>
                 </div>
                 <!-- end of card -->
