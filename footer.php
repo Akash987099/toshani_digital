@@ -226,7 +226,7 @@
                   class="text-gray-500 text-left dark:text-gray-400 font-medium"
                 >
                   <li class="mb-2 text-sm">
-                    B-3 Sector 02 Noida 2201301
+                  D-4 Shankar Square Teade Center Agra U.P 282003
                   </li>
                 </ul>
               </div>
