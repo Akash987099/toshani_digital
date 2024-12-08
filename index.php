@@ -745,7 +745,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                 <div class="card">
                   <img
                     class="slider-image"
-                    src="images/testimonial-1.jpg"
+                    src="<?php echo $baseUrl ?>/inag/LOGO.png"
                     alt="alternative"
                   />
                   <p class="testimonial-author">Manish Dixit - Distributor</p>
@@ -899,11 +899,11 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                 <div class="card">
                   <img
                     class="slider-image"
-                    src="images/testimonial-3.jpg"
+                    src="<?php echo $baseUrl ?>/inag/LOGO.png"
                     alt="alternative"
                   />
-                  <p class="testimonial-author">Jude Thorn - Designer</p>
-                  <p>AWS ConnectService Partner Jabalpur, Madhya Pradesh</p>
+                  <p class="testimonial-author">Mahindera Singh - Distributor</p>
+                  <!-- <p>AWS ConnectService Partner Jabalpur, Madhya Pradesh</p> -->
                   <div class=" flex justify-center my-4 gap-1">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -963,9 +963,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                   </div>
                   <div class="card-body">
                     <p class="italic mb-3">
-                      I've been searching for a tool like Pavo for so long. I
-                      love the reports it generates and the amazing high
-                      accuracy
+                    The services provided by Aws Connect are really good, it has provided a good platform to the retailers to make their shops digital and earn an extra income. Now a customer does not have to stand in long queues or go to the bank, they can simply visit their nearest outlet to avail any type of services.
                     </p>
                   </div>
                 </div>
@@ -980,10 +978,10 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                 <div class="card">
                   <img
                     class="slider-image"
-                    src="images/testimonial-4.jpg"
+                     src="<?php echo $baseUrl ?>/inag/LOGO.png"
                     alt="alternative"
                   />
-                  <p class="testimonial-author">Jude Thorn - Designer</p>
+                  <p class="testimonial-author">Danish ali - Distributor</p>
                   <p>AWS ConnectService Partner Jabalpur, Madhya Pradesh</p>
                   <div class=" flex justify-center my-4 gap-1">
                     <svg
@@ -1044,8 +1042,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                   </div>
                   <div class="card-body">
                     <p class="italic mb-3">
-                      We've been waiting for a powerful piece of software that
-                      can help businesses manage their marketing projects
+                    Aws Connect has helped us a lot by providing simple and effective services which add to our income. Also, the commitment made by Aws Connect is always fulfilled and a team of relationship managers to support your business at all times.
                     </p>
                   </div>
                 </div>
@@ -1058,7 +1055,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                 <div class="card">
                   <img
                     class="slider-image"
-                    src="images/testimonial-5.jpg"
+                    src="<?php echo $baseUrl ?>/inag/LOGO.png"
                     alt="alternative"
                   />
                 
@@ -1134,14 +1131,16 @@ We aggregates various financial services and provides to 500 Mn people at bottom
               <!-- end of slide -->
 
               <!-- Slide -->
-              <div class="swiper-slide bg-gray-50 py-24 px-20 shadow-lg">
+              <div
+                class="swiper-slide bg-gray-50 py-24 px-20 shadow-lg"
+              >
                 <div class="card">
                   <img
                     class="slider-image"
-                    src="images/testimonial-6.jpg"
+                     src="<?php echo $baseUrl ?>/inag/LOGO.png"
                     alt="alternative"
                   />
-                  <p class="testimonial-author">Jude Thorn - Designer</p>
+                  <p class="testimonial-author">Danish ali - Distributor</p>
                   <p>AWS ConnectService Partner Jabalpur, Madhya Pradesh</p>
                   <div class=" flex justify-center my-4 gap-1">
                     <svg
@@ -1202,10 +1201,8 @@ We aggregates various financial services and provides to 500 Mn people at bottom
                   </div>
                   <div class="card-body">
                     <p class="italic mb-3">
-                      The app support team is amazing. They've helped me with
-                      some issues and I am so grateful to the entire team
+                    Aws Connect has helped us a lot by providing simple and effective services which add to our income. Also, the commitment made by Aws Connect is always fulfilled and a team of relationship managers to support your business at all times.
                     </p>
-                    
                   </div>
                 </div>
               </div>
