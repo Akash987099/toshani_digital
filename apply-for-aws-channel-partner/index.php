@@ -20,9 +20,12 @@
 
         <!-- Introduction -->
         <div class="pt-4 pb-14 text-center">
-            <div class="container px-4 sm:px-8 xl:px-4">
-                <p class="mb-4 text-gray-800 text-3xl leading-10 lg:max-w-5xl lg:mx-auto"> Team management mobile apps don’t get better than Pavo. It’s probably the best app in the world for this purpose. Don’t hesitate to give it a try today and you will fall in love with it</p>
-            </div> <!-- end of container -->
+        <div class="  xl:mr-12">
+                    <p class="p-title">AWS Connect</p>
+                    <h1 class="h1-large mb-5">Your One-Stop Solution for all Banking & Financial Needs</h1>
+                    <p class="p-large mb-8">Empower your business by offering comprehensive Banking, Payment, and Verification services to your customers through a partnership with AWS Connect. Join hands for a seamless and secure financial experience.</p>
+                    <a class="btn-solid-lg secondary" href="apply-for-toshani-channel-partner/index.php">Become a Channel Partner</a>
+                </div>
         </div>
         <!-- end of introduction -->
 
