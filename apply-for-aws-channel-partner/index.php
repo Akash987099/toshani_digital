@@ -49,11 +49,11 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image">
-                        <img src="<?php echo $baseUrl ?>/images/features-icon-2.svg" alt="alternative" />
+                         <h5>Accept Payment without cash</h5>
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">Easy On Resources</h5>
-                        <p class="mb-4">Works smoothly even on older generation hardware due to our optimization efforts</p>
+                        <!-- <h5 class="card-title">Platform Integration</h5> -->
+                        <p class="mb-4">Accept payments through payment cards (credit cards, debit cards, gift cards etc.) using the POS machines at your premises and increase your sales.</p>
                     </div>
                 </div>
                 <!-- end of card -->
@@ -61,11 +61,11 @@
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image">
-                        <img src="<?php echo $baseUrl ?>/images/features-icon-3.svg" alt="alternative" />
+                         <h5>Accept Payment without cash</h5>
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">Great Performance</h5>
-                        <p class="mb-4">Optimized code and innovative technology insure no delays and ultra-fast responsiveness</p>
+                        <!-- <h5 class="card-title">Platform Integration</h5> -->
+                        <p class="mb-4">Accept payments through payment cards (credit cards, debit cards, gift cards etc.) using the POS machines at your premises and increase your sales.</p>
                     </div>
                 </div>
                 <!-- end of card -->
