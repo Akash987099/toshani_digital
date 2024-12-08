@@ -49,11 +49,11 @@
                 <!-- Card -->
                 <div class="card p-6">
                     <div class="card-image">
-                         <h5>Accept Payment without cash</h5>
+                         <h5>Shutdown of Regular ATMs</h5>
                     </div>
                     <div class="card-body">
                         <!-- <h5 class="card-title">Platform Integration</h5> -->
-                        <p class="mb-4">Accept payments through payment cards (credit cards, debit cards, gift cards etc.) using the POS machines at your premises and increase your sales.</p>
+                        <p class="mb-4">Kiosk ATMs will grow because 50% regular ATMs will shutdown as banks struggle to manage cost of the software and equipment upgrades mandated by RBI.</p>
                     </div>
                 </div>
                 <!-- end of card -->
@@ -61,11 +61,11 @@
                 <!-- Card -->
                 <div class="card p-6">
                     <div class="card-image">
-                         <h5>Accept Payment without cash</h5>
+                         <h5>Services beyond cash withdrawals</h5>
                     </div>
                     <div class="card-body">
                         <!-- <h5 class="card-title">Platform Integration</h5> -->
-                        <p class="mb-4">Accept payments through payment cards (credit cards, debit cards, gift cards etc.) using the POS machines at your premises and increase your sales.</p>
+                        <p class="mb-4">Enable non-banking services such as Balance Enquiry, Mini Statement and other services, using our Kiosk ATMs, apart from cash withdrawal services as Toshani Channel Partner.</p>
                     </div>
                 </div>
                 <!-- end of card -->
@@ -73,25 +73,37 @@
                 <br>
 
                 <!-- Card -->
-                <div class="card">
+                <div class="card p-6">
                     <div class="card-image">
-                        <img src="<?php echo $baseUrl ?>/images/features-icon-4.svg" alt="alternative" />
+                         <h5>Earn handsome extra income</h5>
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">Multiple Languages</h5>
-                        <p class="mb-4">Choose from one of the 40 languages that come pre-installed and start selling smarter</p>
+                        <!-- <h5 class="card-title">Platform Integration</h5> -->
+                        <p class="mb-4">Excel in your business by working with us as a Channel Partner, and earn extra income from your own premises / business.</p>
                     </div>
                 </div>
                 <!-- end of card -->
 
                 <!-- Card -->
-                <div class="card">
+                <div class="card p-6">
                     <div class="card-image">
-                        <img src="<?php echo $baseUrl ?>/images/features-icon-5.svg" alt="alternative" />
+                         <h5>Get a better recognition</h5>
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">Free Updates</h5>
-                        <p class="mb-4">Don't worry about future costs, pay once and receive all future updates at no extra cost</p>
+                        <!-- <h5 class="card-title">Platform Integration</h5> -->
+                        <p class="mb-4">Get better recognition, enhance your reach and services, and grow your business by becoming a Toshani's Franchisee / Channel Partner.</p>
+                    </div>
+                </div>
+                <!-- end of card -->
+
+                  <!-- Card -->
+                  <div class="card p-6">
+                    <div class="card-image">
+                         <h5>Serve for the social cause</h5>
+                    </div>
+                    <div class="card-body">
+                        <!-- <h5 class="card-title">Platform Integration</h5> -->
+                        <p class="mb-4">We aim to reach the common masses in rural & semi-rural markets. Serve for this social cause by becoming a Toshani's Channel Partner.</p>
                     </div>
                 </div>
                 <!-- end of card -->
