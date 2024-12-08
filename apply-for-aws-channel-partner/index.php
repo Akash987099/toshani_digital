@@ -70,6 +70,8 @@
                 </div>
                 <!-- end of card -->
 
+                <br>
+
                 <!-- Card -->
                 <div class="card">
                     <div class="card-image">
