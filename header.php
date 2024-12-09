@@ -73,7 +73,7 @@ $baseUrl = "http://" . $_SERVER['HTTP_HOST'];
           class="inline-block mr-4 py-0.5 text-xl whitespace-nowrap hover:no-underline focus:no-underline"
           href="index.php"
         >
-          <img src="inag/LOGO.png" alt="alternative" class="h-12" />
+          <img src="<?php echo $baseUrl ?>/inag/LOGO.png" alt="alternative" class="h-12" />
         </a>
 
         <button
