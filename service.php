@@ -22,7 +22,7 @@
       <div class="max-w-screen-xl mx-auto my-16">
         <div class="grid grid-cols-3 gap-8">
           <!-- Card -->
-         <div class="flip-container border border-solid">
+         <div class="flip-container border border-solid ">
   <div class="flip-card">
     <div class="flip-card-inner">
       <!-- Flip Card Front -->
