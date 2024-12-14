@@ -24,17 +24,15 @@
       <div class="flip-card-front px-8">
         <div class="flex flex-col pb-10 justify-end h-full">
           <!-- Icon -->
-          <div class="card-icon text-center">
-            <i class="fa fa-code fa-2x mb-4 text-primary"></i>
-          </div>
+         
           <!-- Content -->
           <div class="flex flex-col items-start text-content">
             <h5 class="text-primary font-semibold text-lg">
-              Multi Recharge Software
+            Accept Payment without cash
             </h5>
             <p class="tracking-wider text-sm text-left">
-              We are the best Mobile Multi Recharge Software provider for online recharge businesses. We are working in the recharge industry for a very long time and are compatible with mobile recharge app, mobile recharge portal B2B, B2C, and reseller for local clients and customized as per client business requirements.
-            </p>
+            Accept payments through payment cards (credit cards, debit cards, gift cards etc.) using the POS machines at your premises and increase your sales.      
+        </p>
           </div>
         </div>
       </div>
@@ -43,17 +41,15 @@
       <div class="flip-card-back px-8">
         <div class="flex flex-col pb-10 justify-end h-full">
           <!-- Icon -->
-          <div class="card-icon text-center">
-          <i class="fa fa-code fa-2x mb-4 text-primary"></i>
-          </div>
+          
           <!-- Content -->
           <div class="flex flex-col items-start text-content">
             <h5 class="text-white font-semibold text-lg">
-              Multi Recharge Software
+            Accept Payment without cash
             </h5>
             <p class="tracking-wider text-white text-sm text-left">
-              Aws Connect, serving clients for over a few years, is one of the most professional and organized companies in the field of domestic debt collection, business information services, first-party collection of accounts receivables, business advisory services, and legal & paralegal services.
-            </p>
+            Accept payments through payment cards (credit cards, debit cards, gift cards etc.) using the POS machines at your premises and increase your sales.      
+        </p>
           </div>
         </div>
       </div>
@@ -69,28 +65,25 @@
               <div class="flip-card-inner">
                 <div class="flip-card-front px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                    
-                  <i class="fa fa-file-code fa-2x mb-4 text-primary"></i>
-
+                  
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
-                      Debt Collection
+                      Shutdown of Regular ATMs
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                      Aws Connect , serving clients for over few years, is one of the most professional and organized companies in the field of domestic debt collection, business information services, first party collection of accounts receivables, business advisory services and legal & paralegal services. 
+                      Kiosk ATMs will grow because 50% regular ATMs will shutdown as banks struggle to manage cost of the software and equipment upgrades mandated by RBI.
                     </p>
                     </div>
                   </div>
                 </div>
                 <div class="flip-card-back px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                  <i class="fa fa-file-code fa-2x mb-4 text-primary"></i>
-                    <div class="flex flex-col items-start">
+                  <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                      Debt Collection
+                      Shutdown of Regular ATMs
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                      Aws Connect , serving clients for over few years, is one of the most professional and organized companies in the field of domestic debt collection, business information services, first party collection of accounts receivables, business advisory services and legal & paralegal services. 
+                      Kiosk ATMs will grow because 50% regular ATMs will shutdown as banks struggle to manage cost of the software and equipment upgrades mandated by RBI.  
                     </p>
                     </div>
                   </div>
@@ -107,28 +100,25 @@
                 <div class="flip-card-front px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
                     
-                  <i class="fa fa-external-link-alt fa-2x mb-4 text-primary"></i>
-
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
-                      Financial Product Api
+                      Services beyond cash withdrawals
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                      Aws Connect primary services include Kiosk Banking, Financial Services,GSP (GST Suvidha Provider), PAN Centre, Utility Bill, Business Correspondent (Kotak NSDL Payment Bank), Insurance , Point of Service (POS) etc.Aws Connect acts as the last mile between the Government and the citizens of the country.
-                      </p>
+                      Enable non-banking services such as Balance Enquiry, Mini Statement and other services, using our Kiosk ATMs, apart from cash withdrawal services as Toshani Channel Partner.
+                    </p>
                     </div>
                   </div>
                 </div>
                 <div class="flip-card-back px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                  <i class="fa fa-external-link-alt fa-2x mb-4 text-primary"></i>
-                    <div class="flex flex-col items-start">
+                   <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                      Financial Product Api
+                      Services beyond cash withdrawals
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                      Aws Connect primary services include Kiosk Banking, Financial Services,GSP (GST Suvidha Provider), PAN Centre, Utility Bill, Business Correspondent (Kotak NSDL Payment Bank), Insurance , Point of Service (POS) etc.Aws Connect acts as the last mile between the Government and the citizens of the country.
-                      </p>
+                      Enable non-banking services such as Balance Enquiry, Mini Statement and other services, using our Kiosk ATMs, apart from cash withdrawal services as Toshani Channel Partner. 
+                    </p>
                     </div>
                   </div>
                 </div>
@@ -142,29 +132,27 @@
               <div class="flip-card-inner">
                 <div class="flip-card-front px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                  <i class="fas fa-user-secret fa-2x mb-4 text-primary"></i>
-
+                  
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
-                      Self Kiosk Services
+                      Earn handsome extra income
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                      AwsConnect, We are providing services of the deployment of Self-Service KIOSK machines which would be a source of income for our clients, and along with that, it would provide easy transaction facilities like Cash withdrawal, Cash deposit, Balance Enquiry Money Transfer Bill Payment etc. to the customers visiting the kiosk
-                      </p>
+                      Excel in your business by working with us as a Channel Partner, and earn extra income from your own premises / business. 
+                    </p>
                     </div>
                   </div>
                 </div>
                 <div class="flip-card-back px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                  <i class="fas fa-user-secret fa-2x mb-4 text-primary"></i>
-
+                 
                     <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                      Self Kiosk Services
+                      Earn handsome extra income
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                      AwsConnect, We are providing services of the deployment of Self-Service KIOSK machines which would be a source of income for our clients, and along with that, it would provide easy transaction facilities like Cash withdrawal, Cash deposit, Balance Enquiry Money Transfer Bill Payment etc. to the customers visiting the kiosk
-                      </p>
+                      Excel in your business by working with us as a Channel Partner, and earn extra income from your own premises / business. 
+                    </p>
                     </div>
                   </div>
                 </div>
@@ -179,28 +167,26 @@
               <div class="flip-card-inner">
                 <div class="flip-card-front px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                  <i class="fa fa-envelope-open fa-2x mb-4 text-primary"></i>
-
+                 
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
-                      Employment services
+                      Get a better recognition
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                      Aws Connect is also engaged in offering customized solutions for all types of manpower services. We are offering a wide range of qualified human resources across the industries for all types of projects. The company has distinguished itself as a quality manpower solution provider at cost-effective prices through a well-managed management set up.
-                      </p>
+                      Get better recognition, enhance your reach and services, and grow your business by becoming a Toshani's Franchisee / Channel Partner.
+                    </p>
                     </div>
                   </div>
                 </div>
                 <div class="flip-card-back px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                  <i class="fa fa-envelope-open fa-2x mb-4 text-primary"></i>
                     <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                      Employment services
+                      Get a better recognition
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                      Aws Connect is also engaged in offering customized solutions for all types of manpower services. We are offering a wide range of qualified human resources across the industries for all types of projects. The company has distinguished itself as a quality manpower solution provider at cost-effective prices through a well-managed management set up.
-                      </p>
+                      Get better recognition, enhance your reach and services, and grow your business by becoming a Toshani's Franchisee / Channel Partner.  
+                    </p>
                     </div>
                   </div>
                 </div>
@@ -215,27 +201,25 @@
               <div class="flip-card-inner">
                 <div class="flip-card-front px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                  <i class="fas fa-laptop fa-2x mb-4 text-primary"></i>
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
-                      WLA ATM Services
+                      Serve for the social cause
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                      AwsConnect Franchise is a unique opportunity for shop owners or those who have extra space in their shop to earn income based on revenue sharing model. Our white label ATM brand, Hitachi Money Spot and TATa indicash provides ATM services including cash deposit facility* and is RBI approved. Contactus for Hitachi and TATa indicash ATM Franchise.
-                      </p>
+                      We aim to reach the common masses in rural & semi-rural markets. Serve for this social cause by becoming a Toshani's Channel Partner.  
+                    </p>
                     </div>
                   </div>
                 </div>
                 <div class="flip-card-back px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                  <i class="fas fa-laptop fa-2x mb-4 text-primary"></i>
-                    <div class="flex flex-col items-start">
+                   <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                      WLA ATM Services
+                      Serve for the social cause
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                      AwsConnect Franchise is a unique opportunity for shop owners or those who have extra space in their shop to earn income based on revenue sharing model. Our white label ATM brand, Hitachi Money Spot and TATa indicash provides ATM services including cash deposit facility* and is RBI approved. Contactus for Hitachi and TATa indicash ATM Franchise.
-                      </p>
+                      We aim to reach the common masses in rural & semi-rural markets. Serve for this social cause by becoming a Toshani's Channel Partner. 
+                    </p>
                     </div>
                   </div>
                 </div>
@@ -245,96 +229,8 @@
           <!-- end of card -->
         </div>
         <!-- end of container -->
-      </div>
-    </div>
-    <!-- end of Service section -->
 
-
-        <!-- Introduction -->
-       
-        <!-- end of introduction -->
-
-
-        <!-- Features -->
-        <div id="features" class="cards-1">
-            <div class="container px-4 sm:px-8 xl:px-4">
-
-                <!-- Card -->
-                <div class="card p-6">
-                    <div class="card-image">
-                         <h5>Accept Payment without cash</h5>
-                    </div>
-                    <div class="card-body">
-                        <!-- <h5 class="card-title">Platform Integration</h5> -->
-                        <p class="mb-4">Accept payments through payment cards (credit cards, debit cards, gift cards etc.) using the POS machines at your premises and increase your sales.</p>
-                    </div>
-                </div>
-                <!-- end of card -->
-
-                <!-- Card -->
-                <div class="card p-6">
-                    <div class="card-image">
-                         <h5>Shutdown of Regular ATMs</h5>
-                    </div>
-                    <div class="card-body">
-                        <!-- <h5 class="card-title">Platform Integration</h5> -->
-                        <p class="mb-4">Kiosk ATMs will grow because 50% regular ATMs will shutdown as banks struggle to manage cost of the software and equipment upgrades mandated by RBI.</p>
-                    </div>
-                </div>
-                <!-- end of card -->
-
-                <!-- Card -->
-                <div class="card p-6">
-                    <div class="card-image">
-                         <h5>Services beyond cash withdrawals</h5>
-                    </div>
-                    <div class="card-body">
-                        <!-- <h5 class="card-title">Platform Integration</h5> -->
-                        <p class="mb-4">Enable non-banking services such as Balance Enquiry, Mini Statement and other services, using our Kiosk ATMs, apart from cash withdrawal services as Toshani Channel Partner.</p>
-                    </div>
-                </div>
-                <!-- end of card -->
-
-                <br>
-
-                <!-- Card -->
-                <div class="card p-6">
-                    <div class="card-image">
-                         <h5>Earn handsome extra income</h5>
-                    </div>
-                    <div class="card-body">
-                        <!-- <h5 class="card-title">Platform Integration</h5> -->
-                        <p class="mb-4">Excel in your business by working with us as a Channel Partner, and earn extra income from your own premises / business.</p>
-                    </div>
-                </div>
-                <!-- end of card -->
-
-                <!-- Card -->
-                <div class="card p-6">
-                    <div class="card-image">
-                         <h5>Get a better recognition</h5>
-                    </div>
-                    <div class="card-body">
-                        <!-- <h5 class="card-title">Platform Integration</h5> -->
-                        <p class="mb-4">Get better recognition, enhance your reach and services, and grow your business by becoming a Toshani's Franchisee / Channel Partner.</p>
-                    </div>
-                </div>
-                <!-- end of card -->
-
-                  <!-- Card -->
-                  <div class="card p-6">
-                    <div class="card-image">
-                         <h5>Serve for the social cause</h5>
-                    </div>
-                    <div class="card-body">
-                        <!-- <h5 class="card-title">Platform Integration</h5> -->
-                        <p class="mb-4">We aim to reach the common masses in rural & semi-rural markets. Serve for this social cause by becoming a Toshani's Channel Partner.</p>
-                    </div>
-                </div>
-                <!-- end of card -->
-
-
-                <br>
+        <br>
                 <button
                 style="background-color: red"
                 type="submit"
@@ -345,6 +241,12 @@
 
               <br>
               <br>
+              
+      </div>
+    </div>
+    <!-- end of Service section -->
+
+
 
               <div class="  xl:mr-12">
                     <p class="p-title">Become our Channel Partner</p>
