@@ -27,7 +27,7 @@
     <div class="flip-card-inner">
       <!-- Flip Card Front -->
       <div class="flip-card-front px-8">
-        <div class="flex flex-col pb-10 justify-end h-96">
+        <div class="flex flex-col pb-10 justify-end h-full">
           <!-- Icon -->
           <div class="card-icon text-center">
             <i class="fa fa-code fa-2x mb-4 text-primary"></i>
