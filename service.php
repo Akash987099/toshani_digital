@@ -22,17 +22,19 @@
       <div class="max-w-screen-xl mx-auto my-16">
         <div class="grid grid-cols-3 gap-8">
           <!-- Card -->
-         <div class="flip-container border border-solid">
-  <div class="flip-card">
-    <div class="flip-card-inner">
+         
+          <div class="flip-container border border-solid">
+  <div class="flip-card w-full h-full relative">
+    <div class="flip-card-inner w-full h-full">
       <!-- Flip Card Front -->
-      <div class="flip-card-front px-8">
-        <div class="flex flex-col pb-10 justify-end h-full">
+      <div class="flip-card-front px-8 flex flex-col justify-end h-full">
+        <div class="flex flex-col justify-end items-center h-full pb-10">
           <!-- Icon -->
-          
+          <div class="card-icon flex justify-center items-center w-20 h-20 mb-4 bg-gray-100 rounded-full">
+            <i class="fa fa-code text-primary text-3xl"></i>
+          </div>
           <!-- Content -->
           <div class="flex flex-col items-start text-content">
-          <i class="fa fa-code fa-x mb-4 text-primary"></i>
             <h5 class="text-primary font-semibold text-lg">
               Multi Recharge Software
             </h5>
@@ -44,11 +46,11 @@
       </div>
 
       <!-- Flip Card Back -->
-      <div class="flip-card-back px-8">
-        <div class="flex flex-col pb-10 justify-end h-full">
+      <div class="flip-card-back px-8 flex flex-col justify-end h-full bg-gray-800">
+        <div class="flex flex-col justify-end items-center h-full pb-10">
           <!-- Icon -->
-          <div class="card-icon text-center">
-          <i class="fa fa-code fa-2x mb-4 text-primary"></i>
+          <div class="card-icon flex justify-center items-center w-20 h-20 mb-4 bg-gray-700 rounded-full">
+            <i class="fa fa-code text-white text-3xl"></i>
           </div>
           <!-- Content -->
           <div class="flex flex-col items-start text-content">
@@ -64,6 +66,7 @@
     </div>
   </div>
 </div>
+
 
           <!-- end of card -->
 
