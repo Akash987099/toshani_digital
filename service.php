@@ -44,6 +44,59 @@
         </div>
       </div>
 
+      <style>
+        .flip-container {
+  perspective: 1000px;
+  width: 100%;
+  max-width: 350px;
+  margin: auto;
+}
+
+.flip-card {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.flip-card-inner {
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  position: relative;
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+  backface-visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.flip-card-back {
+  transform: rotateY(180deg);
+  background-color: #2c3e50;
+}
+
+.card-icon {
+  margin-bottom: 20px;
+}
+
+.text-content h5 {
+  margin-bottom: 10px;
+}
+
+.text-content p {
+  line-height: 1.6;
+}
+
+      </style>
+
       <!-- Flip Card Back -->
       <div class="flip-card-back px-8">
         <div class="flex flex-col pb-10 justify-end h-full">
