@@ -236,7 +236,7 @@
           <!-- end of card -->
 
           <!-- Card -->
-          <div class="flip-container border border-solid">
+          <div class="flip-container border border-solid h-auto">
             <div class="flip-card">
               <div class="flip-card-inner">
                 <div class="flip-card-front px-8">
