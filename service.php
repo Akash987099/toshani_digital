@@ -17,7 +17,9 @@
           requirements.
         </p>
       </div>
-      <div class="max-w-screen-xl mx-auto my-16">
+
+
+      <div class="flip-container border border-solid min-h-[400px] flex">
         <div class="grid grid-cols-3 gap-8">
           <!-- Card -->
           <div class="flip-container border border-solid">
