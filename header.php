@@ -1,6 +1,7 @@
 <?php
 // Current website URL ka base path le lo
 $baseUrl = "http://" . $_SERVER['HTTP_HOST'];
+$normalURL = "https://demo.digiprologue.com/";
 ?>
 
 <!DOCTYPE html>
@@ -99,10 +100,10 @@ $baseUrl = "http://" . $_SERVER['HTTP_HOST'];
               >
             </li>
             <li>
-              <a class="nav-link page-scroll" href="/about.php">About Us</a>
+              <a class="nav-link page-scroll" href="<?php echo $normalURL ?>about.php">About Us</a>
             </li>
             <li>
-              <a class="nav-link page-scroll" href="service.php">services</a>
+              <a class="nav-link page-scroll" href="<?php echo $normalURL ?>service.php">services</a>
             </li>
 
             <li class="dropdown">

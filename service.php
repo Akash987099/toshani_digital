@@ -37,11 +37,10 @@
                     </svg>
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
-                        Payment Services
+                      Multi Recharge Software
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                        Easy & Innovative payment services to enable fast.
-                        Secure and seamless transactions.
+                      We are the best Mobile Multi Recharge Software provider for online recharge businesses. We are working in recharge industry from very long time and compatible with mobile recharge app,mobile recharge portal B2B, B2C and reseller for local clients and customized as per client business requirement.
                       </p>
                     </div>
                   </div>
@@ -60,12 +59,10 @@
                     </svg>
                     <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                        Payment Services
+                      Multi Recharge Software
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                        Enable different types of financial transactions through
-                        the most appropriate solutions such as BBPS, Aadhar Pay,
-                        Mobile and DTH Recharge, Cash collection Points, etc.
+                      Aws Connect , serving clients for over few years, is one of the most professional and organized companies in the field of domestic debt collection, business information services, first party collection of accounts receivables, business advisory services and legal & paralegal services.
                       </p>
                     </div>
                   </div>
@@ -94,11 +91,10 @@
 
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
-                        Marchant Services
+                      Financial Product Api
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                        Minimize cash handling and increase more payment options
-                        with our marchant solution
+                      Aws Connect primary services include Kiosk Banking, Financial Services,GSP (GST Suvidha Provider), PAN Centre, Utility Bill, Business Correspondent (Kotak NSDL Payment Bank), Insurance , Point of Service (POS) etc.Aws Connect acts as the last mile between the Government and the citizens of the country.
                       </p>
                     </div>
                   </div>
@@ -117,12 +113,10 @@
                     </svg>
                     <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                        Marchant Services
+                      Financial Product Api
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                        Accept payments through payment cards (credit cards,
-                        debit cards, gift cards etc.) using Point of Sale (POS)
-                        and Quick Response (QR) code based payment solutions.
+                      Aws Connect primary services include Kiosk Banking, Financial Services,GSP (GST Suvidha Provider), PAN Centre, Utility Bill, Business Correspondent (Kotak NSDL Payment Bank), Insurance , Point of Service (POS) etc.Aws Connect acts as the last mile between the Government and the citizens of the country.
                       </p>
                     </div>
                   </div>
@@ -151,11 +145,10 @@
 
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
-                        Banking Services
+                      Self Kiosk Services
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                        Easy & Innovative payment services to enable fast.
-                        Secure and seamless transactions.
+                      AwsConnect, We are providing services of the deployment of Self-Service KIOSK machines which would be a source of income for our clients, and along with that, it would provide easy transaction facilities like Cash withdrawal, Cash deposit, Balance Enquiry Money Transfer Bill Payment etc. to the customers visiting the kiosk
                       </p>
                     </div>
                   </div>
@@ -175,12 +168,10 @@
 
                     <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                        Banking Services
+                      Self Kiosk Services
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                        Enable different types of financial transactions through
-                        the most appropriate solutions such as BBPS, Aadhar Pay,
-                        Mobile and DTH Recharge, Cash collection Points, etc.
+                      AwsConnect, We are providing services of the deployment of Self-Service KIOSK machines which would be a source of income for our clients, and along with that, it would provide easy transaction facilities like Cash withdrawal, Cash deposit, Balance Enquiry Money Transfer Bill Payment etc. to the customers visiting the kiosk
                       </p>
                     </div>
                   </div>
@@ -209,11 +200,10 @@
 
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
-                        Kiosk ATM Services
+                      Employment services
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                        Easy & Innovative payment services to enable fast.
-                        Secure and seamless transactions.
+                      Aws Connect is also engaged in offering customized solutions for all types of manpower services. We are offering a wide range of qualified human resources across the industries for all types of projects. The company has distinguished itself as a quality manpower solution provider at cost-effective prices through a well-managed management set up.
                       </p>
                     </div>
                   </div>
@@ -232,12 +222,10 @@
                     </svg>
                     <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                        Kiosk ATM Services
+                      Employment services
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                        Enable different types of financial transactions through
-                        the most appropriate solutions such as BBPS, Aadhar Pay,
-                        Mobile and DTH Recharge, Cash collection Points, etc.
+                      Aws Connect is also engaged in offering customized solutions for all types of manpower services. We are offering a wide range of qualified human resources across the industries for all types of projects. The company has distinguished itself as a quality manpower solution provider at cost-effective prices through a well-managed management set up.
                       </p>
                     </div>
                   </div>
@@ -265,11 +253,10 @@
                     </svg>
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
-                        Devices & Others
+                      WLA ATM Services
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                        Easy & Innovative payment services to enable fast.
-                        Secure and seamless transactions.
+                      AwsConnect Franchise is a unique opportunity for shop owners or those who have extra space in their shop to earn income based on revenue sharing model. Our white label ATM brand, Hitachi Money Spot and TATa indicash provides ATM services including cash deposit facility* and is RBI approved. Contactus for Hitachi and TATa indicash ATM Franchise.
                       </p>
                     </div>
                   </div>
@@ -288,12 +275,10 @@
                     </svg>
                     <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                        Devices & Others
+                      WLA ATM Services
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                        Enable different types of financial transactions through
-                        the most appropriate solutions such as BBPS, Aadhar Pay,
-                        Mobile and DTH Recharge, Cash collection Points, etc.
+                      AwsConnect Franchise is a unique opportunity for shop owners or those who have extra space in their shop to earn income based on revenue sharing model. Our white label ATM brand, Hitachi Money Spot and TATa indicash provides ATM services including cash deposit facility* and is RBI approved. Contactus for Hitachi and TATa indicash ATM Franchise.
                       </p>
                     </div>
                   </div>
