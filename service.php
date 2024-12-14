@@ -30,7 +30,7 @@
         <div class="flex flex-col pb-10 justify-end h-full">
           <!-- Icon -->
           <div class="card-icon text-center">
-            <i class="fa fa-code fa-2x mb-4 text-primary"></i>
+            <i class="fa fa-code"></i>
           </div>
           <!-- Content -->
           <div class="flex flex-col items-start text-content">
