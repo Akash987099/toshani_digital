@@ -22,12 +22,12 @@
       <div class="max-w-screen-xl mx-auto my-16">
         <div class="grid grid-cols-3 gap-8">
           <!-- Card -->
-         <div class="flip-container border border-solid h-96">
+         <div class="flip-container border border-solid">
   <div class="flip-card">
     <div class="flip-card-inner">
       <!-- Flip Card Front -->
       <div class="flip-card-front px-8">
-        <div class="flex flex-col pb-10 justify-end h-full">
+        <div class="flex flex-col pb-10 justify-end h-96">
           <!-- Icon -->
           <div class="card-icon text-center">
             <i class="fa fa-code fa-7x mb-4 text-primary"></i>
