@@ -29,11 +29,12 @@
       <div class="flip-card-front px-8">
         <div class="flex flex-col pb-10 justify-end h-full">
           <!-- Icon -->
+          
+          <!-- Content -->
+          <div class="flex flex-col items-start text-content">
           <div class="card-icon text-center">
             <i class="fa fa-code fa-x mb-4 text-primary"></i>
           </div>
-          <!-- Content -->
-          <div class="flex flex-col items-start text-content">
             <h5 class="text-primary font-semibold text-lg">
               Multi Recharge Software
             </h5>
