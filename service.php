@@ -220,16 +220,7 @@
               <div class="flip-card-inner">
                 <div class="flip-card-front px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 384 512"
-                      width="40"
-                      fill="#e10000"
-                    >
-                      <path
-                        d="M80 0C44.7 0 16 28.7 16 64l0 384c0 35.3 28.7 64 64 64l224 0c35.3 0 64-28.7 64-64l0-384c0-35.3-28.7-64-64-64L80 0zm80 432l64 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-64 0c-8.8 0-16-7.2-16-16s7.2-16 16-16z"
-                      />
-                    </svg>
+                  <i class="fas fa-laptop fa-2x mb-4 text-primary"></i>
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
                       WLA ATM Services
@@ -242,16 +233,7 @@
                 </div>
                 <div class="flip-card-back px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 384 512"
-                      width="40"
-                      fill="#ffffff"
-                    >
-                      <path
-                        d="M80 0C44.7 0 16 28.7 16 64l0 384c0 35.3 28.7 64 64 64l224 0c35.3 0 64-28.7 64-64l0-384c0-35.3-28.7-64-64-64L80 0zm80 432l64 0c8.8 0 16 7.2 16 16s-7.2 16-16 16l-64 0c-8.8 0-16-7.2-16-16s7.2-16 16-16z"
-                      />
-                    </svg>
+                  <i class="fas fa-laptop fa-2x mb-4 text-primary"></i>
                     <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
                       WLA ATM Services
