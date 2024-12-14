@@ -2,20 +2,243 @@
        require "../header.php";
 ?>
         <!-- Header -->
-        <header id="header" class=" py-28 text-center  lg:text-left  xl:pb-32">
-            <div class="max-w-screen-xl mx-auto px-4 flex flex-col justify-center items-center sm:px-8 lg:grid lg:grid-cols-2 lg:gap-x-8">
-                <div class="  xl:mr-12">
-                    <p class="p-title">AWS Connect</p>
-                    <h1 class="h1-large mb-5">Your One-Stop Solution for all Banking & Financial Needs</h1>
-                    <p class="p-large mb-8">Empower your business by offering comprehensive Banking, Payment, and Verification services to your customers through a partnership with AWS Connect. Join hands for a seamless and secure financial experience.</p>
-                    <a class="btn-solid-lg secondary" href="apply-for-toshani-channel-partner/index.php">Become a Channel Partner</a>
+   
+        <br><br>
+
+        <div class="max-w-screen-xl mx-auto my-16">
+        <div class="grid grid-cols-3 gap-8">
+          <!-- Card -->
+         <div class="flip-container border border-solid ">
+  <div class="flip-card">
+    <div class="flip-card-inner">
+      <!-- Flip Card Front -->
+      <div class="flip-card-front px-8">
+        <div class="flex flex-col pb-10 justify-end h-full">
+          <!-- Icon -->
+          <div class="card-icon text-center">
+            <i class="fa fa-code fa-2x mb-4 text-primary"></i>
+          </div>
+          <!-- Content -->
+          <div class="flex flex-col items-start text-content">
+            <h5 class="text-primary font-semibold text-lg">
+              Multi Recharge Software
+            </h5>
+            <p class="tracking-wider text-sm text-left">
+              We are the best Mobile Multi Recharge Software provider for online recharge businesses. We are working in the recharge industry for a very long time and are compatible with mobile recharge app, mobile recharge portal B2B, B2C, and reseller for local clients and customized as per client business requirements.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Flip Card Back -->
+      <div class="flip-card-back px-8">
+        <div class="flex flex-col pb-10 justify-end h-full">
+          <!-- Icon -->
+          <div class="card-icon text-center">
+          <i class="fa fa-code fa-2x mb-4 text-primary"></i>
+          </div>
+          <!-- Content -->
+          <div class="flex flex-col items-start text-content">
+            <h5 class="text-white font-semibold text-lg">
+              Multi Recharge Software
+            </h5>
+            <p class="tracking-wider text-white text-sm text-left">
+              Aws Connect, serving clients for over a few years, is one of the most professional and organized companies in the field of domestic debt collection, business information services, first-party collection of accounts receivables, business advisory services, and legal & paralegal services.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+          <!-- end of card -->
+
+          <!-- Card -->
+          <div class="flip-container border border-solid">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    
+                  <i class="fa fa-file-code fa-2x mb-4 text-primary"></i>
+
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                      Debt Collection
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                      Aws Connect , serving clients for over few years, is one of the most professional and organized companies in the field of domestic debt collection, business information services, first party collection of accounts receivables, business advisory services and legal & paralegal services. 
+                    </p>
+                    </div>
+                  </div>
                 </div>
-                <div class="xl:text-right">
-                    <img class="inline" src="<?php echo $baseUrl ?>/images/hero.jpg" alt="alternative" />
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                  <i class="fa fa-file-code fa-2x mb-4 text-primary"></i>
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                      Debt Collection
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                      Aws Connect , serving clients for over few years, is one of the most professional and organized companies in the field of domestic debt collection, business information services, first party collection of accounts receivables, business advisory services and legal & paralegal services. 
+                    </p>
+                    </div>
+                  </div>
                 </div>
-            </div> <!-- end of container -->
-        </header> <!-- end of header -->
-        <!-- end of header -->
+              </div>
+            </div>
+          </div>
+          <!-- end of card -->
+
+
+          <div class="flip-container border border-solid">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    
+                  <i class="fa fa-external-link-alt fa-2x mb-4 text-primary"></i>
+
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                      Financial Product Api
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                      Aws Connect primary services include Kiosk Banking, Financial Services,GSP (GST Suvidha Provider), PAN Centre, Utility Bill, Business Correspondent (Kotak NSDL Payment Bank), Insurance , Point of Service (POS) etc.Aws Connect acts as the last mile between the Government and the citizens of the country.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                  <i class="fa fa-external-link-alt fa-2x mb-4 text-primary"></i>
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                      Financial Product Api
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                      Aws Connect primary services include Kiosk Banking, Financial Services,GSP (GST Suvidha Provider), PAN Centre, Utility Bill, Business Correspondent (Kotak NSDL Payment Bank), Insurance , Point of Service (POS) etc.Aws Connect acts as the last mile between the Government and the citizens of the country.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card -->
+          <div class="flip-container border border-solid">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                  <i class="fas fa-user-secret fa-2x mb-4 text-primary"></i>
+
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                      Self Kiosk Services
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                      AwsConnect, We are providing services of the deployment of Self-Service KIOSK machines which would be a source of income for our clients, and along with that, it would provide easy transaction facilities like Cash withdrawal, Cash deposit, Balance Enquiry Money Transfer Bill Payment etc. to the customers visiting the kiosk
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                  <i class="fas fa-user-secret fa-2x mb-4 text-primary"></i>
+
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                      Self Kiosk Services
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                      AwsConnect, We are providing services of the deployment of Self-Service KIOSK machines which would be a source of income for our clients, and along with that, it would provide easy transaction facilities like Cash withdrawal, Cash deposit, Balance Enquiry Money Transfer Bill Payment etc. to the customers visiting the kiosk
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end of card -->
+
+          <!-- Card -->
+          <div class="flip-container border border-solid">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                  <i class="fa fa-envelope-open fa-2x mb-4 text-primary"></i>
+
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                      Employment services
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                      Aws Connect is also engaged in offering customized solutions for all types of manpower services. We are offering a wide range of qualified human resources across the industries for all types of projects. The company has distinguished itself as a quality manpower solution provider at cost-effective prices through a well-managed management set up.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                  <i class="fa fa-envelope-open fa-2x mb-4 text-primary"></i>
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                      Employment services
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                      Aws Connect is also engaged in offering customized solutions for all types of manpower services. We are offering a wide range of qualified human resources across the industries for all types of projects. The company has distinguished itself as a quality manpower solution provider at cost-effective prices through a well-managed management set up.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end of card -->
+
+          <!-- Card -->
+          <div class="flip-container border border-solid h-auto">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                  <i class="fas fa-laptop fa-2x mb-4 text-primary"></i>
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                      WLA ATM Services
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                      AwsConnect Franchise is a unique opportunity for shop owners or those who have extra space in their shop to earn income based on revenue sharing model. Our white label ATM brand, Hitachi Money Spot and TATa indicash provides ATM services including cash deposit facility* and is RBI approved. Contactus for Hitachi and TATa indicash ATM Franchise.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                  <i class="fas fa-laptop fa-2x mb-4 text-primary"></i>
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                      WLA ATM Services
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                      AwsConnect Franchise is a unique opportunity for shop owners or those who have extra space in their shop to earn income based on revenue sharing model. Our white label ATM brand, Hitachi Money Spot and TATa indicash provides ATM services including cash deposit facility* and is RBI approved. Contactus for Hitachi and TATa indicash ATM Franchise.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end of card -->
+        </div>
+        <!-- end of container -->
+      </div>
+    </div>
+    <!-- end of Service section -->
 
 
         <!-- Introduction -->
