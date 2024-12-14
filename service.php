@@ -18,11 +18,11 @@
         </p>
       </div>
 
-
-      <div class="flip-container border border-solid min-h-[400px] flex">
+      
+      <div class="max-w-screen-xl mx-auto my-16">
         <div class="grid grid-cols-3 gap-8">
           <!-- Card -->
-          <div class="flip-container border border-solid">
+          <div class="flip-container border border-solid min-h-[400px] flex">
             <div class="flip-card">
               <div class="flip-card-inner">
                 <div class="flip-card-front px-8">
