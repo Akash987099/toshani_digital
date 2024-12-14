@@ -74,16 +74,45 @@
               <div class="flip-card-inner">
                 <div class="flip-card-front px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 576 512"
-                      fill="#e10000"
-                      width="50"
-                    >
-                      <path
-                        d="M0 24C0 10.7 10.7 0 24 0L69.5 0c22 0 41.5 12.8 50.6 32l411 0c26.3 0 45.5 25 38.6 50.4l-41 152.3c-8.5 31.4-37 53.3-69.5 53.3l-288.5 0 5.4 28.5c2.2 11.3 12.1 19.5 23.6 19.5L488 336c13.3 0 24 10.7 24 24s-10.7 24-24 24l-288.3 0c-34.6 0-64.3-24.6-70.7-58.5L77.4 54.5c-.7-3.8-4-6.5-7.9-6.5L24 48C10.7 48 0 37.3 0 24zM128 464a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm336-48a48 48 0 1 1 0 96 48 48 0 1 1 0-96z"
-                      />
-                    </svg>
+                    
+                  <i class="fa fa-file-code fa-2x mb-4 text-primary"></i>
+
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                      Debt Collection
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                      Aws Connect , serving clients for over few years, is one of the most professional and organized companies in the field of domestic debt collection, business information services, first party collection of accounts receivables, business advisory services and legal & paralegal services. 
+                    </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                  <i class="fa fa-file-code fa-2x mb-4 text-primary"></i>
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                      Debt Collection
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                      Aws Connect , serving clients for over few years, is one of the most professional and organized companies in the field of domestic debt collection, business information services, first party collection of accounts receivables, business advisory services and legal & paralegal services. 
+                    </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end of card -->
+
+
+          <div class="flip-container border border-solid">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    
+                  <i class="fa fa-external-link-alt fa-2x mb-4 text-primary"></i>
 
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
@@ -97,16 +126,7 @@
                 </div>
                 <div class="flip-card-back px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 576 512"
-                      fill="#ffffff"
-                      width="50"
-                    >
-                      <path
-                        d="M0 24C0 10.7 10.7 0 24 0L69.5 0c22 0 41.5 12.8 50.6 32l411 0c26.3 0 45.5 25 38.6 50.4l-41 152.3c-8.5 31.4-37 53.3-69.5 53.3l-288.5 0 5.4 28.5c2.2 11.3 12.1 19.5 23.6 19.5L488 336c13.3 0 24 10.7 24 24s-10.7 24-24 24l-288.3 0c-34.6 0-64.3-24.6-70.7-58.5L77.4 54.5c-.7-3.8-4-6.5-7.9-6.5L24 48C10.7 48 0 37.3 0 24zM128 464a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm336-48a48 48 0 1 1 0 96 48 48 0 1 1 0-96z"
-                      />
-                    </svg>
+                  <i class="fa fa-external-link-alt fa-2x mb-4 text-primary"></i>
                     <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
                       Financial Product Api
@@ -120,7 +140,6 @@
               </div>
             </div>
           </div>
-          <!-- end of card -->
 
           <!-- Card -->
           <div class="flip-container border border-solid">
