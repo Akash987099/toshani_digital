@@ -34,6 +34,7 @@
             <i class="fa fa-code text-primary text-3xl"></i>
           </div>
           <!-- Content -->
+           <br>
           <div class="flex flex-col items-start text-content">
             <h5 class="text-primary font-semibold text-lg">
               Multi Recharge Software
@@ -53,6 +54,7 @@
             <i class="fa fa-code text-white text-3xl"></i>
           </div>
           <!-- Content -->
+           <br>
           <div class="flex flex-col items-start text-content">
             <h5 class="text-white font-semibold text-lg">
               Multi Recharge Software
