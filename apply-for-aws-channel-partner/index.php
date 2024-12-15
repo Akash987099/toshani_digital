@@ -106,7 +106,7 @@
                       Services beyond cash withdrawals
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                      Enable non-banking services such as Balance Enquiry, Mini Statement and other services, using our Kiosk ATMs, apart from cash withdrawal services as Toshani Channel Partner.
+                      Enable non-banking services such as Balance Enquiry, Mini Statement and other services, using our Kiosk ATMs, apart from cash withdrawal services as AWS Connect  Partner.
                     </p>
                     </div>
                   </div>
@@ -118,7 +118,7 @@
                       Services beyond cash withdrawals
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                      Enable non-banking services such as Balance Enquiry, Mini Statement and other services, using our Kiosk ATMs, apart from cash withdrawal services as Toshani Channel Partner. 
+                      Enable non-banking services such as Balance Enquiry, Mini Statement and other services, using our Kiosk ATMs, apart from cash withdrawal services as AWS Connect  Partner. 
                     </p>
                     </div>
                   </div>
@@ -251,7 +251,7 @@
     <div class="pt-4 pb-14 text-center">
         <div class="  xl:mr-12">
                     <p class="p-title">Become our Channel Partner</p>
-                    <h1 class="h1-large mb-5">Benefits of becoming Toshani Channel Partner</h1>
+                    <h1 class="h1-large mb-5">Benefits of becoming AWS Connect  Partner</h1>
                     <!-- <p class="p-large mb-8"></p> -->
                     <!-- <a class="btn-solid-lg secondary" href="apply-for-toshani-channel-partner/index.php">Become a Channel Partner</a> -->
                 </div>
@@ -273,7 +273,7 @@
           <!-- Content -->
           <div class="flex flex-col items-start text-content">
             <h5 class="text-primary font-semibold text-lg">
-            Benefits of becoming Toshani Channel Partner
+            Benefits of becoming AWS Connect  Partner
             </h5>
             <p class="tracking-wider text-sm text-left">
             We are a technology-driven company, which emerged as a one-stop-shop digital convenience store. Being our franchisee partner enables you to own the World’s Biggest E-Mall with a wide range of products and services. 
@@ -292,7 +292,7 @@
           <!-- Content -->
           <div class="flex flex-col items-start text-content">
             <h5 class="text-white font-semibold text-lg">
-            Benefits of becoming Toshani Channel Partner
+            Benefits of becoming AWS Connect  Partner
             </h5>
             <p class="tracking-wider text-white text-sm text-left">
             We are a technology-driven company, which emerged as a one-stop-shop digital convenience store. Being our franchisee partner enables you to own the World’s Biggest E-Mall with a wide range of products and services. 
@@ -359,7 +359,7 @@
                       Trust and Respect
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                      The Toshani channel partnership is in line with the Government’s vision of financial, digital, and social inclusion as well as skill development and employment generation. Partnering with us helps you to receive Trust and Respect within your community.
+                      The AWS Connect  partnership is in line with the Government’s vision of financial, digital, and social inclusion as well as skill development and employment generation. Partnering with us helps you to receive Trust and Respect within your community.
                     </p>
                     </div>
                   </div>
@@ -374,7 +374,7 @@
                       Trust and Respect
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                      The Toshani channel partnership is in line with the Government’s vision of financial, digital, and social inclusion as well as skill development and employment generation. Partnering with us helps you to receive Trust and Respect within your community. 
+                      The AWS Connect  partnership is in line with the Government’s vision of financial, digital, and social inclusion as well as skill development and employment generation. Partnering with us helps you to receive Trust and Respect within your community. 
                     </p>
                     </div>
                   </div>
@@ -397,7 +397,7 @@
                       Attractive ROI and Quick Payback of CAPEX
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                      Toshani Channel partnership business model has evolved to give Attractive ROI and Quick Payback of Capex in the retail and service industry. 
+                      AWS Connect  partnership business model has evolved to give Attractive ROI and Quick Payback of Capex in the retail and service industry. 
                     </p>
                     </div>
                   </div>
@@ -412,7 +412,7 @@
                       Attractive ROI and Quick Payback of CAPEX
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                      Toshani Channel partnership business model has evolved to give Attractive ROI and Quick Payback of Capex in the retail and service industry. 
+                      AWS Connect  partnership business model has evolved to give Attractive ROI and Quick Payback of Capex in the retail and service industry. 
                     </p>
                     </div>
                   </div>
