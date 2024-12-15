@@ -44,10 +44,10 @@
         <div class="w-1/2 flex flex-col justify-center items-center text-center p-6">
             <div>
                 <!-- Logo -->
-                <img src="https://via.placeholder.com/150/FF0000/FFFFFF?text=Logo" alt="Logo" class="w-32 mb-4 mx-auto">
+                <img src="<?php echo $baseUrl ?>/ing/LOGO.png" alt="Logo" class="w-32 mb-4 mx-auto">
             </div>
             <!-- Title -->
-            <h2 class="text-red-600 font-bold text-xl">Toshani</h2>
+            <h2 class="text-red-600 font-bold text-xl">AWS Connect </h2>
             <h3 class="text-red-500 font-semibold mb-2">A Trusted Partner for Banking, Insurance & Financial Services</h3>
             <!-- Description -->
             <p class="text-gray-600 leading-relaxed">
@@ -270,7 +270,7 @@
 
           <div>
           <label class="block text-gray-700 font-medium mb-2">
-          How did you come to know about Toshani?
+          How did you come to know about AWS Connect ?
   </label>
 
   <select name="" id=""  class="block p-3 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 shadow-sm focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500 dark:shadow-sm-light"> 
