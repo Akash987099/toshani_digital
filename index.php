@@ -387,6 +387,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
         </div>
         <!-- end of col -->
       </div>
+      
       <div class="py-12 z-4">
         <div
           class="container mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
