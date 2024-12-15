@@ -2,8 +2,7 @@
        require "../header.php";
 ?>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/brands.min.css" integrity="sha512-7rXIvd/xj1FnI2zKQjjXzDFxC4twqBByp8yxOgEQJs4C/aNzNyoQsOO7VxH0RgYNhbAYLJLwzqslaP50KTTHIQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-        <!-- Header -->
+<!-- Header -->
    
         <br><br>
 
@@ -288,7 +287,7 @@
         <div class="flex flex-col pb-10 justify-end h-full">
           <!-- Icon -->
           <div class="card-icon text-center">
-          <i class="fa fa-building-o fa-2x mb-4 text-primary"></i>
+          <i class="fa fa-building-o" aria-hidden="true"></i>
           </div>
           <!-- Content -->
           <div class="flex flex-col items-start text-content">
@@ -313,25 +312,30 @@
               <div class="flip-card-inner">
                 <div class="flip-card-front px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                  
+                  <div class="card-icon text-center">
+          <i class="fa fa-building-o" aria-hidden="true"></i>
+          </div>
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
-                      Shutdown of Regular ATMs
+                      Agency or a distributorship of various Services
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                      Kiosk ATMs will grow because 50% regular ATMs will shutdown as banks struggle to manage cost of the software and equipment upgrades mandated by RBI.
+                      Through Toshani, the channel Partner get agency or a distributorship of various services such as Banking, KIOSK ATM, White level Services, API services and Digital platforms for single stop shop amongst others under one roof. 
                     </p>
                     </div>
                   </div>
                 </div>
                 <div class="flip-card-back px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
+                  <div class="card-icon text-center">
+          <i class="fa fa-building-o" aria-hidden="true"></i>
+          </div>
                   <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                      Shutdown of Regular ATMs
+                      Agency or a distributorship of various Services
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                      Kiosk ATMs will grow because 50% regular ATMs will shutdown as banks struggle to manage cost of the software and equipment upgrades mandated by RBI.  
+                      Through Toshani, the channel Partner get agency or a distributorship of various services such as Banking, KIOSK ATM, White level Services, API services and Digital platforms for single stop shop amongst others under one roof. 
                     </p>
                     </div>
                   </div>
@@ -347,25 +351,30 @@
               <div class="flip-card-inner">
                 <div class="flip-card-front px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                    
+                  <div class="card-icon text-center">
+          <i class="fa fa-building-o" aria-hidden="true"></i>
+          </div>
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
-                      Services beyond cash withdrawals
+                      Trust and Respect
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                      Enable non-banking services such as Balance Enquiry, Mini Statement and other services, using our Kiosk ATMs, apart from cash withdrawal services as Toshani Channel Partner.
+                      The Toshani channel partnership is in line with the Government’s vision of financial, digital, and social inclusion as well as skill development and employment generation. Partnering with us helps you to receive Trust and Respect within your community.
                     </p>
                     </div>
                   </div>
                 </div>
                 <div class="flip-card-back px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
+                  <div class="card-icon text-center">
+          <i class="fa fa-building-o" aria-hidden="true"></i>
+          </div>
                    <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                      Services beyond cash withdrawals
+                      Trust and Respect
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                      Enable non-banking services such as Balance Enquiry, Mini Statement and other services, using our Kiosk ATMs, apart from cash withdrawal services as Toshani Channel Partner. 
+                      The Toshani channel partnership is in line with the Government’s vision of financial, digital, and social inclusion as well as skill development and employment generation. Partnering with us helps you to receive Trust and Respect within your community. 
                     </p>
                     </div>
                   </div>
@@ -380,26 +389,30 @@
               <div class="flip-card-inner">
                 <div class="flip-card-front px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                  
+                  <div class="card-icon text-center">
+          <i class="fa fa-building-o" aria-hidden="true"></i>
+          </div>
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
-                      Earn handsome extra income
+                      Attractive ROI and Quick Payback of CAPEX
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                      Excel in your business by working with us as a Channel Partner, and earn extra income from your own premises / business. 
+                      Toshani Channel partnership business model has evolved to give Attractive ROI and Quick Payback of Capex in the retail and service industry. 
                     </p>
                     </div>
                   </div>
                 </div>
                 <div class="flip-card-back px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                 
+                  <div class="card-icon text-center">
+          <i class="fa fa-building-o" aria-hidden="true"></i>
+          </div>
                     <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                      Earn handsome extra income
+                      Attractive ROI and Quick Payback of CAPEX
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                      Excel in your business by working with us as a Channel Partner, and earn extra income from your own premises / business. 
+                      Toshani Channel partnership business model has evolved to give Attractive ROI and Quick Payback of Capex in the retail and service industry. 
                     </p>
                     </div>
                   </div>
@@ -415,25 +428,30 @@
               <div class="flip-card-inner">
                 <div class="flip-card-front px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
-                 
+                  <div class="card-icon text-center">
+          <i class="fa fa-building-o" aria-hidden="true"></i>
+          </div>
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
-                      Get a better recognition
+                      Last Mile Infrastructure and Technology Support
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                      Get better recognition, enhance your reach and services, and grow your business by becoming a Toshani's Franchisee / Channel Partner.
+                      Our organization structure enables us to render Last Mile Infrastructure and Technology Support, ensuring a smooth and seamless delivery of services
                     </p>
                     </div>
                   </div>
                 </div>
                 <div class="flip-card-back px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
+                  <div class="card-icon text-center">
+          <i class="fa fa-building-o" aria-hidden="true"></i>
+          </div>
                     <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                      Get a better recognition
+                      Last Mile Infrastructure and Technology Support
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                      Get better recognition, enhance your reach and services, and grow your business by becoming a Toshani's Franchisee / Channel Partner.  
+                      Our organization structure enables us to render Last Mile Infrastructure and Technology Support, ensuring a smooth and seamless delivery of services
                     </p>
                     </div>
                   </div>
@@ -449,24 +467,30 @@
               <div class="flip-card-inner">
                 <div class="flip-card-front px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
+                  <div class="card-icon text-center">
+          <i class="fa fa-building-o" aria-hidden="true"></i>
+          </div>
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
-                      Serve for the social cause
+                      OPEX and CAPEX Model
                       </h5>
                       <p class="tracking-wider text-sm text-left">
-                      We aim to reach the common masses in rural & semi-rural markets. Serve for this social cause by becoming a Toshani's Channel Partner.  
+                      As a key to standardising the outlets, Opex and Capex will be provided to the Channel Partners on Custodian Basis by Toshani on real Time Commission and settlement. The Kiosk ATM business will drive a lucrative return on investment.
                     </p>
                     </div>
                   </div>
                 </div>
                 <div class="flip-card-back px-8">
                   <div class="flex flex-col pb-10 justify-end h-full">
+                  <div class="card-icon text-center">
+          <i class="fa fa-building-o" aria-hidden="true"></i>
+          </div>
                    <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
-                      Serve for the social cause
+                      OPEX and CAPEX Model
                       </h5>
                       <p class="tracking-wider text-white text-sm text-left">
-                      We aim to reach the common masses in rural & semi-rural markets. Serve for this social cause by becoming a Toshani's Channel Partner. 
+                      As a key to standardising the outlets, Opex and Capex will be provided to the Channel Partners on Custodian Basis by Toshani on real Time Commission and settlement. The Kiosk ATM business will drive a lucrative return on investment. 
                     </p>
                     </div>
                   </div>
