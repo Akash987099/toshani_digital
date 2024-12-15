@@ -247,6 +247,249 @@
     <!-- end of Service section -->
 
 
+    <div class="pt-4 pb-14 text-center">
+        <div class="  xl:mr-12">
+                    <p class="p-title">Become our Channel Partner</p>
+                    <h1 class="h1-large mb-5">Why AWS Connect Channel Partner?</h1>
+                    <p class="p-large mb-8">Spread smiles to every customer who enters your shop with premium Digital solutions for Banking, Financial and Insurance services. Serve the society for a good cause & earn better profitability from your business.</p>
+                    <!-- <a class="btn-solid-lg secondary" href="apply-for-toshani-channel-partner/index.php">Become a Channel Partner</a> -->
+                </div>
+        </div>
+
+        <div class="max-w-screen-xl mx-auto my-16">
+        <div class="grid grid-cols-3 gap-8">
+          <!-- Card -->
+         <div class="flip-container border border-solid ">
+  <div class="flip-card">
+    <div class="flip-card-inner">
+      <!-- Flip Card Front -->
+      <div class="flip-card-front px-8">
+        <div class="flex flex-col pb-10 justify-end h-full">
+          <!-- Icon -->
+         
+          <!-- Content -->
+          <div class="flex flex-col items-start text-content">
+            <h5 class="text-primary font-semibold text-lg">
+            Accept Payment without cash
+            </h5>
+            <p class="tracking-wider text-sm text-left">
+            Accept payments through payment cards (credit cards, debit cards, gift cards etc.) using the POS machines at your premises and increase your sales.      
+        </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Flip Card Back -->
+      <div class="flip-card-back px-8">
+        <div class="flex flex-col pb-10 justify-end h-full">
+          <!-- Icon -->
+          
+          <!-- Content -->
+          <div class="flex flex-col items-start text-content">
+            <h5 class="text-white font-semibold text-lg">
+            Accept Payment without cash
+            </h5>
+            <p class="tracking-wider text-white text-sm text-left">
+            Accept payments through payment cards (credit cards, debit cards, gift cards etc.) using the POS machines at your premises and increase your sales.      
+        </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+          <!-- end of card -->
+
+          <!-- Card -->
+          <div class="flip-container border border-solid">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                  
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                      Shutdown of Regular ATMs
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                      Kiosk ATMs will grow because 50% regular ATMs will shutdown as banks struggle to manage cost of the software and equipment upgrades mandated by RBI.
+                    </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                  <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                      Shutdown of Regular ATMs
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                      Kiosk ATMs will grow because 50% regular ATMs will shutdown as banks struggle to manage cost of the software and equipment upgrades mandated by RBI.  
+                    </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end of card -->
+
+
+          <div class="flip-container border border-solid">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                      Services beyond cash withdrawals
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                      Enable non-banking services such as Balance Enquiry, Mini Statement and other services, using our Kiosk ATMs, apart from cash withdrawal services as Toshani Channel Partner.
+                    </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                   <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                      Services beyond cash withdrawals
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                      Enable non-banking services such as Balance Enquiry, Mini Statement and other services, using our Kiosk ATMs, apart from cash withdrawal services as Toshani Channel Partner. 
+                    </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card -->
+          <div class="flip-container border border-solid">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                  
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                      Earn handsome extra income
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                      Excel in your business by working with us as a Channel Partner, and earn extra income from your own premises / business. 
+                    </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                 
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                      Earn handsome extra income
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                      Excel in your business by working with us as a Channel Partner, and earn extra income from your own premises / business. 
+                    </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end of card -->
+
+          <!-- Card -->
+          <div class="flip-container border border-solid">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                 
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                      Get a better recognition
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                      Get better recognition, enhance your reach and services, and grow your business by becoming a Toshani's Franchisee / Channel Partner.
+                    </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                      Get a better recognition
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                      Get better recognition, enhance your reach and services, and grow your business by becoming a Toshani's Franchisee / Channel Partner.  
+                    </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end of card -->
+
+          <!-- Card -->
+          <div class="flip-container border border-solid h-auto">
+            <div class="flip-card">
+              <div class="flip-card-inner">
+                <div class="flip-card-front px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                    <div class="flex flex-col items-start">
+                      <h5 class="text-primary font-semibold text-lg">
+                      Serve for the social cause
+                      </h5>
+                      <p class="tracking-wider text-sm text-left">
+                      We aim to reach the common masses in rural & semi-rural markets. Serve for this social cause by becoming a Toshani's Channel Partner.  
+                    </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="flip-card-back px-8">
+                  <div class="flex flex-col pb-10 justify-end h-full">
+                   <div class="flex flex-col items-start">
+                      <h5 class="text-white font-semibold text-lg">
+                      Serve for the social cause
+                      </h5>
+                      <p class="tracking-wider text-white text-sm text-left">
+                      We aim to reach the common masses in rural & semi-rural markets. Serve for this social cause by becoming a Toshani's Channel Partner. 
+                    </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end of card -->
+        </div>
+        <!-- end of container -->
+
+        <br>
+                <button
+                style="background-color: red"
+                type="submit"
+                class="py-3 px-5 text-sm font-medium text-center text-white rounded-lg bg-danger-700 sm:w-fit hover:bg-danger-800 focus:ring-4 focus:outline-none focus:ring-danger-300 dark:bg-danger-600 dark:hover:bg-danger-700 dark:focus:ring-danger-800"
+              >
+                Apply
+              </button>
+
+              <br>
+              <br>
+              
+      </div>
+    </div>
+    <!-- end of Service section -->
+
+
+
 
               <div class="  xl:mr-12">
                     <p class="p-title">Become our Channel Partner</p>
