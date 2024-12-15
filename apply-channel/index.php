@@ -589,6 +589,83 @@
     </section>
 
 
+    
+    <!-- Details 1 -->
+    <div id="details" class="relative pt-12 relative pb-8 lg:pt-16">
+     
+      
+      <div class="py-12 z-4">
+        <div
+          class="container mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
+        >
+          <!-- Happy Customers -->
+          <div class="text-center bg-white p-4 shadow-lg rounded-lg">
+            <div class="flex justify-center items-center mb-4">
+              <div class="bg-gray-100 p-4 rounded-full">
+                <i class="fas fa-users text-blue-500 text-4xl"></i>
+              </div>
+            </div>
+            <div>
+              <span
+                id="counter-happy-customers"
+                class="text-4xl font-bold text-gray-800"
+                >0</span
+              >
+            </div>
+            <p class="mt-2 text-gray-600">Happy Customers</p>
+          </div>
+          <!-- Enthusiastic Employees -->
+          <div class="text-center p-4 shadow-lg bg-white rounded-lg">
+            <div class="flex justify-center items-center mb-4">
+              <div class="bg-gray-100 p-4 rounded-full">
+                <i class="fas fa-users-cog text-green-500 text-4xl"></i>
+              </div>
+            </div>
+            <div>
+              <span
+                id="counter-employees"
+                class="text-4xl font-bold text-gray-800"
+                >0</span
+              >
+            </div>
+            <p class="mt-2 text-gray-600">Enthusiastic Employees</p>
+          </div>
+          <!-- KIOSK Centers -->
+          <div class="text-center p-4 bg-white shadow-lg rounded-lg">
+            <div class="flex justify-center items-center mb-4">
+              <div class="bg-gray-100 p-4 rounded-full">
+                <i class="fas fa-university text-purple-500 text-4xl"></i>
+              </div>
+            </div>
+            <div>
+              <span id="counter-kiosk" class="text-4xl font-bold text-gray-800"
+                >0</span
+              ><span class="text-2xl font-bold text-gray-800">+</span>
+            </div>
+            <p class="mt-2 text-gray-600">KIOSK Centers</p>
+          </div>
+          <!-- Digital Centers -->
+          <div class="text-center p-4 shadow-lg bg-white rounded-lg">
+            <div class="flex justify-center items-center mb-4">
+              <div class="bg-gray-100 p-4 rounded-full">
+                <i class="fas fa-server text-red-500 text-4xl"></i>
+              </div>
+            </div>
+            <div>
+              <span
+                id="counter-digital-centers"
+                class="text-4xl font-bold text-gray-800"
+                >0</span
+              ><span class="text-2xl font-bold text-gray-800">+</span>
+            </div>
+            <p class="mt-2 text-gray-600">Digital Centers</p>
+          </div>
+        </div>
+      </div>
+    
+    </div>
+    <!-- end of details 1 -->
+
     <!-- FontAwesome for Icons -->
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 
