@@ -530,7 +530,7 @@
             <img
               class="inline"
               width="500"
-              src="inag/abour-5.jpg"
+              src="../inag/abour-5.jpg"
               alt="alternative"
             />
           </div>
