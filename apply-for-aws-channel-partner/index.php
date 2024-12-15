@@ -266,15 +266,17 @@
       <div class="flip-card-front px-8">
         <div class="flex flex-col pb-10 justify-end h-full">
           <!-- Icon -->
-         
+          <div class="card-icon text-center">
+          <i aria-hidden="true" class="icon icon-apartment1"></i>
+          </div>
           <!-- Content -->
           <div class="flex flex-col items-start text-content">
             <h5 class="text-primary font-semibold text-lg">
-            Accept Payment without cash
+            Benefits of becoming Toshani Channel Partner
             </h5>
             <p class="tracking-wider text-sm text-left">
-            Accept payments through payment cards (credit cards, debit cards, gift cards etc.) using the POS machines at your premises and increase your sales.      
-        </p>
+            We are a technology-driven company, which emerged as a one-stop-shop digital convenience store. Being our franchisee partner enables you to own the World’s Biggest E-Mall with a wide range of products and services. 
+          </p>
           </div>
         </div>
       </div>
@@ -283,15 +285,17 @@
       <div class="flip-card-back px-8">
         <div class="flex flex-col pb-10 justify-end h-full">
           <!-- Icon -->
-          
+          <div class="card-icon text-center">
+          <i aria-hidden="true" class="icon icon-apartment1"></i>
+          </div>
           <!-- Content -->
           <div class="flex flex-col items-start text-content">
             <h5 class="text-white font-semibold text-lg">
-            Accept Payment without cash
+            Benefits of becoming Toshani Channel Partner
             </h5>
             <p class="tracking-wider text-white text-sm text-left">
-            Accept payments through payment cards (credit cards, debit cards, gift cards etc.) using the POS machines at your premises and increase your sales.      
-        </p>
+            We are a technology-driven company, which emerged as a one-stop-shop digital convenience store. Being our franchisee partner enables you to own the World’s Biggest E-Mall with a wide range of products and services. 
+          </p>
           </div>
         </div>
       </div>
