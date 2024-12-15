@@ -267,7 +267,7 @@
         <div class="flex flex-col pb-10 justify-end h-full">
           <!-- Icon -->
           <div class="card-icon text-center">
-          <i aria-hidden="true" class="icon icon-apartment1"></i>
+          <i class="fa fa-building fa-2x mb-4 text-primary" aria-hidden="true"></i>
           </div>
           <!-- Content -->
           <div class="flex flex-col items-start text-content">
@@ -286,7 +286,7 @@
         <div class="flex flex-col pb-10 justify-end h-full">
           <!-- Icon -->
           <div class="card-icon text-center">
-          <i aria-hidden="true" class="icon icon-apartment1"></i>
+          <i class="fa fa-building fa-2x mb-4 text-primary" aria-hidden="true"></i>
           </div>
           <!-- Content -->
           <div class="flex flex-col items-start text-content">
