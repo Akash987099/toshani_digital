@@ -44,7 +44,7 @@
         <div class="w-1/2 flex flex-col justify-center items-center text-center p-6">
             <div>
                 <!-- Logo -->
-                <img src="<?php echo $baseUrl ?>/ing/LOGO.png" alt="Logo" class="w-32 mb-4 mx-auto">
+                <img src="<?php echo $baseUrl ?>/inag/LOGO.png" alt="Logo" class="w-32 mb-4 mx-auto">
             </div>
             <!-- Title -->
             <h2 class="text-red-600 font-bold text-xl">AWS Connect </h2>
