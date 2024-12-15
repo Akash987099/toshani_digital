@@ -15,7 +15,7 @@ $normalURL = "https://demo.digiprologue.com/";
     <!-- SEO Meta Tags -->
     <meta
       name="description"
-      content="Pavo is a mobile app Tailwind CSS HTML template created to help you present benefits, features and information about mobile apps in order to convince visitors to download them"
+      content="AWS Connect India Created by AWC"
     />
     <meta name="author" content="Your name" />
     <!-- OG Meta Tags to improve the way the post looks when you share the page on Facebook, Twitter, LinkedIn -->
@@ -43,7 +43,7 @@ $normalURL = "https://demo.digiprologue.com/";
       href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap"
       rel="stylesheet"
     />
-    <link href="css/fontawesome-all.css" rel="stylesheet" />
+    <link href="<?php echo $baseUrl ?>/css/fontawesome-all.css" rel="stylesheet" />
     <link
       href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
       rel="stylesheet"

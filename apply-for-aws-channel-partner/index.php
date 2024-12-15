@@ -520,24 +520,7 @@
 
 
         <div id="details" class="relative pt-12 relative pb-8 lg:pt-16">
-      <div
-        class="max-w-screen-xl mx-auto justify-between items-center lg:grid lg:grid-cols-12 lg:gap-x-12"
-      >
-       
-        <!-- end of col -->
-        <div class="lg:col-span-6">
-          <div class="xl:ml-14">
-            <img
-              class="inline"
-              width="500"
-              src="../inag/abour-5.jpg"
-              alt="alternative"
-            />
-          </div>
-        </div>
-        <!-- end of col -->
-      </div>
-      
+    
       <div class="py-12 z-4">
         <div
           class="container mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
