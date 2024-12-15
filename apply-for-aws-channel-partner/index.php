@@ -23,7 +23,7 @@
     <div class="flip-card-inner">
       <!-- Flip Card Front -->
       <div class="flip-card-front px-8">
-        <div class="flex flex-col pb-10 justify-end h-full">
+        <div class="flex flex-col justify-end h-full">
           <!-- Icon -->
          
           <!-- Content -->
@@ -40,7 +40,7 @@
 
       <!-- Flip Card Back -->
       <div class="flip-card-back px-8">
-        <div class="flex flex-col pb-10 justify-end h-full">
+        <div class="flex flex-col justify-end h-full">
           <!-- Icon -->
           
           <!-- Content -->
@@ -65,7 +65,7 @@
             <div class="flip-card">
               <div class="flip-card-inner">
                 <div class="flip-card-front px-8">
-                  <div class="flex flex-col pb-10 justify-end h-full">
+                  <div class="flex flex-col  justify-end h-full">
                   
                     <div class="flex flex-col items-start">
                       <h5 class="text-primary font-semibold text-lg">
@@ -78,7 +78,7 @@
                   </div>
                 </div>
                 <div class="flip-card-back px-8">
-                  <div class="flex flex-col pb-10 justify-end h-full">
+                  <div class="flex flex-col  justify-end h-full">
                   <div class="flex flex-col items-start">
                       <h5 class="text-white font-semibold text-lg">
                       Shutdown of Regular ATMs
