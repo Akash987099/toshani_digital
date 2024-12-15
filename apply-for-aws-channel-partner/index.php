@@ -519,66 +519,11 @@
     <!-- end of Service section -->
 
 
-
-
-          
-
-
-        <!-- Statistics -->
-        <div class="counter">
-            <div class="container px-4 sm:px-8">
-                
-                <!-- Counter -->
-                <div id="counter">
-                    <div class="cell">
-                        <div class="counter-value number-count" data-count="231">1</div>
-                        <p class="counter-info">Happy Users</p>
-                    </div>
-                    <div class="cell">
-                        <div class="counter-value number-count" data-count="385">1</div>
-                        <p class="counter-info">Issues Solved</p>
-                    </div>
-                    <div class="cell">
-                        <div class="counter-value number-count" data-count="159">1</div>
-                        <p class="counter-info">Good Reviews</p>
-                    </div>
-                    <div class="cell">
-                        <div class="counter-value number-count" data-count="127">1</div>
-                        <p class="counter-info">Case Studies</p>
-                    </div>
-                    <div class="cell">
-                        <div class="counter-value number-count" data-count="211">1</div>
-                        <p class="counter-info">Orders Received</p>
-                    </div>
-                </div>
-                <!-- end of counter -->
-
-            </div> <!-- end of container -->
-        </div> <!-- end of counter -->
-        <!-- end of statistics -->
-
         <div id="details" class="relative pt-12 relative pb-8 lg:pt-16">
       <div
         class="max-w-screen-xl mx-auto justify-between items-center lg:grid lg:grid-cols-12 lg:gap-x-12"
       >
-        <div class="lg:col-span-6">
-          <div class="mb-16 lg:mb-0 xl:mt-16">
-            <h2 class="mb-6 text-primary font-medium text-3xl"><strong>About Us</strong></h2>
-            <p class="mb-4">
-            Aws Nextstep Pvt.ltd was established in 2020 as a Technology company. Within a decade it has grown to become a flagship distribution organization in Digital financial Inclusion of “Bharat”. Aws Nextstep offers smart and sustainable technology solutions that are easily applicable and adaptable across industries. We welcome fresh ideas into our organization for growth of Aws Nextstep. We adopt an integral approach toward solutions and use the simplest knowledge-sharing methodologies to nature an environment of growth
-
-We aggregates various financial services and provides to 500 Mn people at bottom half of pyramid through a network of retailers acquired in bulk via Corporate tie-ups. Cash deposit, Cash withdrawal, Insurance, loan, etc. Rural population need assisted self-service and assisted full-service options. Mobile based organisations, kiosk based organizations, both in rural and urban India...
-
-
-            </p>
-            <button
-              class="bg-primary text-white rounded hover:bg-secondary font-semibold text-lg px-6 py-3"
-            >
-              <a href="https://demo.digiprologue.com/about.php">Read More</a>
-            </button>
-          </div>
-        </div>
-
+       
         <!-- end of col -->
         <div class="lg:col-span-6">
           <div class="xl:ml-14">
@@ -661,8 +606,7 @@ We aggregates various financial services and provides to 500 Mn people at bottom
           </div>
         </div>
       </div>
-      <image src="./images/bg.svg" class="background-image" />
-      <!-- end of container -->
+      
     </div>
     <!-- end of details 1 -->
 
