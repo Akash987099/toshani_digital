@@ -250,8 +250,8 @@
     <div class="pt-4 pb-14 text-center">
         <div class="  xl:mr-12">
                     <p class="p-title">Become our Channel Partner</p>
-                    <h1 class="h1-large mb-5">Why AWS Connect Channel Partner?</h1>
-                    <p class="p-large mb-8">Spread smiles to every customer who enters your shop with premium Digital solutions for Banking, Financial and Insurance services. Serve the society for a good cause & earn better profitability from your business.</p>
+                    <h1 class="h1-large mb-5">Benefits of becoming Toshani Channel Partner</h1>
+                    <!-- <p class="p-large mb-8"></p> -->
                     <!-- <a class="btn-solid-lg secondary" href="apply-for-toshani-channel-partner/index.php">Become a Channel Partner</a> -->
                 </div>
         </div>
