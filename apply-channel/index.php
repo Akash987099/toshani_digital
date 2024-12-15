@@ -3,39 +3,40 @@
       require "../header.php";
 ?>
 
-    <div class="flex justify-center items-center min-h-screen">
+
+<div class="flex justify-center items-center min-h-screen">
         <!-- Left Side Buttons -->
         <div class="w-1/2 p-4">
             <div class="space-y-4">
-                <!-- Button Items -->
-                <div class="flex items-center bg-indigo-900 text-white rounded-lg shadow-md px-4 py-3">
+                <!-- Button Items with Anchor Tags -->
+                <a href="#" class="flex items-center bg-indigo-900 text-white rounded-lg shadow-md px-4 py-3 hover:bg-green-500 transition duration-300">
                     <i class="fas fa-university text-lg"></i>
                     <span class="ml-4">Become a Banker Immediately</span>
-                </div>
-                <div class="flex items-center bg-indigo-900 text-white rounded-lg shadow-md px-4 py-3">
+                </a>
+                <a href="#" class="flex items-center bg-indigo-900 text-white rounded-lg shadow-md px-4 py-3 hover:bg-green-500 transition duration-300">
                     <i class="fas fa-globe text-lg"></i>
                     <span class="ml-4">Start Kiosk ATM Franchisee Partnership</span>
-                </div>
-                <div class="flex items-center bg-indigo-900 text-white rounded-lg shadow-md px-4 py-3">
+                </a>
+                <a href="#" class="flex items-center bg-indigo-900 text-white rounded-lg shadow-md px-4 py-3 hover:bg-green-500 transition duration-300">
                     <i class="fas fa-file-alt text-lg"></i>
                     <span class="ml-4">Start Kiosk ATM Distributorship</span>
-                </div>
-                <div class="flex items-center bg-indigo-900 text-white rounded-lg shadow-md px-4 py-3">
+                </a>
+                <a href="#" class="flex items-center bg-indigo-900 text-white rounded-lg shadow-md px-4 py-3 hover:bg-green-500 transition duration-300">
                     <i class="fas fa-sitemap text-lg"></i>
                     <span class="ml-4">Be a Digital Convenience Distributor</span>
-                </div>
-                <div class="flex items-center bg-indigo-900 text-white rounded-lg shadow-md px-4 py-3">
+                </a>
+                <a href="#" class="flex items-center bg-indigo-900 text-white rounded-lg shadow-md px-4 py-3 hover:bg-green-500 transition duration-300">
                     <i class="fas fa-laptop text-lg"></i>
                     <span class="ml-4">Start your White Label Dashboard</span>
-                </div>
-                <div class="flex items-center bg-indigo-900 text-white rounded-lg shadow-md px-4 py-3">
+                </a>
+                <a href="#" class="flex items-center bg-indigo-900 text-white rounded-lg shadow-md px-4 py-3 hover:bg-green-500 transition duration-300">
                     <i class="fas fa-cogs text-lg"></i>
                     <span class="ml-4">Customised API services partnership</span>
-                </div>
-                <div class="flex items-center bg-indigo-900 text-white rounded-lg shadow-md px-4 py-3">
+                </a>
+                <a href="#" class="flex items-center bg-indigo-900 text-white rounded-lg shadow-md px-4 py-3 hover:bg-green-500 transition duration-300">
                     <i class="fas fa-calculator text-lg"></i>
                     <span class="ml-4">Tally Prime Services and Customization</span>
-                </div>
+                </a>
             </div>
         </div>
 
