@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tailwind CSS Design</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-gray-100">
+
+<?php
+      require "../header.php";
+?>
+
     <div class="flex justify-center items-center min-h-screen">
         <!-- Left Side Buttons -->
         <div class="w-1/2 p-4">
@@ -63,5 +59,8 @@
 
     <!-- FontAwesome for Icons -->
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-</body>
-</html>
+
+
+    <?php
+        require '../footer.php';
+    ?>
