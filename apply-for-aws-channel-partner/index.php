@@ -65,9 +65,9 @@
             <div class="flip-card">
               <div class="flip-card-inner">
                 <div class="flip-card-front px-8">
-                  <div class="flex flex-col  justify-end h-full">
+                  <div class="flex justify-end h-full">
                   
-                    <div class="flex flex-col items-start">
+                    <div class="flex items-start">
                       <h5 class="text-primary font-semibold text-lg">
                       Shutdown of Regular ATMs
                       </h5>
@@ -78,8 +78,8 @@
                   </div>
                 </div>
                 <div class="flip-card-back px-8">
-                  <div class="flex flex-col  justify-end h-full">
-                  <div class="flex flex-col items-start">
+                  <div class="flex  justify-end h-full">
+                  <div class="flex  items-start">
                       <h5 class="text-white font-semibold text-lg">
                       Shutdown of Regular ATMs
                       </h5>
